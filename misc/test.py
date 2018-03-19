@@ -32,7 +32,7 @@ def fetch_places(city):
 
     return places
 
-# def get_user_location():
+# def get_user_location():0
 #     # None if user does not want to give his location or if user is too far away
 #     return (26.914125, 75.804636)
 
