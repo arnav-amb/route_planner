@@ -39,24 +39,24 @@ latitude = late['lat']
 longitute = late['lng']
 place_id= newcontent["place_id"]
 
-# for x in content: 
+# for x in content:
 # 	for y in content[1]:
 # 		print(y)
-# 		print("\n")			
+# 		print("\n")
 #getObjects(content,"gemeotry","location")
 #id=content[53][23:50]
 #res_dic = json.loads(content.results)
 #id = res_dict['place_id']
-
-#place_ask = 'key={}&place_id={}'.format(api_key,place_id)
-
-#request_2 = endpoint + place_ask
-
-#r_2=requests.get(request_2)
-#print(r_2)
-#f=open('user.json','w+')
-#f.write(r_2.text)
-#f.close()
+#
+# place_ask = 'key={}&place_id={}'.format(api_key,place_id)
+#
+# request_2 = endpoint + place_ask
+#
+# r_2=requests.get(request_2)
+# print(r_2)
+# f=open('user.json','w+')
+# f.write(r_2.text)
+# f.close()
 
 #near_by='https://maps.googleapis.com/maps/api/place/nearbysearch/json?'
 
@@ -73,12 +73,10 @@ place_id= newcontent["place_id"]
 path='https://maps.googleapis.com/maps/api/directions/json?'
 
 app_key='AIzaSyAqwxsqZQbDezGD_V-egxM4kxzm-0bpQ_8'
-path_var='origin={}&destination={}&key={}'.format('hawa mahal','jal mahal',app_key)
+path_var='origin={}&destination={}&key={}'.format('hawa mahal','jal mahal',api_key)
 
 request_3 = path + path_var
 r_3=requests.get(request_3)
 f=open('places.json','w+')
 f.write(r_3.text)
 f.close()
-
-

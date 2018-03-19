@@ -1,5 +1,157 @@
 {
-   "error_message" : "This API project is not authorized to use this API. Please ensure this API is activated in the Google Developers Console: https://console.developers.google.com/apis/api/directions_backend?project=_",
-   "routes" : [],
-   "status" : "REQUEST_DENIED"
+   "geocoded_waypoints" : [
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJpQvTG0uxbTkRDLLMHlNdDoY",
+         "types" : [ "establishment", "point_of_interest", "premise" ]
+      },
+      {
+         "geocoder_status" : "OK",
+         "place_id" : "ChIJlXJ26RuxbTkR0qsToxFP05c",
+         "types" : [ "establishment", "museum", "point_of_interest" ]
+      }
+   ],
+   "routes" : [
+      {
+         "bounds" : {
+            "northeast" : {
+               "lat" : 26.9540591,
+               "lng" : 75.84243979999999
+            },
+            "southwest" : {
+               "lat" : 26.9238745,
+               "lng" : 75.8270443
+            }
+         },
+         "copyrights" : "Map data ©2018 Google",
+         "legs" : [
+            {
+               "distance" : {
+                  "text" : "3.9 km",
+                  "value" : 3937
+               },
+               "duration" : {
+                  "text" : "13 mins",
+                  "value" : 773
+               },
+               "end_address" : "Amer Road, Jaipur, Rajasthan 302002, India",
+               "end_location" : {
+                  "lat" : 26.9540171,
+                  "lng" : 75.8424397
+               },
+               "start_address" : "Hawa Mahal Rd, Badi Choupad, J.D.A. Market, Kanwar Nagar, Jaipur, Rajasthan 302002, India",
+               "start_location" : {
+                  "lat" : 26.9238745,
+                  "lng" : 75.8270443
+               },
+               "steps" : [
+                  {
+                     "distance" : {
+                        "text" : "0.9 km",
+                        "value" : 891
+                     },
+                     "duration" : {
+                        "text" : "4 mins",
+                        "value" : 218
+                     },
+                     "end_location" : {
+                        "lat" : 26.9293619,
+                        "lng" : 75.8308158
+                     },
+                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eHawa Mahal Rd\u003c/b\u003e toward \u003cb\u003eTulsi Marg\u003c/b\u003e",
+                     "polyline" : {
+                        "points" : "eqicD_~xmMeHkAEAkCi@cCc@{Cg@cCa@aEy@iBa@ICACEGGWBQJy@RgBFc@ZqBN_A"
+                     },
+                     "start_location" : {
+                        "lat" : 26.9238745,
+                        "lng" : 75.8270443
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.6 km",
+                        "value" : 554
+                     },
+                     "duration" : {
+                        "text" : "2 mins",
+                        "value" : 109
+                     },
+                     "end_location" : {
+                        "lat" : 26.9338381,
+                        "lng" : 75.83308510000001
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eOld Amer Rd\u003c/b\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "osjcDsuymMSGOEMGWQSMc@UQMOIy@_@IGSOSQ[S[OA?]Q]Oa@Ow@SaEcAWGOCoCw@IEGCGCECCA?CAA?A?A?G"
+                     },
+                     "start_location" : {
+                        "lat" : 26.9293619,
+                        "lng" : 75.8308158
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "2.5 km",
+                        "value" : 2477
+                     },
+                     "duration" : {
+                        "text" : "7 mins",
+                        "value" : 390
+                     },
+                     "end_location" : {
+                        "lat" : 26.9540591,
+                        "lng" : 75.84229089999999
+                     },
+                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e after NIA Auditorium (on the left)\u003cdiv style=\"font-size:0.9em\"\u003ePass by SBI ATM (on the right)\u003c/div\u003e",
+                     "maneuver" : "turn-left",
+                     "polyline" : {
+                        "points" : "ookcDyczmM_@G_@EgBYeAQm@McAU]AgAk@MIu@k@wAkAQOIIs@o@eAaAYYq@s@SU]a@s@w@{@aAi@g@u@s@{@u@_@WqA}@aAm@eAq@eDkB]QQKy@e@c@Wi@Ye@KWE[Ck@Go@Ig@Gu@KQCeCa@mGw@QCmCg@q@MYCeCi@yBe@}@O}@QMC{AY}A[u@O{Cs@mE}@qI}AUG"
+                     },
+                     "start_location" : {
+                        "lat" : 26.9338381,
+                        "lng" : 75.83308510000001
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "15 m",
+                        "value" : 15
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 56
+                     },
+                     "end_location" : {
+                        "lat" : 26.9540171,
+                        "lng" : 75.8424397
+                     },
+                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
+                     "maneuver" : "uturn-right",
+                     "polyline" : {
+                        "points" : "{mocDi}{mMF]"
+                     },
+                     "start_location" : {
+                        "lat" : 26.9540591,
+                        "lng" : 75.84229089999999
+                     },
+                     "travel_mode" : "DRIVING"
+                  }
+               ],
+               "traffic_speed_entry" : [],
+               "via_waypoint" : []
+            }
+         ],
+         "overview_polyline" : {
+            "points" : "eqicD_~xmMkHmAoGmA_HiAkH{AKGM_@j@wEj@qDc@M}A}@a@WcAg@g@a@w@c@_@Q_A_@aHcBiDeAKK?C?G_@GgC_@sB_@cAU]AuAu@iDqCyBqBkAmAaDqD_B{A{@u@_@WsCkBkF}CmC{Ai@Ye@Ks@IyDe@wCe@_H{@_JcBcGkAyDu@qEcA_P{CUGF]"
+         },
+         "summary" : "Amer Rd",
+         "warnings" : [],
+         "waypoint_order" : []
+      }
+   ],
+   "status" : "OK"
 }
