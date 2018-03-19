@@ -1,6 +1,6 @@
 # Parameters
 # Number of days
-# Hor per day
+# Hour per day
 # City limit calculation
 # Cities choice
 
