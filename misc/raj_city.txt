@@ -1,0 +1,1 @@
+['jaipur','udaipur','ajmer','alwar','barmer','amer','barmer','jaisalmer','bikaner','mount abu city','pushkar','nathdwara','bhadra city','kota']
