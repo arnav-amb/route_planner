@@ -5,7 +5,7 @@ class Place:
     rating = None
     type_of = None
     city = None
-    cost= None
+    score= None
 
     def __init__(self, name, location, rating, type_of, city):
         self.name= name
@@ -14,5 +14,5 @@ class Place:
         self.type_of= type_of
         self.city= city
 
-    def set_cost(self, cost):
-        self.cost= cost
+    def set_score(self, score):
+        self.score= score

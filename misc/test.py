@@ -1,10 +1,9 @@
 from place import Place
 import numpy as np
+import operator
 
-alpha= 5
-beta= 2
-gamma= 10
-
+alpha= 20
+beta= 500
 priority={}
 priority['Monument']=1
 priority['Market']=3
@@ -14,7 +13,7 @@ places.append(Place('Jal Mahal',(100,156), 4.5, 'Monument', 'Jaipur'))
 places.append(Place('Nehru Bazaar',(96, 473), 4.0, 'Market', 'Jaipur'))
 places.append(Place('Hawa Mahal',(50, 73), 4.2, 'Monument', 'Jaipur'))
 
-current_location= (70,23)
+# current_location= (50,63)
 
 def find_distance(current_location, location):
     # Use Google Maps API to calculate distance
@@ -23,21 +22,21 @@ def find_distance(current_location, location):
 def assign_costs(places):
     for place in places:
         R= place.rating
-        T= find_distance(place.location, current_location)
         P= priority[place.type_of]
         # Cost Assigning Algorithm
-        COST = alpha*R**3 + beta/T**2 + (gamma/P)**2
-        place.set_cost(COST)
-        print(COST)
+        SCORE = alpha*(R**2) + beta/np.log(P+1)
+        place.set_score(SCORE)
+        print(SCORE)
     return places
 
 places = assign_costs(places)
 
 for place in places:
-    print(place.name+", cost: "+str(place.cost))
+    print(place.name+", score: "+str(place.score))
 
-# Sort no working
-places.sort(key = Place.cost)
+# Sort in descending order
+places.sort(key=operator.attrgetter('score'))
+places= places[::-1]
 
 for place in places:
-    print(place.name+", cost: "+str(place.cost))
+    print(place.name+", score: "+str(place.score))
