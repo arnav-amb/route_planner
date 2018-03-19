@@ -16,12 +16,21 @@ import json
 # Google Places API
 # Google Geocoding API
 
-endpoint = 'https://maps.googleapis.com/maps/api/place/details/json?'
+new_api = 'https://maps.googleapis.com/maps/api/geocode/json?'
+
 api_key = 'AIzaSyAD0tsB11_bi7ofAvU-M2S459wmPRkOlYY'
-place_request= 'name={}&key={}'.format('Jal Mahal, Jaipur', api_key)
-request = endpoint + place_request
+place_request= 'address={}&key={}'.format('jaipur', api_key)
+
+request = new_api + place_request
 # response = urllib.request.urlopen(request).read()
-response = requests.get(request)
-print(response)
-details = json.load(response)
-print(details)
+r = requests.get(request)
+print(r)
+JSONObject js = new JSONObject(r)
+id = js.getString("place_id")
+endpoint = 'https://maps.googleapis.com/maps/api/place/details/json?'
+places= 'name={}&key={}'.format(id,api_key)
+request_2 = endpoint + places
+new_res = requests.get(request_2)
+f= open('input.txt','w+')
+f.write(new_res.text)
+f.close()
