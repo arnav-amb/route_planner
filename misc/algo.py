@@ -87,7 +87,3 @@ r_3=requests.get(request_3)
 f=open('places.json','w+')
 f.write(r_3.text)
 f.close()
-<<<<<<< HEAD
-
-=======
->>>>>>> 23a64c238fe0656f6f075382990fb1d302b8ef30
