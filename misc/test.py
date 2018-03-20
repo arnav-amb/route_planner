@@ -76,7 +76,7 @@ def assign_score(places, priority, filt):
 
         # Cost Assigning Algorithm
         if F:
-            SCORE = alpha*(R**2)/P + beta/np.log(P+1)
+            SCORE = alpha*(R**2) + beta/np.log(P+1)
         else:
             SCORE = 0
         print(F,SCORE)
