@@ -31,13 +31,21 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/107464552341913999899/photos\"\u003eMonuments India Tours\u003c/a\u003e"
                ],
+<<<<<<< HEAD
                "photo_reference" : "CmRaAAAAQEuPVlyYvjY4uQSq2yQ6GTppKkhX33HQFmCZ3bqmyteWKQnLMEc1VNMWL4KFcZsyLeWarPyIB6jaXdo86Ek7_tzssh53OMWjInM5oqUqOQfh8tKdqazN8pS80N66HxKwEhBdszEWinohWPcUjiBPthuOGhQQz5xg72_70Gv5OuLaGWb11dKgzw",
+=======
+               "photo_reference" : "CmRaAAAATHB_wvCVPPeJkwgkE63yU7bhLIyJNXmzuhfwZ3xPkZvOZdsIRftN0JIyQwM5Vw7bTKgjMHPKUN2GDEHDbER5XrrB0Bt9yz_q3v-iLyDxoaArTGKmWaKuostbMbWKSW25EhBzEetDA2ZDidnvd_IaYIINGhSbbdbFKhV55CMUxpXhoFDVcQSvNw",
+>>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
                "width" : 960
             }
          ],
          "place_id" : "ChIJYVdmMse1bTkRq6dX9pXhD54",
          "rating" : 5,
+<<<<<<< HEAD
          "reference" : "CmRbAAAAO4U4Z-qPPYjZ17WKiIUjx4tG3KlwVEarO8yNwO3tUsGk9OQPaBndTspPkRw7Rd04jj99SNvGblfFdzruLakvbb2YlEU0NrW7cH2fMrwIbBeV6Y7kym5PahkusLc85PGNEhBanpCGWGd7P9Mc_dGS7OTyGhTvlcyNQSaLWvrgLNO96DtsYhEJXg",
+=======
+         "reference" : "CmRbAAAArt-dgCnfyYTkQPd6vJdcUupti6zp3iht6cdK1MNPbiBvpT1iJ07Lm7s4bouAUbG07qoLEEJe4Zy-yF6z3tpiddW-UdiC3D_DUTr8WRVKt9PxkezGaB8nMElzoNqVs4sSEhDkq8FnjN18OdP2iLfogCsFGhSJxCO9QftEy70ci5gW2cR3-8iyOw",
+>>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
          "scope" : "GOOGLE",
          "types" : [ "travel_agency", "point_of_interest", "establishment" ],
          "vicinity" : "26, First Lane, Madhav Nagar, Opposite Railway Station, Durgapura, Durgapura, Jaipur"
@@ -64,7 +72,11 @@
          "name" : "Sire Deirhi Ka Darwaza",
          "place_id" : "ChIJ5wp8TEqxbTkRtcn3T5nlc1U",
          "rating" : 1,
+<<<<<<< HEAD
          "reference" : "CmRbAAAAc2KRWvyVj48gJHj29MUcIXpLIhSPe62MQ09iYcsyNHd47Z928wyl7nG3d3SJuHbX369J3cfoYU5MI2ve6ov6dAhghKxyzqOtfZ24TV6lKRbXnTUgbX1whaZJilos3UmNEhDjoZPkBEvfdQuIuDB6NKXkGhSpICVk_GszOuIVCCqNfBF_oGIa2Q",
+=======
+         "reference" : "CmRbAAAAPCEanw-DX5n5BtQmwY0NzPJ0wbfKbvXzIjT-er5_wWBTxQJSaGePyHeDMUCPu1aVqcG2bAtMuS3e53N757Wm-cnmGv79OwE7qIPvViicNmEqih9AKV4q5oBHf10JLxZXEhBUNNbtJQWKKSp0dmKZMKBEGhQZLGwtySCzBSRNnD0iTDv8uJemcg",
+>>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
          "scope" : "GOOGLE",
          "types" : [ "point_of_interest", "establishment" ],
          "vicinity" : "Hawa Mahal Ka Rasta, Gangori Bazaar, J.D.A. Market, Kanwar Nagar, Jaipur"
@@ -95,7 +107,11 @@
          },
          "place_id" : "ChIJccTtkFGxbTkRb_S6TZZF1pI",
          "rating" : 3,
+<<<<<<< HEAD
          "reference" : "CmRbAAAAbSxSC-n4x1LZjraKRImo-9rkg_bJLtBC4-BFs3wK0394xeBIRwhIyLi7POU56gP8WBUc4qkFlH63r1ED83ds0AoJNH44AIRjkc_pWA1wMjJTAoPU7RWmsMikEJeb_bWDEhCPtc4g5TSLBopsuoz28yzSGhT7c5lqZoL_UzIoMDTCocvDoS7-Zw",
+=======
+         "reference" : "CmRbAAAAWRqFZm53ijyyaMP7KwuVEsl8rq7kRwa9IwEPlf402AWVJR5aNieW9Q2GJm95IbUrpSYWd1EWjP_-kYT8Bk574fPuBM9mwstmNv0n7BWtKA6n7bDCF9LvMb7VQmiU6FFtEhA8icQHGihL_9PRt4SoQuv3GhR6uu7km-uHRbvCOvB-iaq2WTGadQ",
+>>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
          "scope" : "GOOGLE",
          "types" : [ "point_of_interest", "establishment" ],
          "vicinity" : "Gangori Bazar, Shiv Deen Ji Ka Rasta, Chandpole, Jaipur"
@@ -125,7 +141,11 @@
          },
          "place_id" : "ChIJ05n60AO0bTkRQOjqY95c6R0",
          "rating" : 3,
+<<<<<<< HEAD
          "reference" : "CmRbAAAA_KEJC24lf7s7SofRTV8e7F6syi9LX2hm4uNmBEoahjAUjNia8BizngQpEOXhw9zZzYLLdAL1WLcgaiG1o1LLke54pWEJk-6tUjrXBgMg2IIpet7kjKki1WINrEp6u0xoEhCgMCk1J2NcAm6aCKAf5KgDGhQb_ohIVH6j0OqtMRB-SKCVmgTu6A",
+=======
+         "reference" : "CmRbAAAAlmD5-UApbPICgtAsSFyk4ZRIlVYzw4s4OrWYYmylnNL9m9qe52B7GJYzMZ_NDUM90d8IwldvTKh1ccVKRaxfCUYakohzPYR_g5yQKFOg-xzUhfprppb2-GI0spnGtoLwEhC0s8ttH-rk8TCW4CUZt5eMGhStxwTQcSR76BprAzrgVLLXN2i0Og",
+>>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
          "scope" : "GOOGLE",
          "types" : [ "point_of_interest", "establishment" ],
          "vicinity" : "Agrasen Cir, Panch Batti, C Scheme, Ashok Nagar, Jaipur"
@@ -154,7 +174,11 @@
             "weekday_text" : []
          },
          "place_id" : "ChIJAQAAwI61bTkRdY2FOnZe-HU",
+<<<<<<< HEAD
          "reference" : "CmRbAAAAULNXHk-rRRyCyr7sXn7HnlRaM_xZUUXQe_h34RjbGhEThExofWaOAtMrA5D1pcMDWzbuPh9zdlRUIJEdETh007mBMtGHzf0fCF0iJbfKBdrhLlDZFTA4dmWxlikmyBUvEhAuwtOv8NhEaqdaNnKk_X-xGhR15bRugKoBlfTW6AJpQLeZ7QmBFA",
+=======
+         "reference" : "CmRbAAAAyg19ANQ5q5hFpy4UrYDCEov0J215s_9XncnyOgd1ijkB-3kJ5em11Zvxl2Xa98le6Jei5CbU0tnjc665rNtnZ56jGpGmVsmKf9s7Rc_WnJ461lTV6ghMAURI7OWmW0-kEhDbwnARDfjjAAynpTNBYJeBGhRCzZawG4XVt3elZQueuIkpmyA_wg",
+>>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
          "scope" : "GOOGLE",
          "types" : [ "point_of_interest", "establishment" ],
          "vicinity" : "71/130-32, Patel Marg, Mansarover, Jaipur"
@@ -184,7 +208,11 @@
             "weekday_text" : []
          },
          "place_id" : "ChIJNy6k71KxbTkRGSamUM9J-hU",
+<<<<<<< HEAD
          "reference" : "CmRbAAAA7duzEh1uRot2H39ncugiqRM07YRzNxW53P3hpTsRKt5rTRkYs1qFSOweQ_NKBeie-lX07smoAFEXP7tCah0RUlO1Bvdyp9uFjH3ORwu3Buu82oHYvh3U4FZmAc0JBhAhEhCp23ygK9dP455UL9vYKh-EGhTt-JdANfKmJ78ggcY8kc5YniP8KA",
+=======
+         "reference" : "CmRbAAAAkQzkdK8HrRlrOAevi8GDPH5ugia3FLxeIb65b2ny79DIAAZ2PSdqo53DrPPN-XmNh8GeR-fDowO34ETKv40eCZQzwxSXFBMtU3rIDuRBFm1OFJACI0l4mOa4qCEJL4p3EhDoIYDGpk4uFRYvuOfsUYwtGhQ0RqepVxRJznxAqL0NkpW5cSgI6Q",
+>>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
          "scope" : "GOOGLE",
          "types" : [ "store", "point_of_interest", "establishment" ],
          "vicinity" : "1120, Phela Chourah, Batwada Bhavan ke Samane, Mishra Rajaji Ka Rasta, Chandpol, Jaipur"
@@ -213,7 +241,11 @@
             "weekday_text" : []
          },
          "place_id" : "ChIJA4EvQFOxbTkR5R6QpwDldpc",
+<<<<<<< HEAD
          "reference" : "CmRbAAAA3-Qv6c9k4e4a5-UyOjrGpI79dNF4hn7tlvDHYR3m3t_g8slGiIXGOc-wTLPd1QaZXqqnrVKz2QjXkkCL7Xr6VxMsxt5lhGLUKxML3u5abYNk2Ch2C4UxxjLLeIw6QS5mEhA6MTUyF2R-j0cvvt8K8ULmGhQfS9f3inAlYf5Nh5sxnZBj2xzuvg",
+=======
+         "reference" : "CmRbAAAAoYGQp6RsNwMVMnq9pz68UrfTnzDW-1Tx_yKWgp5BzPY13_GEn58wrhXDC5y-0uTbJMgJEo6lZiCkGqj8ljfMJQdRqNw31EILuGjnw5q8xLfZnWaLcabJGunHZ5HSuNqhEhCjnJmxQvbDD-OuQzJfSs5PGhRbkYaayRkD96K6Qdk7P5NYGFVQAw",
+>>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
          "scope" : "GOOGLE",
          "types" : [ "store", "point_of_interest", "establishment" ],
          "vicinity" : "Khejron Ka Rasta, Chandpole Bazar, Chandpole, Pink City, Jaipur"
@@ -243,7 +275,11 @@
             "weekday_text" : []
          },
          "place_id" : "ChIJS7SyfVSxbTkRYrvdWgNZmaE",
+<<<<<<< HEAD
          "reference" : "CmRbAAAAbsXsv81DARPsqJQNBBBsFDn1zPts9X7GUOGr05GyRT5BIctMNLNOcdO2s24ppmzHXx6droLGlXMJKShCD5V_BHJ_Lyd6AkYrGKd2k4AJ1BDeBk7xkEYh0yIqmLx6VPVIEhD9Lsf0bnMxCyKgZCj-m8hVGhTBaADX42_FmOHlcJ5rPkPBASmnTg",
+=======
+         "reference" : "CmRbAAAATwGf6KiKE_oySMJxuaLpp9R07ZCl4i2cmZ50QKn3y1EFX9esRuJwi7Cok8dumE72AV_zL_RvH5YIfGeisj7UHfYKLKm-X56fF70wF9Em0hQ5cMOHA_Rr-f30p8s_4PHoEhAKX8hY4gG5jdwjxaGuLg_AGhS6hTJb0Y_z7h7inAO2LwZdR8xMrA",
+>>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
          "scope" : "GOOGLE",
          "types" : [ "point_of_interest", "establishment" ],
          "vicinity" : "Bhindo ka Rasta, Chandpole Bazar, Chandpole, Chandpol, Jaipur"
