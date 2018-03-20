@@ -13,7 +13,7 @@
       <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
         <div class="container">
           <a class="navbar-brand" href="#">
-            <strong>MDB</strong>
+            <strong>RajTour</strong>
           </a>
           <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-7" aria-controls="navbarSupportedContent-7" aria-expanded="false" aria-label="Toggle navigation">
             <span class="navbar-toggler-icon"></span>
@@ -40,12 +40,12 @@
           </div>
         </div>
       </nav>
-      <div class="view" style="background-image: url('https://mdbootstrap.com/img/Photos/Others/images/89.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
-        <div class="mask rgba-indigo-strong d-flex justify-content-center align-items-center">
+      <div class="view">
+        <div class="mask rgba-indigo-strong">
           <div class="container">
-              <div class="row pt-lg-5 mt-lg-5 wow zoomInLeft" id="imgg" data-wow-delay="0.3s">  
+              <div class="row pt-lg-5 mt-lg-5 wow zoomInLeft" id="p11" data-wow-delay="0.3s">  
                 <div class="col white-text text-center text-md-left">  
-                  <img src="img/hello.png" style="margin: 0 auto;max-height: 100%; max-width: 100%">
+                  <img class="cartoonPNG" src="img/hello.png">
                 </div>
                 <div class="col white-text text-center text-md-left" align="center">  
                   <div class="text-center">
@@ -56,29 +56,77 @@
                   </div>
                 </div>
               </div>
-              <div class="row pt-lg-5 mt-lg-5 wow zoomInRight" data-wow-delay="-0.3s" id="formm" style="display: none;">
-                <div class="col white-text text-center text-md-left">
-                  <div class="card">
-                    <div class="card-body z-depth-2">
-                      <div class="text-center">
-                        <h4 class="dark-grey-text">
-                          <strong>Chooose from the list of cities which you will be visiting</strong>
-                        </h4>
-                        <hr>
+              <div class="row pt-lg-5 mt-lg-5 wow zoomInRight" data-wow-delay="-0.3s" id="p12" style="display: none;">
+                <div class="col">
+                  <div class="formm">  
+                    <form id="regForm" action="">
+                      <!-- One "tab" for each step in the form: -->
+                      <div class="tab" style="display: none;">
+                        <div class="col card">
+                          <strong><p class="black-text"> No. Days you'll be staying </p></strong>
+                            <p><input placeholder="1,2,3..." type=number oninput="this.className = ''"></p>
+                        </div>
+                        <div class="col" align="right">
+                          <img src="img/cities.png" class="cartoonPNGsm">
+                        </div>
                       </div>
-                      <div class="md-form">
-                        <i class="fa fa-user prefix grey-text"></i>
-                        <input type="text" id="form3" class="form-control">
-                        <label for="form3">List</label>
+
+                      <div class="tab" style="display: none">
+                        <div class="col">  
+                          <img src="img/cities.png" class="cartoonPNGsm">
+                        </div>
+                        <div class="col card">
+                          <strong><p class="black-text">Choose cities you'll be travelling to</p></strong>
+                          <select class="mdb-select colorful-select dropdown-primary" multiple searchable="Search here..">
+                              <option value="" disabled selected>Choose Cities</option>
+                              <option value="1">Jaipur</option>
+                              <option value="2">Udaipur</option>
+                              <option value="3">Xyz</option>
+                              <option value="3">Abc</option>
+                              <option value="3">Cde</option>
+                          </select>        
+                        </div>
                       </div>
-                      <div class="text-center mt-3">
-                        <button class="btn btn-indigo">Next</button>
+
+                      <div class="tab" style="display: none">
+                        <div class="col card">
+                          <strong><p class="black-text"> Types of Places </p></strong>
+                            <input type="checkbox" class="filled-in form-check-input" id="ch1" checked="checked">
+                            <label class="form-check-label" for="ch1">Monuments</label>
+
+                            <input type="checkbox" class="filled-in form-check-input" id="ch2" checked="checked">
+                            <label class="form-check-label" for="ch2">Famous Attractions</label>
+
+                            <input type="checkbox" class="filled-in form-check-input" id="ch3" checked="checked">
+                            <label class="form-check-label" for="ch3">Museum</label>
+
+                            <input type="checkbox" class="filled-in form-check-input" id="ch4" checked="checked">
+                            <label class="form-check-label" for="ch4">Places of Worships</label>
+
+                            <input type="checkbox" class="filled-in form-check-input" id="ch4" checked="checked">
+                            <label class="form-check-label" for="ch4">Wildlife</label>
+
+                        </div>
+                        <div class="col">
+                          <img style="margin: 0 auto" src="img/cities.png" class="cartoonPNGsm">
+                        </div>
                       </div>
-                    </div>
+
+                      <div style="overflow:auto;">
+                        <div align="center">
+                          <button type="button" class="btn btn-primary waves-effect" id="prevBtn" onclick="nextPrev(-1)">Previous</button>
+                          <button type="button" class="btn btn-success waves-effect" id="nextBtn" onclick="nextPrev(1)">Next</button>
+                        </div>
+                      </div>
+
+                      <!-- Circles which indicates the steps of the form: -->
+                      <div style="text-align:center;margin-top:40px;">
+                        <span class="step"></span>
+                        <span class="step"></span>
+                        <span class="step"></span>
+                      </div>
+                    </form>
                   </div>
-                </div>
-                <div class="col white-text text-center text-md-left">  
-                  <img src="img/cities.png" style="margin: 0 auto;max-height: 100%; max-width: 100%">
                 </div>
               </div>
           </div>
@@ -86,36 +134,10 @@
       </div>
     </header>
 <body>
-                        
-    
-
-
-
-
     <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script> 
     <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
     <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.4.5/js/mdb.min.js"></script>
-    <script type="text/javascript">
-        new WOW().init();
-    </script>
-    <script>
-      $('#imgg').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend',
-          function animateout(){
-            var x = document.getElementById("imgg");
-            x.className += " getout";
-          }
-      );
-      function hideit(){
-        var x = document.getElementById("imgg");
-        x.className += " hideme";
-      }
-      setTimeout(hideit, 4700);
-      function showit() {
-        var x = document.getElementById("formm");
-        x.style.display = "block";
-      }
-      setTimeout(showit, 4700);
-    </script>
+    <script src="js/home.js"></script>
 </body>
 </html>

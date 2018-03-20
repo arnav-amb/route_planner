@@ -6,17 +6,41 @@ header,
 .view {
   height: 100%;
 }
-
+.view{
+  background-image: url('https://mdbootstrap.com/img/Photos/Others/images/89.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+}
 @media (max-width: 740px) {
   header {
     height: 1100px;
   }
+  .mask{
+    padding-left: 0.5%!important;
+    padding-right: 0.5%!important;
+  }
+  .mask .container{
+    padding-left: 0px!important;
+    padding-right: 0px!important;
+  }
 }
-
+.mask{
+  padding-left: 10%;
+  padding-right: 10%;
+}
+.cartoonPNG{
+  margin: 0 auto;max-height: 100%; max-width: 100%;
+}
+.cartoonPNGsm{
+  max-height: 300px; max-width: 300px;
+}
 .top-nav-collapse {
   background-color: #39448c !important;
 }
-
+.form-check-label{
+  color: black;
+}
 .navbar:not(.top-nav-collapse) {
   background: transparent !important;
 }
@@ -27,6 +51,12 @@ header,
   }
 }
 
+@media (max-width: 1000px)
+{
+  #p11{
+    margin-top: 200px!important;
+  }
+}
 h6 {
   line-height: 1.7;
 }
@@ -36,4 +66,54 @@ h6 {
 .getout{
   animation-delay: 3s!important;
   animation-name: zoomOut!important;
+}
+/* Style the form */
+
+.formm{
+}
+.formm #regForm {
+  margin: 70px auto;
+  padding: 30px;
+  width: 100%;
+}
+
+/* Style the input fields */
+.formm input {
+  padding: 10px;
+  width: 100%;
+  font-size: 17px;
+  font-family: Raleway;
+  border: 1px solid #aaaaaa;
+}
+
+/* Mark input boxes that gets an error on validation: */
+.formm input.invalid {
+  background-color: #ffdddd;
+}
+
+/* Hide all steps by default: */
+.formm .tab {
+  width: 100%;
+}
+
+/* Make circles that indicate the steps of the form: */
+.formm .step {
+  height: 15px;
+  width: 15px;
+  margin: 0 2px;
+  background-color: #bbbbbb;
+  border: none; 
+  border-radius: 50%;
+  display: inline-block;
+  opacity: 0.5;
+}
+
+/* Mark the active step: */
+.formm .step.active {
+  opacity: 1;
+}
+
+/* Mark the steps that are finished and valid: */
+.formm .step.finish {
+  background-color: #4CAF50;
 }
