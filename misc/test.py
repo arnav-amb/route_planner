@@ -32,7 +32,7 @@ def fetch_places(city):
 
     return places
 
-# def get_user_location():
+# def get_user_location():0
 #     # None if user does not want to give his location or if user is too far away
 #     return (26.914125, 75.804636)
 
@@ -146,7 +146,7 @@ def get_plan(number_of_days, cities, priority):
     return plan
 
 cities = ['Jaipur', 'Ajmer']
-custom_plan = get_plan(2, cities, fetch_priori())
+custom_plan = get_plan(1, cities, fetch_priori())
 
 for city in cities:
     print(city)
