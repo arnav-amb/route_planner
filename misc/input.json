@@ -3,26 +3,6 @@
       {
          "address_components" : [
             {
-               "long_name" : "Hawa Mahal Road",
-               "short_name" : "Hawa Mahal Rd",
-               "types" : [ "route" ]
-            },
-            {
-               "long_name" : "Badi Choupad",
-               "short_name" : "Badi Choupad",
-               "types" : [ "neighborhood", "political" ]
-            },
-            {
-               "long_name" : "J.D.A. Market",
-               "short_name" : "J.D.A. Market",
-               "types" : [ "political", "sublocality", "sublocality_level_2" ]
-            },
-            {
-               "long_name" : "Kanwar Nagar",
-               "short_name" : "Kanwar Nagar",
-               "types" : [ "political", "sublocality", "sublocality_level_1" ]
-            },
-            {
                "long_name" : "Jaipur",
                "short_name" : "Jaipur",
                "types" : [ "locality", "political" ]
@@ -41,33 +21,38 @@
                "long_name" : "India",
                "short_name" : "IN",
                "types" : [ "country", "political" ]
-            },
-            {
-               "long_name" : "302002",
-               "short_name" : "302002",
-               "types" : [ "postal_code" ]
             }
          ],
-         "formatted_address" : "Hawa Mahal Rd, Badi Choupad, J.D.A. Market, Kanwar Nagar, Jaipur, Rajasthan 302002, India",
+         "formatted_address" : "Jaipur, Rajasthan, India",
          "geometry" : {
-            "location" : {
-               "lat" : 26.9239363,
-               "lng" : 75.8267438
-            },
-            "location_type" : "GEOMETRIC_CENTER",
-            "viewport" : {
+            "bounds" : {
                "northeast" : {
-                  "lat" : 26.9252852802915,
-                  "lng" : 75.82809278029151
+                  "lat" : 27.0206722,
+                  "lng" : 75.94119069999999
                },
                "southwest" : {
-                  "lat" : 26.9225873197085,
-                  "lng" : 75.82539481970851
+                  "lat" : 26.7497493,
+                  "lng" : 75.63992500000001
+               }
+            },
+            "location" : {
+               "lat" : 26.9124336,
+               "lng" : 75.7872709
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.0206722,
+                  "lng" : 75.94119069999999
+               },
+               "southwest" : {
+                  "lat" : 26.7497493,
+                  "lng" : 75.63992500000001
                }
             }
          },
-         "place_id" : "ChIJpQvTG0uxbTkRDLLMHlNdDoY",
-         "types" : [ "establishment", "point_of_interest", "premise" ]
+         "place_id" : "ChIJgeJXTN9KbDkRCS7yDDrG4Qw",
+         "types" : [ "locality", "political" ]
       }
    ],
    "status" : "OK"

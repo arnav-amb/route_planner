@@ -16,24 +16,25 @@ from place import Place
 
 
 
-CITY_NAME = 'Jaipur'
+CITY_NAME = 'jaipur'
 
 # Google Places API
 # Google Geocoding API
 
-new_api = 'https:///maps.googleapis.com/maps/api/geocode/json?'
+new_api = 'https://maps.googleapis.com/maps/api/geocode/json?'
 api_key = 'AIzaSyAD0tsB11_bi7ofAvU-M2S459wmPRkOlYY'
 
 
 place_request= 'address={}&key={}'.format(CITY_NAME, api_key)
 
 request = new_api + place_request
+print(request)
 r = requests.get(request)
 print(r)
-f= open('input.json','w+')
+f = open('input.json','w+')
 f.write(r.text)
 f.close()
-# #using search place api
+#using search place api
 
 with open('input.json','r') as myfile:
 	content=json.load(myfile)
@@ -75,6 +76,8 @@ for i in range(len(places)):
 		name = data['results'][k]['name']
 		lat = data['results'][k]['geometry']['location']['lat']
 		lng = data['results'][k]['geometry']['location']['lng']
+		photo_reference=data['results'][k]['photos']['photo_reference']
+		photo_height=data['results'][k]['photos']['height']
 		try:
 			rating = data['results'][k]['rating']
 		except:
@@ -99,5 +102,14 @@ print(len(list_of_places))
 # f=open('places.json','w+')
 # f.write(r_3.text)
 # f.close()
+
+picture ='https://maps.googleapis.com/maps/api/place/photo?'
+parameter= 'key={}&photo_reference={},maxheight={}'.format(api_key,photo_reference,photo_height)
+
+request_5 = picture + parameter
+r_5 =requests.get(request_5)
+r_5.save()
+
+
 
 #api ends
