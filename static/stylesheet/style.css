@@ -1,0 +1,39 @@
+/* Required for full background image */
+
+html,
+body,
+header,
+.view {
+  height: 100%;
+}
+
+@media (max-width: 740px) {
+  header {
+    height: 1100px;
+  }
+}
+
+.top-nav-collapse {
+  background-color: #39448c !important;
+}
+
+.navbar:not(.top-nav-collapse) {
+  background: transparent !important;
+}
+
+@media (max-width: 768px) {
+  .navbar:not(.top-nav-collapse) {
+    background: #39448c !important;
+  }
+}
+
+h6 {
+  line-height: 1.7;
+}
+.hideme{
+  display: none!important;
+}
+.getout{
+  animation-delay: 3s!important;
+  animation-name: zoomOut!important;
+}
