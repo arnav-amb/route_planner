@@ -1,22 +1,9 @@
-# Parameters
-# Number of days
-# Hor per day
-# City limit calculation
-# Cities choice
-
-# Places
-# Rating
-# Type priority: Monument, Restaurant, Markets, Sanctuaries
-# Lat Long: distance calculation
-# Number of places fitting in a day. Time spent at each place Gauss(30,90)
-
 import requests
 import json
 from place import Place
 
 
-
-DONT_INCLUDE= ['travel_agency','shop','shopping_mall','store','market','business','store','complex']
+DONT_INCLUDE= ['travel_agency','shop','shopping_mall','store','market','business','store','complex', 'finance', 'bank', 'park', 'real_estate']
 # Google Places API
 # Google Geocoding API
 
@@ -58,10 +45,11 @@ def get_places(CITY_NAME):
 	category['premise']='monument'
 	category['monument']='monument'
 	category['places_of_worship']='places_of_worship'
+	category['temple']='places_of_worship'
 	category['shrine']='places_of_worship'
 	category['zoo']='zoo'
 
-	places=['famous places','monument','premise','places_of_worship','shrine','zoo']
+	places=['temple','famous places','monument','premise','shrine','zoo']
 
 	for i in range(len(places)):
 		#print(places[i])
@@ -95,8 +83,11 @@ def get_places(CITY_NAME):
 			type_of = category[places[i]]
 			# Creating a Place object and storing it in a list
 			flag = True
-			type_of_original.remove('establishment')
-			type_of_original.remove('point_of_interest')
+			if 'establishment' in type_of_original:
+				type_of_original.remove('establishment')
+			if 'point_of_interest' in type_of_original:
+				type_of_original.remove('point_of_interest')
+
 			if len(type_of_original)>0:
 				for type_word in type_of_original:
 					if type_word in DONT_INCLUDE:

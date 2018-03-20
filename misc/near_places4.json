@@ -27,13 +27,13 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/108420439029792133578/photos\"\u003eAMIR IHSAN\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAI4tGIu2-mtJVtbx2GMzGWvBIKORCe-vwYCLAf8zoP_y0GNoNk-W3SpoxuHcYIGbPtBEcQBKGqV9aBWz7iLELr0-Ie19121J14NZ3ua3EdJA1j-9hcUirBs3hO0_BfuVYEhCCrKcmc-Ahg_fn_SmY6TY0GhRal6UdTk4Mpah6qdAjlNVwPJ1RxQ",
+               "photo_reference" : "CmRaAAAAqKnK44GpytZd_x9jdiGuWutf0WKvbRQNemrNMZZkJFqAc_xUnAhzAp0Z0mhDmVY7iaSjsW-wpriCv6NTjj2uunWQ0bhEke33Bo0DnrosS7gphchk6wmFsUZqmj-Qvq7OEhCl9xlz4ZVWdOOz_PIy5HR0GhTAZKW05ZKBnFd75GanxVe3az98UA",
                "width" : 604
             }
          ],
          "place_id" : "ChIJGV0pphDnazkRO5ANkwKf2hc",
          "rating" : 4.4,
-         "reference" : "CmRbAAAAuzcWKsz7-zthjLSRK-G-_3l7cHy5OkCydo5KdbnJD3MsYuMk79A72ru0Mh2pcH4_aWgKFBuIldXEkzMEA5LRjiiHwwPlDiuFcq4ATuEsOpJoQ1kP63k-xHH1LVHBcRrAEhCBHeagVewZ-AaesKLXB-zWGhQdifyY1lZ5Dvto2IbQKAXb1MwpVg",
+         "reference" : "CmRbAAAAwkbUCKgWKglYIe2ZGsU_F6-e_BVnuP8z85KzLiAu9kcUGsLpPTDO1bjfoFNmXMbXnxSJM1uvjPpEHwkoCfp9AdNUBeD3UZbF2EW-dydtMNtkZpJ0RCXUMZYdqB6ATfWpEhDLrWI_Jv0zFijqQ0gK7bhPGhTUa31Mec2yar1Wk7CeKSywV-ITcw",
          "scope" : "GOOGLE",
          "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
          "vicinity" : "111, Faiz Manzil, Nathwan Shah, Dargah Sharif, Khadim Mohalla, Ajmer"
@@ -64,7 +64,7 @@
          },
          "place_id" : "ChIJFcjaCSDnazkRTlVKqzmWcx0",
          "rating" : 5,
-         "reference" : "CmRbAAAAQNb3sSycsNgUbxWmNO0G4TRcKszdFRdWqHABK4Hr-3_K0zk-mjL9eZKslGWIcC_S8rGeQP2NpzoqklZ9vgNObgrTtur7hngkFfCi5NKZK2cJ1vBiKwlpnPUG3ZzCTk78EhCB9GOtZXPLgXvB9ENz5m3IGhR3qaaQhU8BSeanOytv6gz-wTrvdQ",
+         "reference" : "CmRbAAAAVYIKTdnTuaRTtwJnW-KXzcVxXh39_AQw1BFS3hvx93c3RVdZXe9v3rdV9wfQZrQbDRy9usrb-x8TLlyjrHrtE_GtGL8geATSNXNoTD3bCdG1wmuOVEowUTegofTq8KVvEhDiYF4jgnqFfuEmvp_SNe7vGhRG0rllw4d1Ukurqjj5-QEX1hCNWQ",
          "scope" : "GOOGLE",
          "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
          "vicinity" : "Zia House, Near GT. No. 5, Dargah Sharif, Ajmer"
@@ -91,7 +91,7 @@
          "name" : "Sufi Shrine Ajmer",
          "place_id" : "ChIJAQAAAOTmazkRlZpH6Zo-qHY",
          "rating" : 1,
-         "reference" : "CmRbAAAAwNhi1ZgDQq0NDG0muSQ2cdeCY73nNgALlBAvVdTTvvSR1iF71dYQwqZC8aIDIgNaN8-wgxuTp0yHhtNrFEXwc-54ptMIqj_1mUVmVJRtdCaInZjz97YfP0CjiMJ-IaAJEhCQyxNb0xjoEn5JncfygonRGhRlfNZFfDvbB7hbsEAs7w-sTseaoA",
+         "reference" : "CmRbAAAATGKCarzrg74GVoAsgiI3TVExi2Tshl6OUo2jIqfvDLeWAqB-gFYitjRUbzlx4dw4anQhZO0xcg2_xwKD3PjDHAmjMo5V1uEH5LKLaeTKM-afXwIlyW8Mq0YjdZKTb8Y8EhDSuASWFvxo7wAlI0hojc19GhR5bIguOEXzTmVdcmm58FBUioGOxQ",
          "scope" : "GOOGLE",
          "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
          "vicinity" : "H. No. 319 Nau Lakha Gali Lakhan Kothri Dargah Sharif, Ajmer"
@@ -122,13 +122,13 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/117771427496627276137/photos\"\u003esyed zeeshan kaptan\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAATzcZBDb3R901dut2OAZCi8_lez8Zo9GRyZIFR8M1IUI2lM7TtPBloWPfIPhgqNMiXzwaoSzAVuAmfadZJyscUQUhXu3t69xTSqYIY900IYSM6jp0h6Tvkl4QTeSExu-aEhBzwlNyaWQ-qQwd0jVIUB7jGhT1xG_4Nee7nhp26nZbJVvzfknqQQ",
+               "photo_reference" : "CmRaAAAALQXPKm9Olg-tenpSix_l9wz-ZxXjcS0i_Zu_i_ww14AX-tcguLektgveSvPB9eAz4M3pY59rThHQBJERCYcguR37kMe__qTGJsmlDWPpoW3nwEyCZ_JMZrJrde664DdnEhDmMLb3gaptzIeUTLW4WlaCGhTydqbbrju2Ir6S1kB7u4ycB1UUuA",
                "width" : 4608
             }
          ],
          "place_id" : "ChIJHfvknhDnazkRXlxsXirgwpo",
          "rating" : 4.5,
-         "reference" : "CmRbAAAAKZDn4V3xorFo1NuLRTWK45F48FuBVpB8PauHoqEOtUwB_4weySFYY2RpLW6xraYetI__nBTOwL3x88UP52QdsFp1lB_f1aLEem7Y_MRm1ynBYb1onkzA644QHUDUWNwCEhAZzeBtrMUrjGoES3dJ-d4CGhQeK272NQRRZ_IQxHn8xjPCuZHyJA",
+         "reference" : "CmRbAAAA6ZGjrCDdykvLC89I0N4q9Ab7m3qm1Q9eDeyhY8p4M-7_u7R_XWSwCObCOJG85gCbWm7m0tK-5aednalSAJBg5SLRIWafvGlmZlPsnR2nt0bzHmHxLRxvI1yPc25yEanGEhCa-ClNPfNeONqK6pRRX7b9GhSFcFyAfgK-1KI1dNw7QX5vuqnVJA",
          "scope" : "GOOGLE",
          "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
          "vicinity" : "gharib nawaz dargah, sharif zameer ahmed niyaz P 75 shaikha mohalla pannigram, Khadim Mohalla, Diggi Bazaar, Ajmer"
@@ -159,13 +159,13 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/115732942751869938238/photos\"\u003eFiroz Khan\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAy5etOH-5nr38-W0oMF7OJI_8Z3hz5qxxZWnMPLvHrGt3GOSPC8IKPcR_ngNS9ToLeTnTw3vDg6RX4wpo9OMefZJjtB8Sw6n7UenA11HGckkSR-yUSJiKgyAhsfPhuuAmEhDomkXGnxVepMxx00WenHfZGhRkvhJ4-Wz3-u3eSCBvqFSF_jgfPw",
+               "photo_reference" : "CmRaAAAALanYBv-UH0R5fZzUALWJcUif_DHZNTVsakb3AbH_bZIClESyjEF30OYdxGxownSMXRPsRO2qVQyt5muTxvgXbyDkAFIKXzgpzrRhUbztdU7TjzPp-5yicPyNVunNEnOZEhAAf51qEuNLnpLZMeTjIu0CGhQMpQttU_EUOjcnOw1oJagSfGFGKw",
                "width" : 4288
             }
          ],
          "place_id" : "ChIJh460yJDgazkRXaTcmt0vpIE",
          "rating" : 4.9,
-         "reference" : "CmRbAAAAqeD0qnby_Nsbm5EKEFDJ52XPDCoLOJpvnE1JdCBcF0sVdwlyAGK1rbvWPgkI2mG0WHcbhARkhZ69Of1FUszOVTgaUFyFK5s3pAwEhmgEOCr9zqdhZIp8REvdUPpLoF0aEhBEvyQl842KrqDr0bjCpSovGhRo38Y7xznznfExTcFlIS3NDMfmuw",
+         "reference" : "CmRbAAAAJ5hNV9p7uuj7N9yaDhsavubNiQDlLhG84voya1SQLJE24kWHGSb63OHYYmJPUYQRNnvOEQyb155eh5AImqCn2nwgEdXBDSewrCamOGyFrkDWnKxLvhIcQxLdiuiiK34iEhAxyFGwZbkMby0O8ReHtoqeGhRmLoCRsn9pq8uLetVJhXATuvyUiQ",
          "scope" : "GOOGLE",
          "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
          "vicinity" : "Beawar road, Bakra Mandi, Daurai, Ajmer"
@@ -196,13 +196,13 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/109845750041492191498/photos\"\u003eMukesh Kr. Verma\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAZEHN6EbL7hJnyttzcLAPzZABK0psLORR4uBSUee3wLYLltEgyqHsmiBmmnW-HoHFC3tVJraohgkgmdajZEpNEqU2OnlU6H45JEW8N9GE--vOSrjsKO8R97MwTxkIuUqcEhCSm3ouEOXODGFNSTQwOdpOGhRUglIqDKICfgV-bWF1O55U4o3Opw",
+               "photo_reference" : "CmRaAAAAkXG5ITA4Rk2yMe32667mphZ3l6bGerGIp2ETD5zpdVvx75816rg_OpJQ9U-TpINVRWOEkrOmO9fnN2tdAeM_QuY1qQe-quxZYScIg2t3XSOdmQOwdpFjB7BgvJxrqbAhEhBg3CZ0vwJUoKhMYR3kiZtaGhQ64ct3ll1r482QehLgGNu-sM7hsA",
                "width" : 1024
             }
          ],
          "place_id" : "ChIJybWAOQDeazkRwWKZJ3emZHk",
          "rating" : 4.4,
-         "reference" : "CmRbAAAAR2PMaPqMysPRNAs3UNmfQo67Tus6RkKa4KI8aRn01l3fEOzuPhi7qIuALiMOBmELD4Ae7o5b5CEPppdT6dDo5jAoVnydXLvlRVVqNXTXkp4snqEol59zP7qsFpvl-3v9EhA7A-XnrCY_3pFdQ9uTQFtWGhQAa1kvYJJc0p3vAqmEyWFz5K6V9g",
+         "reference" : "CmRbAAAA50BqaVKcVmPKXjcqlVHf2uj-WNIKq_coVqR71PJFPBML149z7Y6qx4kXBWuchR0BKpc5vnHvSVLu0OPCACbyYwdWoEZKvjr-UH2iIX2f1TFY0YCAwhZI76BGU5Il8-Z5EhD7bJpzKY7DYbtzgC-zoOHQGhSpvFJMZ4eeR2wJy3e0Hz1-4WEFvg",
          "scope" : "GOOGLE",
          "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
          "vicinity" : "Somalpur, Ajmer"
@@ -237,13 +237,13 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/115203873072395018947/photos\"\u003eA Google User\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAFy1_BS6m6DNcLTndmtfowTwCWKI3-OOjgmR5oHOCbgAdi9IbT5TMscnPANRRZPRLGlPV3zcQZ6oxw_LXl4RZlv3_wUb3J3_1tGVm8F_3rnjFp_sfgAVekk0PlJ5YF18lEhBongE6_RmhLgbh9zC14OhqGhT28l4WAscatpXcghA9COqp6VzbqA",
+               "photo_reference" : "CmRaAAAAfqJLOz0A8kILHi-QYk6duwpUmBozt41ESdqi017GvOE1jsUCA5psCeva32wp4chI24V0noJC7bzXnhTIerjbUdaM60GbJq0OU9P9MJKt14fb-v2ku2IsNLPvsroSDuYjEhCFtsyh6PaLYmgYtiCBU4icGhTAIR1_uQMvcyU0913oe5N8espSyg",
                "width" : 3120
             }
          ],
          "place_id" : "ChIJN3bUkhnnazkRQT9GBClJALM",
          "rating" : 4.4,
-         "reference" : "CmRbAAAApSh-HXbaStWV8L0gQmUTq_c9ofmz2X7ucMhN6Nxs393ZLd3RDbgPvKWjQeiwhQoiyKt8YjR3UCw_4CKDYQnVMJwnN9k6cyWaGJKbkDznb4FjGKDJU3r6FrWHkKmX_3hREhDgpAlCgSAaG7rzN2JNifc_GhTH9xZbuMQIqqr87Yp0Jnn4kiG8zA",
+         "reference" : "CmRbAAAAQZYE0avZnQwrEBEv8Oo53phhS9NJmWVBy071UZGscyNLrxsTAgYiJVlnav0SpkYwCtzTv7U5vOty9mJ-GJVgdQ-YUoJKRnSKRZhzFetwbzXCZPD4898rxptFxuoIikIWEhAUzKDYgIe7TdanWdJUf46ZGhRtsEgE-x7fSg3Cr93F6LIROvgO8Q",
          "scope" : "GOOGLE",
          "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
          "vicinity" : "Khwaja Zafar Chishty , Shekha mohalla Dargah Sharif, Ajmer"
@@ -278,13 +278,13 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/103206828305536694560/photos\"\u003eA Google User\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAgf8G6LuPncxACRpdB51_7dQQO_lZtWX7iTktTo2xlaEtxEbiydBXu8JfNqYCzxBUhJzmre6QrLo-j96WBstpVLBo_nimlT0OqYVx3gHiPA3-N5hl3IRqHBYmTqYD9pKeEhBSZ4CB8m_gPMK3tjdgyJLpGhQQFS5-P3i9WheRIa-N7tFwMP1xNg",
+               "photo_reference" : "CmRaAAAAXUqRAJsfAe5y47tKdX1jN9N-QAkeP5Pd044M1kPLoJTQb2khm4ANhxJ0WMP1SY70UOplWUXHA7u_-O98jFmdjFbBYMsvFLD2G-ClT43-_81ye8SPviV_Lxy28PI3BujkEhCcDFI1IxdzR2lnY2IsNCduGhTrqsMM6QfL28XCpY8o9WAECgF7Kw",
                "width" : 720
             }
          ],
          "place_id" : "ChIJtSP5nhDnazkRa2H27B0Q1ds",
          "rating" : 4.4,
-         "reference" : "CmRbAAAAZ3Gh-S46jOVc5DfnOlMegc8rgT3ngtnyr9OxGthsQ66gl8Tcn4xLR4Ledu6TUbsBtUNgnyY4YlxhMersDHaMzIfEQCXkMHp0E6njQf94qth6UUNmZxBmYDAddtxBmkw5EhCPEaJX-TOzVL_TtKVDiXRpGhSoRZBYjHpBIEJV735rAGPexoxJIQ",
+         "reference" : "CmRbAAAArrZLko98ah5gP7dGAWc0XtZ80NA3rEZ4S_0ddXFkaT1_DnIubG-WYl3tINvmQbjY3E66qhthCdJ-INJFB3mT5weFQrYMlfZGCBiQFPcahRt3gILYhdlaKOJQnnwNcQcfEhDgXkLaMAYyR2I8A9e-JlN-GhQrLF8CxCKAq9QaoAz_q5k8mMCRsA",
          "scope" : "GOOGLE",
          "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
          "vicinity" : "Khadim Mohalla, Dargah Bazar, Ajmer"
@@ -315,13 +315,13 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/110038087624862381344/photos\"\u003eImran Shaikh\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAARyPlG9KU7P_d2t5hMYCVfxdlkTrTsXXrnoupCeQMHbqYdimdypzSukgdTMAw14d30Ifa0ildDQiN93eI672vC5v2wbcI8e3Ps_-rPp0H3miChN9cTgMRKtCGwNS1U7OYEhBwEa9JAoYWKBdBLOPxJ14LGhS8C2piskI1MRKl4m-qWN51P7_qeA",
+               "photo_reference" : "CmRaAAAAkxum8FcIFls-ok1pPw8Ho2QNC-K0DDQxT1OX4zQpku3iGf-A-WU57N1yFxAqdGZglW8ElVsfvrnH-QQn8B9W2xgyj7NaLAd6zxE_txaXVAFudcOdGwfOCLUH9CtCwpPbEhA6tfUb8wBMI8Uh3u8tFALQGhSjwdy1k41wzUuqrtTtFylgkKoLig",
                "width" : 540
             }
          ],
          "place_id" : "ChIJvQCPCSDnazkRtWZO2hwSueE",
          "rating" : 3.7,
-         "reference" : "CmRbAAAASw6O3javCMyQxLXP7TbsSF4K6panSJGoAR3UbOeFetv7Cdy1vZmwKHXmH3th7lsyCqTqF_leUP5LnMXPwC3K73__Xjfh8WeY3XPn5g8gsZFwHG1gyUBnfYdL7-ooGhPYEhAGeLCsCl72rN2swnQlllWyGhQL7pIFac_BHMcXrDYaV5oyME8Z4Q",
+         "reference" : "CmRbAAAARuBMyIVOKbXQyOaQFEQYlYCwfwBNQzcaqWEgl2ucRDP47GUF24jhNl1wrNV9OdqyJ0q-MsKKHqh1QB3j-JUjnTZkPB8duS6sB4_F2E-6Av85tePDxLLMIYyf-pXlK7kuEhDfOCnhd4Q98DX64FuzJOQdGhSIT9I-6LcFQQGXcrz_W7OGVx5tww",
          "scope" : "GOOGLE",
          "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
          "vicinity" : "Nalasopra, Railway Quarters, Ajmer"
@@ -356,13 +356,13 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/108420439029792133578/photos\"\u003eAMIR IHSAN\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAfQtVryX0MrHT_U5ddP_kxeXaQIdzOQL_eXD5GGqBUXLlXMiIJ635UcaXnNY1kGUYgBWmX8LEblIXNchJ6KNv-tw0MWR0qEYcuWf_VnGlTbYtmxlE72Z2GAEUya8Jbn4MEhD3_hpilWxX-sP0IQYz1_LUGhR2icVfcKIzsmAYIR-1HbIxgyUcDw",
+               "photo_reference" : "CmRaAAAAcGE_fqtth1FWDfnWspw5V_C8oVbkJtG5a8PXS6RbiYE0BMQuxnBkGQzr9Nughkx6_f2UqdW-qCf9FH5G9Dv5SbsF5BD8TS1IcV2mq3UxoksVaAjM2X14IEAaQy4z1tg6EhAEd5SW4jpLRC7OQqbTq2grGhSlhUBgZuyrwD5-zc-xxj0cX9Dugg",
                "width" : 599
             }
          ],
          "place_id" : "ChIJyRl5mBDnazkRrMPLmuUFZSs",
          "rating" : 4.6,
-         "reference" : "CmRbAAAA-04yjnj2e-Km_LPDTcZ_M6ERlZg5VUarbwcq3XRyAFZ1HRDQS1E8AAvCdtehSPKLp8KmCNXtZ4Zj1UuWWkvlOm76SnGO2Xpkj5o1VXsG5HnQcxPSRuVWBDA9dmqIpn9FEhCK1dXlQC74AIzTbuqr2XkZGhQ_ATRiztejrJsXxMbQnLaKwLZnPg",
+         "reference" : "CmRbAAAAYtsxztrxB4twS_IsY7Bfbs0Ohl2vWiBU5iq10yjCPr24wV0_gPzifbdGSatCLoBdLOdIaW7GY2-4i7yZRUF7dbgUL2XB1r3evOFUsPmqKKE1Qbw0gYQ4JaGpEAs5wWGoEhDwTX_b3-dT6zXf2d72XAwEGhQAzWfdhQxa5OGbqDiL-bz4gcB-bg",
          "scope" : "GOOGLE",
          "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
          "vicinity" : "Ander Kote Rd, Khadim Mohalla, Diggi Bazaar, Ajmer"
@@ -397,53 +397,16 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/101874858431341410800/photos\"\u003eSyed Muqeem\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAkyL8yh_sZFSH9P8MAO4NLEJBMlPtt1hi3bZVFVqvubY96oKh6rZ9uKwkcP1YtHd4O3UwHY_tFYAOnG7P78pnfK6A8c-33ZwlZecYrkg2P7CoYi7dmEV71wgiXBPZqX5fEhAUv9ZvmCyNv13Fzke9Di-MGhSmKg7zQ3WOdaMoqbpI6xL1ppbHBg",
+               "photo_reference" : "CmRaAAAAlpRVHTSY-PE-ypW4JsZSkqF4hU9zZ766_S_xSjKubJ0ipS7IYKKIdBFcPmjdV0BmJRYBqGOguOK_ruTb1ulB2b78l95ameArkcG_GoY5B-hZviV09R62_fyBCLD_SR9wEhDwB5DeZ_G_ckezcBECo-YEGhQOO2q1KSLwriP2IwxnPfItjanVaQ",
                "width" : 4096
             }
          ],
          "place_id" : "ChIJLfl3CBrnazkRSni9ohkCIWs",
          "rating" : 3.8,
-         "reference" : "CmRbAAAAIjteWgyWT46bVJ-VKtYPS61Iv2W_TvJl9td61w8p5lldAiNLKCiG-a0VZgdi-hUOcrskBkmYSa7Mdn2WRIQDfWPvKYPtabfezoAJQVOAIKh5_MXJAi13CjdQso4t3ZgOEhDd-jIy1bZ3uf21MpKXziGtGhSlCZlI9tCqsTwjRldcpFNl44X6cQ",
+         "reference" : "CmRbAAAA5elNWBSrP7I69Z9YFfl0P-9MQf8WJhy3r1kNliZ6gNtiBntLMcRs6-rYsGb3lcoI20nUEzEHMS5hIOix4aJ0tDJLbcRZ1Z13ZkYwEewJ-WtxmvVxRQrILQJKrKqcOXR9EhA3lTuaeV4JlA-T3vxOCCJNGhQJ5HeZ8plsQNxy8Euz05ZIlYM83Q",
          "scope" : "GOOGLE",
          "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
          "vicinity" : "Khadim Mohalla, Diggi Bazaar, Ajmer"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 26.4566427,
-               "lng" : 74.62789429999999
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.45799252989272,
-                  "lng" : 74.62924412989273
-               },
-               "southwest" : {
-                  "lat" : 26.45529287010728,
-                  "lng" : 74.62654447010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-         "id" : "4af0b8be780c4deb5ca508c210838e9304489a48",
-         "name" : "Khwaja Garib Nawaz (R.A)",
-         "photos" : [
-            {
-               "height" : 720,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/104152832002288134290/photos\"\u003eMM Saiyed\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAOhWi2vgEM9_RDym0T1UEBuPPoL4H4aJaYW5tp3XTa8aZsvp8HUxBI9eWy0OQ_HbYQYIiz4ahOFY-mra8Rje-irdVxsL_DtlMQwwwnOe-c3juuaNz8ans0JlTEdL2nHlhEhCviIyF3SRxe5yG0b9H00Z0GhRAlMyY5o-9YdOmjF9f-qKSWjlGpA",
-               "width" : 960
-            }
-         ],
-         "place_id" : "ChIJ47YtdhrnazkRULxWFr7RUqs",
-         "rating" : 4.6,
-         "reference" : "CmRbAAAAjydRtai8Z2uFFtgKVPB9sk4iL94JiZgxKwFyYS3ZwrXCkLl6VOtz0c1-ADl8QN3IP-uO8QvxPnoDpnwcrCG0ZvCHrPEd9E4yUe-XYzEsPKxbmPlMkml8E2J30krEoGztEhBUujgL6J8N0k6OADKm6RbDGhQCkD5nrUmrOTG0xkVyGbND_fjlMQ",
-         "scope" : "GOOGLE",
-         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
-         "vicinity" : "73/20, Aftab House, Khadim Mohalla, Near Dargah Sharif, Diggi Bazar, Ajmer"
       },
       {
          "geometry" : {
@@ -471,13 +434,13 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/101850125875885043618/photos\"\u003eA Google User\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAhZn0-1IUzdrnABQJiaz7buTUjy7MMCkOonVUU_cHOES-VOAm5lM0DlzIFGet0_ncnKVThWgDw49gJCC13urSMDEupxM2i3op_bbzyh13sdHhHjYmlr1fygmzAjkryHUBEhAHb81ZHzhHqhfiyswfv2xbGhQ-us9cOvRL-dtlGLHXCsw9_f0moQ",
+               "photo_reference" : "CmRaAAAAJstTrEy9Rqp1_ej-r0OOqYdw-Y8fIDAFAvfF6dqOZsOzcMIMenHoLAXDw7mQR2iBdW8UUtPV7veYGgozK8bbUR7iXQeji3cMqOWRv-RHx5qfVVLNOp-PQMSCdQPTnQwAEhCkjIr1WdnPbF-C9ykGo5FQGhQSfjtbRcKX5WJnS0nxfc3hbVqKLg",
                "width" : 2322
             }
          ],
          "place_id" : "ChIJqfUX-hrnazkRM6y4OXg13gA",
          "rating" : 4.2,
-         "reference" : "CmRbAAAAbMc6QLXLwWYuejZpO4qA6TZ3jk9YbHfNT5xCTbLNepciKnSjR-JX_eQ2y9KkIEkojY6WdE1R_dT4v3aBQn0ecTTmq1dZG4maQfxkEbudHUvCdgC-N7zM-wu7pH7RnozUEhChnbZOYJGi0mY6tJ4RtEmLGhR4LwHMUoLEXDQuXYtRrLTw2BDmdQ",
+         "reference" : "CmRbAAAAte-pCuuzfF_cW2W7Yya2GlWaUWd0Ky4tsONiYWWIC37BqZWYdGZYqpK905BRStk-VPw1vb7CvJcGey9g1tQqUtJJxnEu1fyvefRSr39n6Ximhnp6NVQgoPxEEdcldh2QEhAgcdgNyuin-R7BqVS8Y-agGhQ55Uxf_y5OedQ5dODqD1hrQtqPkg",
          "scope" : "GOOGLE",
          "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
          "vicinity" : "Dargah Khwaja Saheb, Gali Langar Khana, P.B. No 33, Ajmer"
@@ -508,16 +471,53 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/114404052254545574937/photos\"\u003eNik&#39;s Journey\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAnCpE1ha41HkaaYJGNU0P3jWbN1aX8HB2BG-x9p_d0umJIvhFoCDuREhIxdpxJvTih3kTe-KENibup5Os_CEPtfFbyOwkdt3nMoqP3zlN0jhn5O-eZ2l9uo_hKYitcQVqEhCpk0Eviv5igY8DGsDbL6OkGhTewHTvQzTnrzHa-dhD1ZuDTyx6sA",
+               "photo_reference" : "CmRaAAAAwyzssLJeLKD8GG8ErAtvVVi0UkXN2eWYqw6eyQOrcBCH0-1neftvYGIISJks7B8u3NJw7f11Mj96sKMhPaW7CtHCZgmymdmbmrOP4O7EOps4HvgT7e7KiH8A17uI-tqDEhDAZ50_sJT1twh_ctY9T634GhRj8W4hOY18JDudRbpRAm8Kyd-fyA",
                "width" : 4160
             }
          ],
          "place_id" : "ChIJbYmfx5DmazkRAlSdG_QOOAo",
          "rating" : 4.6,
-         "reference" : "CmRbAAAAMwcHrVoEaWRUXszKXshLaMZTG1AP_DQu3vs6onQl3p2bOfWmbBpiyN8fo27dGgBtG1PkjRfJSyOW7wpKiCXXjX1Z9gZHRqTxrYhj7JC_cRuu7dzQ094TBZRfdtbyn4wREhCj8YsPchru4PgjxdvNazxdGhTlx5zuOynMyB6tsCieYQnyhmFeeQ",
+         "reference" : "CmRbAAAAEp6grO9eO2jKXXahXt2Q8LWHVmVq8sqptk04eqk6CniVJG090ArtxoO_YmVAONoGc0me2kCuN6gTJS4tqSReCGtTTbUjAh5uVpPM5qVkiM2JOh0c55l5jxA8XUGeFhsCEhD0bdJKBiH1yUB6iP8qYmIgGhRYwl8XLG97-clyA2QRyRC1A-gAEw",
          "scope" : "GOOGLE",
          "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
          "vicinity" : "J P Colony, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4566427,
+               "lng" : 74.62789429999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.45799252989272,
+                  "lng" : 74.62924412989273
+               },
+               "southwest" : {
+                  "lat" : 26.45529287010728,
+                  "lng" : 74.62654447010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "4af0b8be780c4deb5ca508c210838e9304489a48",
+         "name" : "Khwaja Garib Nawaz (R.A)",
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104152832002288134290/photos\"\u003eMM Saiyed\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABrP18H4jh6hae-AfBTJwxo1DYFR6eFugklTBRU5yaOFzVWGsieQc4e7070hm5YF8Yf4iwEXyH8VUSf_InB41iIC6HnUTABAtffaQx00Dns-TKQBFtjUybep5nXBsHB2KEhCsdu2_HuPYiwwBzH_Z8qCgGhSSlZnjEAjqoVDVmIWH_pZt1bALfQ",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJ47YtdhrnazkRULxWFr7RUqs",
+         "rating" : 4.6,
+         "reference" : "CmRbAAAAPL2z1W0F5b2ox57pVxN1KdgRU3iJubImJBSWSqcqMCaB5vRKWwvMJ6VAfQw8LeQIYPjhJWmXBsRS7TdknGeUGQAvN5ifOZ6Xh96Q1EVU3LKGdeit6BeCFvltz1VJsX6nEhCD069D2g8I-NpuMrBlAuNxGhTV5vPaipdZCX7_gsIZGpcj2M3yXQ",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "73/20, Aftab House, Khadim Mohalla, Near Dargah Sharif, Diggi Bazar, Ajmer"
       },
       {
          "geometry" : {
@@ -541,7 +541,7 @@
          "name" : "S.S.H. Chishty, Diwan Sahab Ki Haweli",
          "place_id" : "ChIJ2YuYmhDnazkRcY9uCRuznAs",
          "rating" : 4.7,
-         "reference" : "CmRbAAAADhK30khMIf8FIORTwO9iwfUSWjQWGz1qxEQgmE6HddrD9MAC2UtY4LaSsa54xbSq6gtj7UaUVcsEQ3KVVNA0qhB0wc8uEismDMcJq0Zjxotc2XoRsI2YX2YGhANlFgFBEhCcEDFGLS4WP4bsXSfO4fUCGhTN3GFzI_sy4iZHwZRk2wf6eDzn9g",
+         "reference" : "CmRbAAAAVvbBZWODe8RNdQtTVfPwVv02BYyo_9ybPNEXLSiWTT0p12wouoF6-875TC6rRSCCbADlMRuxon68YR3SziJVENPqeWkSpTBk1f4GGujlLO29i8zhhU-nn0b95VJCOK4XEhAvfYc41Zs8kvjTgeI5BvHlGhSZrBeDIUuEw-r2afCM2Q-OPUrumg",
          "scope" : "GOOGLE",
          "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
          "vicinity" : "Lakhan Kothri, Ajmer"
@@ -568,7 +568,7 @@
          "name" : "Zinda shah maZar",
          "place_id" : "ChIJa7x6s-_mazkRqa0PGhdn0GM",
          "rating" : 4,
-         "reference" : "CmRbAAAAyUgUCFgOV9FNDTz1eLCTx0O59UZRUkEQhcxXfayP7QYv86ivOIjPp4UAQjMQU8ewg0fbk1Xqr6CkFSQeiKaPmn-z_nifoCHsrIgqRm6a6cMIvQ2AwuJDGUF4YnQNiWpTEhD_INj6bIhncooWobl2zMTCGhRy8tpy9Y4i8IyA-TphO21oIgEGDg",
+         "reference" : "CmRbAAAAWq7XDTauV4PMZezPRPUigPXrH52VhF-Jr9kDaU5hizplPid-vxBXuVe4QWv-shCXm3c8-m9p_l_wo_C5Eaiw01y_Ju4dc8WA667mfPVAaOnbvgyqZGI0qbHh1e2fBnjrEhClZypxX4Zp-Vwi4blkX1dyGhQEQ8cMazzepS6_VHQZdkjdfM806A",
          "scope" : "GOOGLE",
          "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
          "vicinity" : "Kundan Nagar, Ajmer"
@@ -599,13 +599,13 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/101105635695690051244/photos\"\u003eK.N CHANNEL\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAI7FVJc3uWI3HekBSiPDn4n377qqIV8ryOR77z3khLzFjinZcD_38qdIeeRNyZDiInqYHlSlGYeVVqBYIoWnBkiqq05zrN9eWe4twm8zW4ij67_jRqBPKMOSyAJF4qt7CEhCyaLSTMYhGUFs3Uxm5DuXWGhSvFiepqSbAYSJdMKxUloybJY0RGQ",
+               "photo_reference" : "CmRaAAAAUadQ8LWC8ic4RAj4MCh0lFG056UO-8OHb7f8TlLSK9VZ_ukIJy4z8PokYzPmcOOvmZ8vyHdketO6Q_512xlcqO67UCx2Q8q_TmyJctsCYslnfAdfc77Subc5Mepr8S3jEhAdCkHR4oXowrhgOXk7AfbNGhS4fOjnlnZKVvSdXrYFpHtS2HdkLg",
                "width" : 3264
             }
          ],
          "place_id" : "ChIJJy_YRUnnazkRRfmSWh9MN08",
          "rating" : 3.4,
-         "reference" : "CmRbAAAA5enx6Snv9_YAbwGblwyGYX5sFiGZ7XsJSzSuDw8jIdCSUQjuWlsYiACeF9PCfg7V4cKgw5C4D7dPRA10eVgSwu6-ezYl4KZcS63n8VN4Af8vq-lo1BlS0mwx9L3Z9xlIEhAkkFP5wV07oHhQ0ssHZyxxGhQR5rxBxpdKFKoGIJKiuXZPPDuGBQ",
+         "reference" : "CmRbAAAAH3IuPR9OrF9K4KHOTIh6QUSQmtBPv090CdvIxBXcoQnyGh9yg6-hrF8w_mPMDNf3ckdPu2VI3F-8FEvprO4Ho9OD4KZjUhKx02xxnAZi6bRy3n2CrEaFcrvNlnWiITWlEhDUuI08UfLNqbOAShT8oAwNGhTlNMehnuY-hCnNPhhpehPcplHoaA",
          "scope" : "GOOGLE",
          "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
          "vicinity" : "Taragarh Rd, Ajmer"
@@ -636,12 +636,12 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/108102102622278914073/photos\"\u003esuhel khan\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAHjNiQ_UzzVmOHS9jbP6bAIzZoa8OtWPhTXhlaq9fseaWP8iPchTtxkbs8S_QjsnZ8F_2nWmEfrguk-AxeRSlV3H3GouF6kXjkEWmGjUbPgzvhMPlTpjy2hLkrZ9aGThIEhC66evXfQkJ02RHuzFCrtV6GhSR6TXaVHAYXW-mN5Eoxw_i8PJljQ",
+               "photo_reference" : "CmRaAAAAnxBh4RnE7GOqOJYZNCmaCLJz59u93xM-_C4NV5mNwyb-7X7AR4c9rfm9pvBT2WFwPpgyoIj6GGEGA6WOl7b0XsbYl1IMTCcUym_zh9OopLp3CF71VGe0k9sQpHnUqeEBEhC1li6JVWzBCt5bn816dNaDGhSeOH3mMkNoaVHAryZmD_RrFJPueQ",
                "width" : 2560
             }
          ],
          "place_id" : "ChIJKXX2C8jhazkRXY6CEuiDFyY",
-         "reference" : "CmRbAAAA6HjSCJ3Aue9QTL50mIdJ0qopG7piUn7vqo2xAGpPMxEUPfilsbgM-A9C-oqRqBg-rDACYRRD0FtNqXQbkYK9W0MXZqu6cvsnEistj5269WqcrJKtX59bBupXzImNi5FwEhDtQJtyV-ni3IVI9oSxSS9qGhRPZRR_VJEwhQU66ZYL0sjX602qsA",
+         "reference" : "CmRbAAAAB5MdefmUN2TvbuU1PfCi2jlCmbfNGcmt6yn3Hy2-FQnXZwAnoa97ZY_jQNnW82-jlu1OmcoBlYD2Mb9joOuC5SYGQWs9iMSJDAwqNXlMGK2jT54LpZzoL6FmwybwGzhyEhDIjnMXwvEjQZkgp9bJCh3zGhSXTgAQuiaB1CghSEM7yQoBTszLlw",
          "scope" : "GOOGLE",
          "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
          "vicinity" : "Hatoondi"
@@ -676,13 +676,13 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/100917709562233058086/photos\"\u003eMubeen Raza Hashmati\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAGuzp9l4pRzKzwobg9SkwxjQ3bu4aL8_80QTAQx2edkUwB75UFqNDxDnVi0fww_grST2C4bCk-p0oeADTnhQsf2w5NvR9YHmQq3nNP8wsPqtiXBzUnlyRdzFkxnX4L-uHEhAuhfAc6wWekM2jD8VWSru5GhSDk8XyWusON0Dw-id7CV0g6KmoPw",
+               "photo_reference" : "CmRaAAAAR2vH8gjSyTGjwjURtXdMjswV8QULPMxp_9OqWmQRKJBJhfmqIoDBQD28vLtblA6C6Ln8a6ia9GBlCHBqGRdiCsRcUgr4NWFvqN7xqQXXODhC4z5wgPKVS94zDrSTpyomEhC5AibdAb-Xh2c51k8kofx8GhTtkZRjqXGAGY-SloLdNG6Ug6rQ8Q",
                "width" : 3120
             }
          ],
          "place_id" : "ChIJEwSsTxfnazkRQWtUzpTY0RA",
          "rating" : 4.6,
-         "reference" : "CmRbAAAA4vX_Boc-SQmdpEnfahPPTAoOg-jd-fvTPDDFHlPR9fWVjKPOYMpisk1wY0NsUmNKGF7pQTvJL_29I65SHTAZpW-YThp9W0PHTBDGKFtKTZF4tb5PRwboOTTr71iuw9KFEhAgaSv3aXOKa3I4WcoCt_nHGhQO6_o1KH0FLs4O9ZZ_MRdYAx331g",
+         "reference" : "CmRbAAAAhachUrQCUPfkFN9815wE-mjG274HdZp0k4UrqL7v4F39LPR_ZH8V85rQgiSWTH5KYxhQulhzViHquHPWLLEbbvHvH7liU6h8o7o2w_NYw4DdQ-oDMDJXvPLSWzkk9nXFEhA9Tkk2b2h_pC7AXdFpnrWNGhSZcbGxYDjlulF2W0w0jwxtC5OAGQ",
          "scope" : "GOOGLE",
          "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
          "vicinity" : "Diggi Bazaar, Ajmer"

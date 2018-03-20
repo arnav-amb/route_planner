@@ -1,5 +1,84 @@
 {
    "html_attributions" : [],
-   "results" : [],
-   "status" : "ZERO_RESULTS"
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4700739,
+               "lng" : 74.6312863
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.47142372989272,
+                  "lng" : 74.63263612989273
+               },
+               "southwest" : {
+                  "lat" : 26.46872407010727,
+                  "lng" : 74.62993647010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "aacf9b35c10d8262282daeb6a6870a13991a18f1",
+         "name" : "Baradari",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115793199603789576348/photos\"\u003eShaikh Yusuf\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAoj82YzUw83URADR-54IRLDvS88gjbPiu52AOhcRGgTyNPwH7zeqDWZSg8qr-IAK7zdgISZ-hu19XeOV0hIXKaPcTqzH6qKCbp21B4VInUDj3CyD08YL1iFYXLWzmsuXREhAdP--yYQVYevwCgDe4VY5TGhT2WJqhimb20pFYOUEXm4RZCm5Xfg",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ2fSHyAbnazkRSGxR9KKniY4",
+         "rating" : 4.4,
+         "reference" : "CmRbAAAAZ08A8TocjSHskI7Rz_d9ykitzG-HniqDj1mCe_kmAPhEddsn_PuJ_myzwa_umMOdGJLA28_1gFNWi1--FVRl1jfi6zXcH3t7VgpI7A6qxk9PQzCnx_3WncKUmkmOnzxmEhAQD-Sl4go8DwByaCWnwx0pGhRKJqgbbQTLQxo585T2tlMjSKCplw",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Kala Bagh, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.455216,
+               "lng" : 74.6251458
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.45656582989272,
+                  "lng" : 74.62649562989272
+               },
+               "southwest" : {
+                  "lat" : 26.45386617010728,
+                  "lng" : 74.62379597010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e998b4e5626f9cb6787f7b493b0872a02ff3c08c",
+         "name" : "Dhai Din Ka Jhonpra",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110285205541160187508/photos\"\u003enaseem lodhi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAMjn-vTS72vExhAhbfglPGAP_pqianqKAdXIp8mFu18tzudzpnp1W4EDpuRRoHvPztbWf3I1T4v1joB0XtRW5goHgq-QEhjJS56vj_o8GkaM3XgksYegDbTFm3S2LqX2vEhBCNjN_NTdpNFVIQrglbjtoGhQpzfNMBGooDJwtrtybHr-tWNeDDw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ8-9-KxHnazkRfFR_tBFTvlY",
+         "rating" : 4.2,
+         "reference" : "CmRbAAAAv84G5T0Ys5OqmNdHy_WwwNnZdsXF4M9z1ZQNt4sO-fiindN25_e5rUjFsJAVfKVmpje3zaM2SbuGJszJy3Qn4N7YoL0tGSbMR6YM7wYVdPujz3bwbdTALheDKMAsUGnkEhAgkeAM4YV6jovhsbzyHmIoGhR-WmdbWOzq9WQf6xV684gk3BPSkw",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Ander Kote Road, Ajmer"
+      }
+   ],
+   "status" : "OK"
 }

@@ -4,43 +4,6 @@
       {
          "geometry" : {
             "location" : {
-               "lat" : 26.4700739,
-               "lng" : 74.6312863
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.47142372989272,
-                  "lng" : 74.63263612989273
-               },
-               "southwest" : {
-                  "lat" : 26.46872407010727,
-                  "lng" : 74.62993647010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
-         "id" : "aacf9b35c10d8262282daeb6a6870a13991a18f1",
-         "name" : "Baradari",
-         "photos" : [
-            {
-               "height" : 2592,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/115793199603789576348/photos\"\u003eShaikh Yusuf\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAlEZELcpeyWWi-D8adDdf8XrWL81ZFFvrWlEV7LfQh7fxekbHUgHiBlsivcIxNQgumlf96h7SABNCdOohWFMc4ElKcYZrE97IvrXhnXhEm0OJtx_oQrx2rQlAqBBujd6qEhBOkbfSKFakBW7kKjXCzlmwGhQsS02sYCA9vZjIdLjck3ugLBMZug",
-               "width" : 4608
-            }
-         ],
-         "place_id" : "ChIJ2fSHyAbnazkRSGxR9KKniY4",
-         "rating" : 4.4,
-         "reference" : "CmRbAAAA5IuY0UUQuFqibnCbzQDH4Tq56Ipu94XpcYDoptSgPJkDEDCOWJjb8fr94rjQwoAvpL42I3elyFb7eSBPPzDv3l9Q9rBKaji3siVfIFirJpBmHyjd1Gf0nb0CChLfbWlBEhAbyU-wnYx9vYt0_tTY5XFhGhQc0sGx1mKMRmrssz0UsGqBFNPifA",
-         "scope" : "GOOGLE",
-         "types" : [ "point_of_interest", "establishment" ],
-         "vicinity" : "Kala Bagh, Ajmer"
-      },
-      {
-         "geometry" : {
-            "location" : {
                "lat" : 26.455216,
                "lng" : 74.6251458
             },
@@ -68,16 +31,610 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/110285205541160187508/photos\"\u003enaseem lodhi\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAA-Lgh6AlC_SahdvGUe_M0awBynGEltZZkyg6JbCL41ARvzqwjRzdPo3px8kGV99ida5Knoxvq7gcP2HkW2-r4RTa2qBr2-fDmxcqKUfgv9RGw1ziBp3K6DZWfM_JfwXBmEhDg6R8XfibydijgIhHLlZKeGhTg8JOYjCGkbcEaRGQvYStgtq8J_A",
+               "photo_reference" : "CmRaAAAAFWaxgFhFd38H69y-ytxSOQjLB7FhEHrCq_G4kyUVHmdSmjKCJ0vQBCpORU2OsuhOnFN1I5sofR_HQtONa5SapZNifaJmOrLoP2QtOTIGwXPO7cGNxvIPCuWeUQIvAviOEhCzeboE_F0fxaKNliOv6CkTGhS4Pfq6pA0Pr4kI1Ly0HDpwv6XQIg",
                "width" : 3264
             }
          ],
          "place_id" : "ChIJ8-9-KxHnazkRfFR_tBFTvlY",
          "rating" : 4.2,
-         "reference" : "CmRbAAAAk-fghuuymgVxk6aDcmO8_RGPrfW5gGmC1xq09LGK8AopfWlCBygo2ol2Rvl_6hW0WlMNb_O9udROKG_2Xe98fL27Z9QU2pQkxyPz4WHlFz5PxuVcv5FzFucFsONxhOtWEhCW6yN1NXBqZq68nBHaXaqeGhS0YQHSkFDR9vZY1Kl4KHKAZeRt3w",
+         "reference" : "CmRbAAAAvwz-8vGW6EPwUUR5OeJQcg1xa6JcOO7v5G2u6-FEzuJ-9Qcdk8LNQg1N9Qk_LQlJvVwQ0eZMHAI9N9uQ4iiGPubOiULV0rF3cMIblh_YN2i-xo4KYrShSKsxZhdBcf_GEhDm7Z7P47rkdBH4-Xvw9nx9GhSbxqJA6Zes1Cb7cn0fefAMnp-ptw",
          "scope" : "GOOGLE",
          "types" : [ "point_of_interest", "establishment" ],
          "vicinity" : "Ander Kote Road, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4905459,
+               "lng" : 74.5576916
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.49189572989272,
+                  "lng" : 74.55904142989272
+               },
+               "southwest" : {
+                  "lat" : 26.48919607010728,
+                  "lng" : 74.55634177010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "a114af9792e92cacb7fa1c4bb09e6325d017e103",
+         "name" : "Varaha Temple",
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115158454694652921276/photos\"\u003eMuskan Singla\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAUpODxZ0tVJ4YP5YXkehKM3xjNutBypa-JefmeCNbpeVUX_vppQ9D1GwZ4EJyT8_hYy9Tl-rdDtZEztHvhA6_Ci0mnf3G560kewXMxSziWQTKg1TmZ6-UlgrUhc6GHgEoEhAPjvANwyPs1c6vVXhCISDQGhR11NrK1CQsJhzKsjVOukMH0L2zrw",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJk9Ym1CLdazkRTUkKnyDEGeo",
+         "rating" : 4.5,
+         "reference" : "CmRbAAAAiKy7OjjrvXbCMZ0OI-hE8FI6fzCvEisdCAjYNMoZX-zgBtpC9ytAtpOkuhUT-hmYai13T4vz2yzXvLCut1OVPZ8bhpvwFWll8OjKRutz-l4RQqdJMJijRpvEw8OxvMgiEhBSvhLlGGlRreK20_V_sAC6GhRlLsV0E-4xizg49rvTTMSekMO_CQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Main Market, Pushkar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.448404,
+               "lng" : 74.641982
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.44975382989272,
+                  "lng" : 74.64333182989272
+               },
+               "southwest" : {
+                  "lat" : 26.44705417010728,
+                  "lng" : 74.64063217010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e7515cdd7de7158ad495c3278620a633ad9f63ee",
+         "name" : "Ajmer Pushkar Tourism",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101607136403886959391/photos\"\u003eJitendra Choudhary\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAApTpaRwYYgTF0QMEulEO490zJiHTumtQX8TLt77rx7NQU3TjH0Vtmn-AfSCaoLKo843HzVHcCcz3wCkZ9-Q2UQUDMfg6Y2RAEKA2qPn4wuvUpptznmqkYZNgPyEgwfPhhEhCWT7DygsWKM30cNu8mX55uGhQ4SQmMbdHdFZ7qDI5147nl9uERTw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ86EWp9_mazkRpY-9h9sp85U",
+         "rating" : 4.1,
+         "reference" : "CmRbAAAAOd-aOp3hOLyojU7o_oiBc0OjNm6eE86a57aSdTKugI0xlaZvI0qrn_T2gqPDRT0enwj2Bl8FdApzPsPYKCfABDyqpkkzT87tqC7U8h4jaT59wWa_fAvZTs0tuKNxuEHhEhA-uOWj63rjKTRUQ631YVxdGhQTAU1cuhb7gjOePIT_uCvSn30XIQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "travel_agency",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Near Ajanta Cinema, Martindal birdge, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4644985,
+               "lng" : 74.632018
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.46584832989272,
+                  "lng" : 74.63336782989272
+               },
+               "southwest" : {
+                  "lat" : 26.46314867010727,
+                  "lng" : 74.63066817010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "3717b666ee91bf09be8299d9ecd0005c0f9b726a",
+         "name" : "Digamber Jain Temple",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109784970595060145825/photos\"\u003eaashish jain\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA08oW62I9sGG10fNWQQaGaE4PuXryOxiJIbkkX33fsfDPlUMnpJ0YXxDbCai4hQRONVCyMWxGD23aFOeXSpC3d4uXocNqOzkT09eqJeWeFuYn_N4wF3CAV0DU_J5ZXxkLEhATH4HzmlPJmBmF1f7IQoBMGhR38cbgsQXzfKMEDgeundmKME3dtA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJkTRwxjbhazkR6ixjNdvjlds",
+         "rating" : 4.1,
+         "reference" : "CmRbAAAApZpQ-KN1xH-fsJOBC7eyiBSMQGUhvEYi4WJP1sTKiwiUwK0PGudAAb_KRcrOEWwyJH8TdjW9dn6CaVucAgVIiWqNNMfPkzymBGgnQe2buXds9P2X5INtNowFIWXN9NiUEhBfDl82M_7D9v-B4Fdlkkp8GhT7E1dbJ3L_C-aRlyQ--p1TlnuMVw",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Adarsh Nagar, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4749032,
+               "lng" : 74.5399484
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.47625302989272,
+                  "lng" : 74.54129822989272
+               },
+               "southwest" : {
+                  "lat" : 26.47355337010728,
+                  "lng" : 74.53859857010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "c8bc651d7649338f6ea3bb63b1953900176cb4ea",
+         "name" : "Savitri Mata Temple",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105685297412761199035/photos\"\u003evilas patra\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHHnbl2I4EpoMuCQMjEfWWzqstHNW34iB-2paKEPkKrn1fu50SqnN4NfYK8jmUe-R6-S4rK3OWPjCJNVrjlaAWQ_0gjGHf88NtR7HgZ50JJ4mnFeximnfmNW1A8YoElBhEhBdd53FvJqJnJwZ583LslRGGhQ0fXSNA8rIlDezzkL3vYdl5mzwew",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJdaPYClXcazkRFBDCPvmKpWQ",
+         "rating" : 4.5,
+         "reference" : "CmRbAAAA035iaRfYC9ILN26flUhf6kIef-RAr24OFAO3ZKcxkOf2sHJjTsnuXAiZOsZTJODrzdekyIoth7Hegn2Rk_6XJ79FHFGa_SJOwM5NtiWDntJFYTP1h1UwHzg4LhFlSTxWEhBfInW3ALAbuplN89TwRmhOGhQ8ptF_zJ5mvMw4hWYpPUieg07zqg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Kharekhari Road, Pushkar, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.487857,
+               "lng" : 74.563643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.48920682989272,
+                  "lng" : 74.56499282989272
+               },
+               "southwest" : {
+                  "lat" : 26.48650717010727,
+                  "lng" : 74.56229317010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9e7cf4a472922f206a936e9d5ad689fd726a1518",
+         "name" : "Pushkar Sightseeing Tour",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107849124272853251759/photos\"\u003eShankar Lal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAfn_kXNxnLKXzx8lhP918-eojkHHy9pSP34_E5Nix_PTXp5K4mBh-efDCcPKS80mYfVSJk36jIKzGxvlkye-OdfTVtfEjXTGsMK_2g5sA5uUnIq7pR-c5gwn2WWHGD1wgEhCMq_50OC_wyhaGsc9R2sKKGhSeKgubsIDBfOLuMrG3rWtkVbDe4A",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJS44gBhbdazkRY2lxhcOV0WE",
+         "rating" : 4.8,
+         "reference" : "CmRbAAAAF9Df5y2IHLRfTTDk2IrUXaHQpQOc_O0Y9Y_OLU9DTvQk-eiI7nOdujzNAA5FmiQ5kX_LswoR57Lb9RT55DO6dnx5X3cKRxGNiNz-WwTViCp7o9BjWcN3Tyb7XBZ7NHVAEhDwESoovAJatQJmLzZEClxLGhQhl-4XiJdNz7qa5XBjaIV8K57hKQ",
+         "scope" : "GOOGLE",
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ],
+         "vicinity" : "S.No-5, Naukhandiya Balaji, Ajmer Road, Pushkar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4852867,
+               "lng" : 74.5392233
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.48663652989272,
+                  "lng" : 74.54057312989273
+               },
+               "southwest" : {
+                  "lat" : 26.48393687010728,
+                  "lng" : 74.53787347010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "69057b245ee9fe0b36b9c2b3db35f6d4c40b763b",
+         "name" : "Sand Dunes Pushkar Tourist Places",
+         "place_id" : "ChIJexzlXOfcazkRuDvEEc-fxRw",
+         "rating" : 4.5,
+         "reference" : "CmRbAAAAedH10vQb9-2MvoGISS8B227o4EtRl8ZQH1YHLe2sBAB-l2ttEbIRWMwmiJd3Oixyyr6hHD4qozAyoeWWqJTQHWLZ9YPck0XTqPokPw88nvnGaBRmyrWKyFhOlIMUkHs9EhDItDgBv26lFeh4KMUDQU-LGhTe3IJ07zICCh3PkzN6hCvI7oUUCw",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+         "vicinity" : "Pushkar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4569134,
+               "lng" : 74.6277817
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.45834307989272,
+                  "lng" : 74.62912307989272
+               },
+               "southwest" : {
+                  "lat" : 26.45564342010728,
+                  "lng" : 74.62642342010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+         "id" : "07d938b1b86b7879fd1c5cbaa089cf04a534e11e",
+         "name" : "Akbari Masjid",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108231377838516892544/photos\"\u003eIqbal Ansari\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbWn0-ytf7_f9aP99e5TsOjAprkFTD05C-uOc_1Guu0Sz8F74PaPoHtoAclYGtBW24syVzrCqUhkjbGCoGxARWIwwyOtIuhmCoNBGqe1ExV8dLV_bUPmdY7Vp5O1B-xUAEhBxGvZ4q0-bWCiIV9dKvKnDGhTlEugO9AmDhiXFF_KgSeETy5Ke3A",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJf60emBDnazkRJ4G2wDCvK00",
+         "rating" : 4.4,
+         "reference" : "CmRbAAAA-e5usqAJ1hYtf9kTwnriiCKxBYjNA3_DIbo4Pf-qSGJIHqD6rZUk4jnJ8PTdPpk2YbDNAM52y9jG7cONwYpliVPluAjbp6WoHgOyc17i_mCcT0e-c-Z6UGLhyghAYWEtEhB8K4nckC4VLaZwf0LMXZO-GhSIgnnkO4_8QSfYiAjczjpuz9RfDQ",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Ander Kote Rd, Khadim Mohalla, Diggi Bazaar, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4902141,
+               "lng" : 74.5549527
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.49156392989272,
+                  "lng" : 74.55630252989273
+               },
+               "southwest" : {
+                  "lat" : 26.48886427010728,
+                  "lng" : 74.55360287010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "1bbdd2a5f0c466044faa376fdd66d5f1a4051d0a",
+         "name" : "Sri Raghunatha Swamy Temple",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109112731951632722265/photos\"\u003e \u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAR5dlwIms0BAJE_fI1ZZi3Bz31fi2B_nQt3sSGzJ0_nWAE6hZxmvYoxncnGspnMv3ohx-SYlCwr-PlZm-aE2V6E_6iv91NC1VeQS0UyMu4AWfdzHJjQ71gCNtQTCFTKkuEhAovVmYM_fa0trrzbC8TZswGhR4Q0HAk4vhxZ_vdr85vlX44TjAgQ",
+               "width" : 2690
+            }
+         ],
+         "place_id" : "ChIJ3xfKVSLdazkRfgICueuFwtQ",
+         "rating" : 4.3,
+         "reference" : "CmRbAAAAJjLhZsDwX1KF7-Lyf1xWQPBDXf-ffWN81-7dMl-7AoGaDk0dzNAEIY7sgv5JTNTfYzbO2ZlvIWAzDa9ucUqlHNLo0bcWNGzEVWT-80jdSyvDdXK5w3ysr2dasLIroM_nEhCF7jmSBdQy5CCGsN_PBCGqGhSBQjhRA6zg70Z43kICPaeQjLTMFw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Pushkar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4873591,
+               "lng" : 74.5488297
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.48870892989272,
+                  "lng" : 74.55017952989273
+               },
+               "southwest" : {
+                  "lat" : 26.48600927010728,
+                  "lng" : 74.54747987010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "228357d52c2dffc4f44185c9b1d559c759ad185a",
+         "name" : "Brahmaji Temple",
+         "photos" : [
+            {
+               "height" : 334,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100160629484392217430/photos\"\u003esiddharth mishra\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAQ4kLBQzqZyeqk1T1nnATA5SIoqGkx8HXl4WZHQoyEkaSjgvHYm2ngRC-1zAs0fz5FMyz4shFt8GfmMZ7bZPFgUexy3RT4KW11JeWHxolATg7vatAVbem4kzRSjCPngE6EhBBKfs0nLflDbW02AcNj-WVGhQl-bTYut3GnVwz6L9ptfDAVmLYsQ",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJ2fC6LiDdazkREIevIjlWJoU",
+         "rating" : 4.5,
+         "reference" : "CmRbAAAAnaCVCs7MyGPyRnmtzwLeMooQNFKpsj6MyaqtoNuzwBW1YFI1aWlEpjAKIlo4coIgzryVNKc7PQb_rmPzPMo5qo2qPv2RutyXXaq3d1VS6YtwJviiwmUQRrIhvGFRHc1mEhD_RJPnSxuIzH8p8ScaErwfGhR8qnrY3GB5sFzl1gjI771s77wjbw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Brahma Temple Road, Ganahera, Pushkar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.456118,
+               "lng" : 74.6282011
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.45746782989272,
+                  "lng" : 74.62955092989272
+               },
+               "southwest" : {
+                  "lat" : 26.45476817010728,
+                  "lng" : 74.62685127010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d10c64b04ebc276207c8d206c6cf5267061943cb",
+         "name" : "Khawaja Gharib Nawaz Ajmer Urs 2018",
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108420439029792133578/photos\"\u003eAMIR IHSAN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAC7KW4ljy8dnt_xp2c-U38erTZo2EkflKlneh23EW5RrWDDmf-X8moxdTDHK_K4l50--gOj0iD_nmW0627ByasHPpiVpBmJLpksFOe5oL1NZ22U_nm7N8ZuGKy0UhKrEiEhAY_n2Jj17zlz5cGswoFufuGhTItqiZ6UmbEUWi4TCIuhSLbJ75jw",
+               "width" : 604
+            }
+         ],
+         "place_id" : "ChIJGV0pphDnazkRO5ANkwKf2hc",
+         "rating" : 4.4,
+         "reference" : "CmRbAAAAeyyUvPf7JuMl5XFqHq961tzojdA_OUp4uygzTCouLc0IJGNBUPxJ9OKRq0PD4TNkazzRTJJapxg0yvoI_EwzpG6Pn-TBUaU9aUZ3R9dgdwA_6HHnTMYQrMxTQPa0FFKiEhBtH-h3yMGPE1fthp23NhueGhQPL3sK8_Pa3y7urvzJWDSAR3N_vw",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "111, Faiz Manzil, Nathwan Shah, Dargah Sharif, Khadim Mohalla, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4930833,
+               "lng" : 74.60275229999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.49443312989272,
+                  "lng" : 74.60410212989271
+               },
+               "southwest" : {
+                  "lat" : 26.49173347010728,
+                  "lng" : 74.60140247010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b7fbc0b176e90692c853a8857adeb3e221e55487",
+         "name" : "Laser Show Maharana Pratap & Chetak Smarak",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111506716728582092747/photos\"\u003eMahaveer Suthar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAXx8ApzN_4fwhf5KNbXhbu43bPhIDLC9DwcDgg4Jx_81ZpCk33msEnLlIuOdQuLomevsHKvmLOQKkIAYVwDGOvn3500B3INe170VV6jGBCTGazXhEXaqorkKgYuBxCs68EhB8jDQieQagO5Fjt5zJGicvGhRCiFalkMuUXlYun2fTmOdOkcJL0g",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJH3M_zfLnazkRxRJJcESBoPs",
+         "rating" : 4.3,
+         "reference" : "CmRbAAAAa9DemrXHea2rcBfSfc4nzjQc1e641GHRrbd20sUkqImFFLb4CdWC12rKQF8EJtE1dEvPqF17PkOLM5Hblr0Q7RyoDv4HYwRfGa7DTV4c4FGaHIgOhr4iZ0ycBaF47GAJEhCKH06zauI7uc7bqYUYnailGhTiNzAbnrmB5z7i_AdE6O9SHpTLIw",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "301, Pushkar Road, Near Haribhau Upadhyay Nagar Extension, Nosar Ghati, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4740881,
+               "lng" : 74.5453852
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.47544782989272,
+                  "lng" : 74.54664942989272
+               },
+               "southwest" : {
+                  "lat" : 26.47274817010728,
+                  "lng" : 74.54394977010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d1850b414e9a43ef14b4d9210cf130278ed13ac1",
+         "name" : "Bagdawat Ki Bawdi",
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115272698665602779642/photos\"\u003eDinesh Rayta\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAuV9tqPNyevWc5iLhuNWfXvkcQ9NWxwJq76do9ezxcVCcV_3FAwtrQW25p-RGA2NLKYfHjxGifoOkM2UH7mUkHFgN5fTSYUGoBB8pdLmtpeRulRwjKEiZMovRqF7HQ3J6EhCIHVpTpmmHHA_pOaPXSOyrGhSqHLk94144U5uTltq6smsz9SAG-g",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJvxNcRP3cazkRTbi4VUeiSbk",
+         "rating" : 3.4,
+         "reference" : "CmRbAAAAKgKrzH4F9rol4xed730JnF5ohakmUpbIwiSRV_R9K8XA_spfFKDYDTGftepBMVV1WWHZsMi4DQy5qAfNKbegdJ_qTCQyxEFq0U5NcOUvCA2MuevlBCUQt-D6xuuVS-nMEhCRKIhL7-e1Fcb5kMW4XPBHGhQIdB28-vZUM5YfTMSL8ddiFYgEBw",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Kharekhari Rd, Pushkar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4592556,
+               "lng" : 74.70353
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.46046777989272,
+                  "lng" : 74.70811325000001
+               },
+               "southwest" : {
+                  "lat" : 26.45776812010728,
+                  "lng" : 74.70200224999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "17ff28cb8c564d8e0d0b54f6e0c7134118a1954a",
+         "name" : "Nareli Digamber Jain Temple",
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102592056362320885612/photos\"\u003eKaroliya King\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASjp4YsJ8w7038IWfgIVATr1vYsg1CDtSOrONhMWpIuhjX-ixBABDa5lNlTujVG_3jW2YalvRgOlqOb6861vW8wuXZO_HXTCdaFcBwq-6a-ms7c8w8e3rgjwzokbggL4jEhDT3wz5b3hHGwfULoMF7hG3GhTwUcTlQDsQpBu20qNiT5fL30-_9Q",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJR11D7z3kazkRjFBu53k5MT8",
+         "rating" : 4.6,
+         "reference" : "CmRbAAAAJ1F9FMhMI8tEAXgEvb2TCFQ3HDujJhzLDFlDkue_z53X0Dz2vcvy-RtnKOz6UtOwTph0-DwCgD_ch9RlWhDSjKZfN49uRj-xM36tC1sujfHobay-MrasZ2uPwLdyl7E-EhCPoo3leRUq1gACSDpe6cGuGhTdvEW-vSD3FoYvVr88DUxIzORGcA",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Nareli, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4566637,
+               "lng" : 74.62797379999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.45801352989273,
+                  "lng" : 74.62932362989272
+               },
+               "southwest" : {
+                  "lat" : 26.45531387010729,
+                  "lng" : 74.62662397010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ee5338876ce7feeb85e76f3b2289d66c8fe38ef2",
+         "name" : "Choti Dage ajmer dargah",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 576,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112684428106637529564/photos\"\u003eMohdraza Noori\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAvs75avyxM-Al8KqOmlsYKLqpy14GuIcWBc7IaGjQWmw7EGzXiMPRcxcuywsFWniGJ0zJr_QquMPsqX1wITVL2rsJKxtLKbhJe5raSCojlBJgvyz7hVGIS6z60UvXedfDEhBC2ADfyTnQ0M7PTw-PORdfGhQLVHE_bTAgzwkTKsg-24XEvi32Uw",
+               "width" : 1024
+            }
+         ],
+         "place_id" : "ChIJoT5_oBDnazkRh6T-4PvXn0o",
+         "rating" : 4.6,
+         "reference" : "CmRbAAAA0kFyf5YRPEKVtQ9c0dBUP-h0tSXR-jT95IEtHQPSW86iojjstZnStT_IJ1EMQku6nW7dnmPi-73rvccqLPi8a41HEs84bt17wLG4jfkAu_rZCK2dv4Ypgz0oodtrtOrvEhDIJ9e8pd2OhAwzsv6waNHjGhQq-F62kzpnNbqaPCfLyKyVAvHKjQ",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Aftab Manzil, TB-75, Diggi Bazaar, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4622274,
+               "lng" : 74.6277509
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.46357722989272,
+                  "lng" : 74.62910072989271
+               },
+               "southwest" : {
+                  "lat" : 26.46087757010728,
+                  "lng" : 74.62640107010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d3c14e12813dec67c846109bc5165ca7182550df",
+         "name" : "Delhi Gate",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110558106782145789810/photos\"\u003eNizam Barbil\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAK2pppm4cbUFo26y5J7K_RLDEP62QwwdH-gnRrneXvnUAM4sysQlfNc8w54a8QFWjizCsI6tJ3kw1zZFd0JoQ1xBpPzbtZ9mcJsWp-t2kVGZhSYwQPg_wVOjeLTbpTSXfEhBRLPuee5F5ojDuuFTxDBRiGhTWnwRDAT7bEtV9mF45rTWgK6kawQ",
+               "width" : 3000
+            }
+         ],
+         "place_id" : "ChIJ1z4m7g_nazkRDz0vnHgEPE0",
+         "rating" : 4,
+         "reference" : "CmRbAAAASr34stFXJ-ptcoJjfvEZBPUyKgTL1X3NEbqwAat44txqn0BMUPUEs3-bezV0jE_HREKvsMGYTeZTN4wbmy58K8DIrZ8hTADCKoeyNv_Jsp4O-RZofVKpPGK_dWHG6q_OEhB1Ymw3BzJqeID_EG5VZc4LGhRmVl4BKjYqpO-jhqBpJVBos837Qg",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Kumhar Mohalla, Ajmer"
       }
    ],
    "status" : "OK"

@@ -1,126 +1,30 @@
 {
    "html_attributions" : [],
+   "next_page_token" : "CrQCIgEAAEy3NSOrBT0yhq5R_E6Y8IgUAkwZXetZpJ1-s2lShugQxvEmZ7NUbawouG-MpOpgjD8WQvT1iOp5OwgUx23mF1QZRk5_XYSyu5zMHdm5Iwf5HRyFG0ExK6iXz-brmSEh2KlG14JJSNT8bUucrjnqeuv2ylGX59173LdvYgc9tio76vSpWQYciUGAbf7ahVJUg6fo-FTn5WVNTe39Hcdg53K74gPWA977UO-kfFKhB5oOc1OIVsnEo8xiwyqBsw8x9Imq6zbNNPWB4SdYE__I0AsPHaZBZaPF3VZD2RHlBMrlRJfGPCqB0D2I3iXR5b86SFYdVVyzca7LtJUFcMnpZwFsX7KFQtEIX_ac_zjIAVJEZDlA4M8fTvl4NzaQYzazhimVyijnlMtwl5Ce4oFbd-4SEIX28PbB4tL4CBGoNYunNl0aFDVrQqEd-glA7dFArHdYmsBCG3IC",
    "results" : [
       {
          "geometry" : {
             "location" : {
-               "lat" : 26.448404,
-               "lng" : 74.641982
+               "lat" : 26.4414393,
+               "lng" : 74.6337814
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 26.44975382989272,
-                  "lng" : 74.64333182989272
+                  "lat" : 26.44278912989272,
+                  "lng" : 74.63513122989274
                },
                "southwest" : {
-                  "lat" : 26.44705417010728,
-                  "lng" : 74.64063217010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-         "id" : "e7515cdd7de7158ad495c3278620a633ad9f63ee",
-         "name" : "Ajmer Pushkar Tourism",
-         "opening_hours" : {
-            "open_now" : false,
-            "weekday_text" : []
-         },
-         "photos" : [
-            {
-               "height" : 2448,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/101607136403886959391/photos\"\u003eJitendra Choudhary\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAA_NVKK8JNgJWDBEWaYx96g3tkqewn9ShZkW1EHHr_Er-V1U4ohVTcYTsXsi3-EzHnXK-ZaMc-bChb0Gcb8T10plX3-EKbjnZPPkSRunTSoS49SGNQ-Xj-w4vBxk-fPJstEhDogdpl9WAmmwxlsYRKAjxnGhSdtu-0SFYazIRbVgX_vGKsvtg2vg",
-               "width" : 3264
-            }
-         ],
-         "place_id" : "ChIJ86EWp9_mazkRpY-9h9sp85U",
-         "rating" : 4.1,
-         "reference" : "CmRbAAAA98uMFBpyLcsP0lDdVzR39xWEihjwO6iZRva3PtjY81jfVYfA_y_n9L05JKDafwf6hKKN1ogGC8YLjtR63FGdtCnRu7tvBW50uUX-1YPPGhYGTgBknDWdnwl7U4q-ihOFEhBXA2M4h3N78DJvy_agKETuGhRToRuHI1EHVOsYBF4Nl1wXASU8aA",
-         "scope" : "GOOGLE",
-         "types" : [
-            "travel_agency",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
-         ],
-         "vicinity" : "Near Ajanta Cinema, Martindal birdge, Ajmer"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 26.455216,
-               "lng" : 74.6251458
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.45656582989272,
-                  "lng" : 74.62649562989272
-               },
-               "southwest" : {
-                  "lat" : 26.45386617010728,
-                  "lng" : 74.62379597010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-         "id" : "e998b4e5626f9cb6787f7b493b0872a02ff3c08c",
-         "name" : "Dhai Din Ka Jhonpra",
-         "opening_hours" : {
-            "open_now" : true,
-            "weekday_text" : []
-         },
-         "photos" : [
-            {
-               "height" : 2448,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/110285205541160187508/photos\"\u003enaseem lodhi\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAA1xxKIE7VD1EfJ7mEY0b6Lnk9Uq8oq3gfRVO7U19Ogdoa0oJeC7JC3ZbaIicAU7jGvmXnP3Duntp6ZVxTJ4m8WZQc7oAWamuzfNH_rVta4icmmtj2oHvaAKkuzugIFZHcEhC3yE7Qlbzndqchb8uAMXmeGhQfMIQYJHDEKEcyDUo8ISRNCpbBvw",
-               "width" : 3264
-            }
-         ],
-         "place_id" : "ChIJ8-9-KxHnazkRfFR_tBFTvlY",
-         "rating" : 4.2,
-         "reference" : "CmRbAAAA-p_7Kaw0_rChgWfJSO6AbqlTuIPFr2Una-b6bdtI8kChLd20xIx3XB__xev2oLhPgXn2cBy-lDIPAlPy1YsDP7Q5i8vqplDbEn3N5LfWUrrLDEMBKwo9GQMRbZ_ATJedEhByfVNF2fC3FRqhzJtBr6d8GhRvFeTvR6nb8nPgi51a9zntBvFDjQ",
-         "scope" : "GOOGLE",
-         "types" : [ "point_of_interest", "establishment" ],
-         "vicinity" : "Ander Kote Road, Ajmer"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 26.4905459,
-               "lng" : 74.5576916
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.49189572989272,
-                  "lng" : 74.55904142989272
-               },
-               "southwest" : {
-                  "lat" : 26.48919607010728,
-                  "lng" : 74.55634177010728
+                  "lat" : 26.44008947010728,
+                  "lng" : 74.63243157010729
                }
             }
          },
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
-         "id" : "a114af9792e92cacb7fa1c4bb09e6325d017e103",
-         "name" : "Varaha Temple",
-         "photos" : [
-            {
-               "height" : 2304,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/115158454694652921276/photos\"\u003eMuskan Singla\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAofWd_SwsufU-js_tL8luBvkmAWaO8PlzOVoTn9qBTTNgf3Qns-ctEtxyciJ4rdXccTOIcKb7IVVCgUg871zkqFCpBtRZnf6oqiPlbW0tG9VPz7z9ub93BC9Eo54wEjt3EhBIurqn2Qeu6pNYtNPzJEEAGhRLdcc6UZefxTa5JIVC6NQYYWIF6w",
-               "width" : 4096
-            }
-         ],
-         "place_id" : "ChIJk9Ym1CLdazkRTUkKnyDEGeo",
+         "id" : "ac7ba23079f88c6b0b1fc75f441ab9be41518638",
+         "name" : "Iskcon Ajmer",
+         "place_id" : "ChIJz6CC0yXnazkR2ygW20_IdpU",
          "rating" : 4.5,
-         "reference" : "CmRbAAAAQ1QHq2aX0pnGzuzOxr1u7Lwmh9WJgRUwDZqZios29Hoph7TZe8XQ_gbBs5sQpSc1RbRJfqg2oAOkfqHHfdPhiaDo27DZiBbbjqMwWU2AB1vd_0JYQZUT_4JQavlPVG_iEhDdmzqRYB5xYaxbUw62twBTGhR5Vj5S39FwE3Ra9twoZ46jhSy_MA",
+         "reference" : "CmRbAAAAbxUFl7b0AxMcp-HnP2g07rOkExwKjdWMIe2wLgqfRLCjIYMAJKgex4xTzIGWMB0RH4d8bDyYJtu0dEb_GvxWfOglX0cEWXF9rVVH9dXotn233YrQrAvLaB2y7zfy6dsqEhAt5VAxfEHVEptQ7Tx99QA3GhRl8IbXZazUbhN_PWKKDnWV1KVp8g",
          "scope" : "GOOGLE",
          "types" : [
             "hindu_temple",
@@ -128,394 +32,7 @@
             "point_of_interest",
             "establishment"
          ],
-         "vicinity" : "Main Market, Pushkar"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 26.4644985,
-               "lng" : 74.632018
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.46584832989272,
-                  "lng" : 74.63336782989272
-               },
-               "southwest" : {
-                  "lat" : 26.46314867010727,
-                  "lng" : 74.63066817010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
-         "id" : "3717b666ee91bf09be8299d9ecd0005c0f9b726a",
-         "name" : "Digamber Jain Temple",
-         "photos" : [
-            {
-               "height" : 2448,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/109784970595060145825/photos\"\u003eaashish jain\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAkrdtZL85pcYtsgfyjy8X7dsoVLyhMnVDffw774r_ItX2-XoBG_n9Ttl1F-J8KmijFpbS0lYRKmuo4Tafnh1fJiu41hnz4Wf2kBAX_PC4NrXjVFbQ5CQn-hBJaONXUPdQEhBg-WnT8RnYP5Fc5oRgKHNPGhQDDDJjbuQvXSP80pIXWPXWQpTO-Q",
-               "width" : 3264
-            }
-         ],
-         "place_id" : "ChIJkTRwxjbhazkR6ixjNdvjlds",
-         "rating" : 4.1,
-         "reference" : "CmRbAAAAap1zzZMOD1P3IZpVQmXAvrlH-EQjcr-ZQIXvO0CO8LyLoyoxWH5Pd-CyLvZcIxuk6UxGFcY0RJQY6O6kenL64C7qgi97TBT-C0refZd8lCaZ1L2dOXFcQ7LHk-ayRqJVEhCRUPdQcGR38lQVekAG4oA5GhRMoRgd6xcpNKApjQMkTWrhKjrj7A",
-         "scope" : "GOOGLE",
-         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
-         "vicinity" : "Adarsh Nagar, Ajmer"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 26.4749032,
-               "lng" : 74.5399484
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.47625302989272,
-                  "lng" : 74.54129822989272
-               },
-               "southwest" : {
-                  "lat" : 26.47355337010728,
-                  "lng" : 74.53859857010727
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
-         "id" : "c8bc651d7649338f6ea3bb63b1953900176cb4ea",
-         "name" : "Savitri Mata Temple",
-         "photos" : [
-            {
-               "height" : 3456,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/105685297412761199035/photos\"\u003evilas patra\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAhY2ifX3LgkuzFdQFfhKZFESZxJ1EEoOtOOivuf65UgKYUb_muzfnEKVecJxstgjyeg-WPwC4XyjcpIph_eK7qfbbZ6Pzaa9OODbX6ewhMVd8Tk5tj2BOELeKsYKFRf_bEhCu8yh4jWPuYPPIsTnH-mjFGhSGNNDQLlol-XSPcrrUed6D_ZL1cA",
-               "width" : 4608
-            }
-         ],
-         "place_id" : "ChIJdaPYClXcazkRFBDCPvmKpWQ",
-         "rating" : 4.5,
-         "reference" : "CmRbAAAAa726ALvBfeCtm82go-dMz8mYM1o0fn_1OzEug5D5oeGzuObSXpRLP8sp4H26zFCYc8fZTHf-fDlfMlN7iGzfxAmBmvfLjTnq0Dp9zoNA-BThGIiMauaezEyPd60868_6EhAf_9WnJMu-5sSx-0pPNwVTGhSc-srlovOwXAiVGVJNP8dH73ucdQ",
-         "scope" : "GOOGLE",
-         "types" : [
-            "hindu_temple",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
-         ],
-         "vicinity" : "Kharekhari Road, Pushkar, Ajmer"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 26.487857,
-               "lng" : 74.563643
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.48920682989272,
-                  "lng" : 74.56499282989272
-               },
-               "southwest" : {
-                  "lat" : 26.48650717010727,
-                  "lng" : 74.56229317010727
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-         "id" : "9e7cf4a472922f206a936e9d5ad689fd726a1518",
-         "name" : "Pushkar Sightseeing Tour",
-         "opening_hours" : {
-            "open_now" : true,
-            "weekday_text" : []
-         },
-         "photos" : [
-            {
-               "height" : 4160,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/107849124272853251759/photos\"\u003eShankar Lal\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAf0xI4XrXpxCQTVb3I9p0EvlDuL_qbgrr4P6DR1rRm4cAp1xytvSgezovq3iRJYZAUWzvFiu89xxzTZUQ_9ruldW3YO3mRVb2SM0HUqkeHiLLU6HldJRu9dGwI2BjIkTgEhBQjWTGqo_CeNte8bUqUtskGhSbWu6EmQOpnagqUo6K_Z_3vBBm-Q",
-               "width" : 3120
-            }
-         ],
-         "place_id" : "ChIJS44gBhbdazkRY2lxhcOV0WE",
-         "rating" : 4.8,
-         "reference" : "CmRbAAAACH2WGmn91JBKbWF3BS8hu5sO8AQra4ZDQeEW0mKI-vuy3A4XBw0MiC_ow3J1eafuMwzomPwMD2iHP2S_1Lk4th5Iul3GdhHf0IT695b_Hk3CBqoKh4N0YVP_ZgyKyjIIEhAL7Xjpf5dr3iiuOnhcddnaGhQug6cp0-qhPADtKPFE16Rae3Mfmg",
-         "scope" : "GOOGLE",
-         "types" : [ "travel_agency", "point_of_interest", "establishment" ],
-         "vicinity" : "S.No-5, Naukhandiya Balaji, Ajmer Road, Pushkar"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 26.4852867,
-               "lng" : 74.5392233
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.48663652989272,
-                  "lng" : 74.54057312989273
-               },
-               "southwest" : {
-                  "lat" : 26.48393687010728,
-                  "lng" : 74.53787347010729
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
-         "id" : "69057b245ee9fe0b36b9c2b3db35f6d4c40b763b",
-         "name" : "Sand Dunes Pushkar Tourist Places",
-         "place_id" : "ChIJexzlXOfcazkRuDvEEc-fxRw",
-         "rating" : 4.5,
-         "reference" : "CmRbAAAAylkBsZCSigag2Doc8Msakj1cI1xZeESlpgWJgH3oXQVifv17z5R6JPhxh2FKN0aEi4wExv-pZlEfA7uathigolmgwMTVy6raIgs-JroGB_jSBEhfLQbI6-Jo0XJOHJOQEhC-0vJCb0cWGCnFlKdP8GIRGhRlrFSTJ07pixP3J8K8tuNx04ibHQ",
-         "scope" : "GOOGLE",
-         "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
-         "vicinity" : "Pushkar"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 26.4569134,
-               "lng" : 74.6277817
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.45834307989272,
-                  "lng" : 74.62912307989272
-               },
-               "southwest" : {
-                  "lat" : 26.45564342010728,
-                  "lng" : 74.62642342010727
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
-         "id" : "07d938b1b86b7879fd1c5cbaa089cf04a534e11e",
-         "name" : "Akbari Masjid",
-         "opening_hours" : {
-            "open_now" : true,
-            "weekday_text" : []
-         },
-         "photos" : [
-            {
-               "height" : 1836,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/108231377838516892544/photos\"\u003eIqbal Ansari\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAA7DVW94T_21WIDmAPQSbpUJyWUCr6Aun1aozw9i1Hoc-LHeBZaQr55C2urWwnZJXy5RXmMCiutQCUFZ-ah_eh9PyD4E23JsrPibG__v2g1uD93ZCF3xaJE4hu3qGcwEn3EhAsdSRoMqxPFYpOPtyexCz8GhQyKn9_XqP2w_uTwCfhr_g8HAU6-g",
-               "width" : 3264
-            }
-         ],
-         "place_id" : "ChIJf60emBDnazkRJ4G2wDCvK00",
-         "rating" : 4.4,
-         "reference" : "CmRbAAAAtVjKmWMCfD4G-jmC_RgwrEzP4uaQXPRLwxvG7RJBz_fvvp_qX2r3uqmPVvuUnijeaSLiJ_kGfkkf0GAR1d7UhLuIC2woYit_ZNRaqBoF7aSeUcgnop5kLYQI5X5n_xOgEhADiSEq-iwOdZ3idFQppaczGhSmQIvuK0cZ56UXww6VA43F4RzpRQ",
-         "scope" : "GOOGLE",
-         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
-         "vicinity" : "Ander Kote Rd, Khadim Mohalla, Diggi Bazaar, Ajmer"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 26.4902141,
-               "lng" : 74.5549527
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.49156392989272,
-                  "lng" : 74.55630252989273
-               },
-               "southwest" : {
-                  "lat" : 26.48886427010728,
-                  "lng" : 74.55360287010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
-         "id" : "1bbdd2a5f0c466044faa376fdd66d5f1a4051d0a",
-         "name" : "Sri Raghunatha Swamy Temple",
-         "photos" : [
-            {
-               "height" : 4032,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/109112731951632722265/photos\"\u003e \u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAA5iDqpU8WCP4pUy2qZC61F7H-nBH8pSAVBUhDE3qgeuLFE_nFYfReOgXyMYVB88LWF5DtiTQ2yx2_A3jlCbXcrg47ry9ZK7OkUR0C7FTAbAVau6izzF1SGgi9gHWHEPLZEhD1tBuTn2F62dACyVPyzLxwGhTk3TX8-NXngE_GInDbpb8V8NgWqQ",
-               "width" : 2690
-            }
-         ],
-         "place_id" : "ChIJ3xfKVSLdazkRfgICueuFwtQ",
-         "rating" : 4.3,
-         "reference" : "CmRbAAAA5Fjs-LHxYsJy62vXd8KhUwxz412qfx5-5j7CbCUGv69G8c0vTafn9Y6Evv7uNo7ydyWTbek7IILXhRBOphlPgwRz0vh2mdg67uyynpUFM9IDyZzAs6j94xuE9XdGv1DmEhBcAbLSadPS8REg7NXmoXkKGhQMy5ZESdliawZi8mMi9Tvrr8qf6A",
-         "scope" : "GOOGLE",
-         "types" : [
-            "hindu_temple",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
-         ],
-         "vicinity" : "Pushkar"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 26.4873591,
-               "lng" : 74.5488297
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.48870892989272,
-                  "lng" : 74.55017952989273
-               },
-               "southwest" : {
-                  "lat" : 26.48600927010728,
-                  "lng" : 74.54747987010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
-         "id" : "228357d52c2dffc4f44185c9b1d559c759ad185a",
-         "name" : "Brahmaji Temple",
-         "photos" : [
-            {
-               "height" : 334,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/100160629484392217430/photos\"\u003esiddharth mishra\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAADjetcxSFhQtPBYbagbjDKSSux6w-BaOQ7DXXTnBrTBtvsMJoeIYvIkZQvcNFprq1HdEXdN3nd4Lbvv-DVlsqskbAP2AZ5SGaxxk2cWNvw1kKgVMp-QMy4QjDXHE7HFdqEhBx6BZYatZitZnVJP-7vnYpGhR1Fg8uyteZZYF9LOc_pDYzOEfF7g",
-               "width" : 500
-            }
-         ],
-         "place_id" : "ChIJ2fC6LiDdazkREIevIjlWJoU",
-         "rating" : 4.5,
-         "reference" : "CmRbAAAAGAWXHeYrXSAJcWrbP-mOvLkW0dj_nHElQz0Tv8VYRYn3Go-lspfOCFKMQHeKSV9v5z_WqoD5qOEEp02eNI8RIkDM-Ck_RzyqJwSesyaCo1O7nhQMV03MqFg3Qq5dkEp-EhDmbBQNjrS-9p9Kw6DkzSSnGhTsOUKitrKloXUO1lIN3g_1lIfXog",
-         "scope" : "GOOGLE",
-         "types" : [
-            "hindu_temple",
-            "place_of_worship",
-            "point_of_interest",
-            "establishment"
-         ],
-         "vicinity" : "Brahma Temple Road, Ganahera, Pushkar"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 26.456118,
-               "lng" : 74.6282011
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.45746782989272,
-                  "lng" : 74.62955092989272
-               },
-               "southwest" : {
-                  "lat" : 26.45476817010728,
-                  "lng" : 74.62685127010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-         "id" : "d10c64b04ebc276207c8d206c6cf5267061943cb",
-         "name" : "Khawaja Gharib Nawaz Ajmer Urs 2018",
-         "photos" : [
-            {
-               "height" : 400,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/108420439029792133578/photos\"\u003eAMIR IHSAN\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAh3fuKXS3dpruErCt32u8IGDcdFAf1fL097Do6VzABaOKoLEl5u9WPxHwdGKNl9reSMwV5JU_IFzvJ3WifadEf2VlroH_BLsrtYkbjW56mwW6UzTOZxmRN1cn8R4fM0znEhBSEp2HpFeXvAOyl-UYVfC1GhSGSpH8L_1CNQu_fxsLbZ2gxpHnow",
-               "width" : 604
-            }
-         ],
-         "place_id" : "ChIJGV0pphDnazkRO5ANkwKf2hc",
-         "rating" : 4.4,
-         "reference" : "CmRbAAAAqs2YXSz20QsXyoPkGGl_HReOGTfZPvZKyJP650Bd6DtyfXxFybwG2kzmrdVyOoXajy1SReXiAlwmOAgRnft_t2jtxyji6Zsa07hN2HE1SSLjY8UqpBWf-9fMsWnkywnaEhDDQkOkFcm8uK_Wv-rihli1GhRbKW2DrXHjz3TQnR2AXV9MQvRixw",
-         "scope" : "GOOGLE",
-         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
-         "vicinity" : "111, Faiz Manzil, Nathwan Shah, Dargah Sharif, Khadim Mohalla, Ajmer"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 26.4930833,
-               "lng" : 74.60275229999999
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.49443312989272,
-                  "lng" : 74.60410212989271
-               },
-               "southwest" : {
-                  "lat" : 26.49173347010728,
-                  "lng" : 74.60140247010726
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-         "id" : "b7fbc0b176e90692c853a8857adeb3e221e55487",
-         "name" : "Laser Show Maharana Pratap & Chetak Smarak",
-         "opening_hours" : {
-            "open_now" : false,
-            "weekday_text" : []
-         },
-         "photos" : [
-            {
-               "height" : 1080,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/111506716728582092747/photos\"\u003eMahaveer Suthar\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAMubvsZnJ8Oa_Y9lRCmGpRwhf9r8YIoj_Tis2_Is4f38bVp9Kg6KkEAXq7YrYW1IFgAud34k7cMDnpLeyacX7DoUz3QTHOWBuhI6pOWDVGHVkokz8ER0dtSJMgJE1Qek8EhBxgzhF7E_SDVr_PwfXVgyzGhSOlr3xdywDYcrmHQZH7cTTXi1jwQ",
-               "width" : 1920
-            }
-         ],
-         "place_id" : "ChIJH3M_zfLnazkRxRJJcESBoPs",
-         "rating" : 4.3,
-         "reference" : "CmRbAAAAta9bXzwUWNqVmnlaY0R_evee6Lyq3ERkEKWTFBFhYyGHr6WuGgPr98Ewda-L3LztBE6SoyShxCVqxEiIFva81UvhZ-yRSKZz__geflyIKNYjt0MhkSvMyBS3bDdhuUXIEhCd6k8jhRRMStW0-UTMg4ZsGhTX_rWgo14voxCfYkSSiGHee2PyZw",
-         "scope" : "GOOGLE",
-         "types" : [ "point_of_interest", "establishment" ],
-         "vicinity" : "301, Pushkar Road, Near Haribhau Upadhyay Nagar Extension, Nosar Ghati, Ajmer"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 26.4740881,
-               "lng" : 74.5453852
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.47544782989272,
-                  "lng" : 74.54664942989272
-               },
-               "southwest" : {
-                  "lat" : 26.47274817010728,
-                  "lng" : 74.54394977010729
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-         "id" : "d1850b414e9a43ef14b4d9210cf130278ed13ac1",
-         "name" : "Bagdawat Ki Bawdi",
-         "photos" : [
-            {
-               "height" : 2322,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/115272698665602779642/photos\"\u003eDinesh Rayta\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAEEa6VMFBI0PjkxUVFfl3P7h8VcBOB3OnC_nN1u7xoVomSDQF6J-8dTI5dYkzu4XX4pvP3UlLOuT45GNlPETgzFeYTX-LAKaGCRwInlPvdZgHzA07og_2DtIqjH11Xrz1EhBBsL9L0vulz3zNGDnETM0wGhSUNCdxDpXc731zUVQt8aZogpj-fg",
-               "width" : 4128
-            }
-         ],
-         "place_id" : "ChIJvxNcRP3cazkRTbi4VUeiSbk",
-         "rating" : 3.4,
-         "reference" : "CmRbAAAASimXT8P-ydeI_K7I5jfLhOYqabDqea6gEKqP16BZRbSAH-5TFN2PnqiQrROdCbQIp4Jg8JNKcRmoVn2pnRsrsSDD1Gkjd3eMVyweLgyR_kXELXDSafrhoaCZ4WEPX1sLEhCrbBeR1EM3sKyggKNvl3hcGhTBVdvUAU-Q2UihUQFtAIWQMcI5JQ",
-         "scope" : "GOOGLE",
-         "types" : [ "point_of_interest", "establishment" ],
-         "vicinity" : "Kharekhari Rd, Pushkar"
+         "vicinity" : "Asha Ganj Rd, Gujar Mohalla, Ajmer"
       },
       {
          "geometry" : {
@@ -543,13 +60,13 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/102592056362320885612/photos\"\u003eKaroliya King\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAF82pZ5o2XDNsLgxT6wL8Ym3CPv3RSsAl4JPuM4zWksCSIVMGcGCaxEB-KN_9O01uxJbt-eIL1EhhEfoaBa1y1t3uAVUSZOM44mXFU22T4fk6KsOadAluwjkJg7nqYYV6EhD8wGKdljooP-tfsNNhERKpGhSmqYEicN-dEUl88KKzJeJmxwAQiw",
+               "photo_reference" : "CmRaAAAAoAwJd2y_nwK6XVlkthz4O2IzANy5t1BAyEqfXeOE_JkhV0gJPbUKbHdwWAc_0YGOhW9FQ_HjloORs2zeZDzzOocGRv8mUUPOiJUKt2-ppvMyhZAqGNF0p3JJc5agu3W-EhAFId-K2CDXINr1_NR6gOnYGhRkQ5cyGiOLsiPUmdOLJV2DO13W7g",
                "width" : 4032
             }
          ],
          "place_id" : "ChIJR11D7z3kazkRjFBu53k5MT8",
          "rating" : 4.6,
-         "reference" : "CmRbAAAAfZqQBxOI72igXZRQi2UBbhhAlFA32a7Wst4r2Qo4t_xiQCDGaxqLrrCcC8bc9NedCzfpcZKLA37LL5wza3Xwqb-UVET1Wq8j876-S6udKKpDtcMYiEMooDmHTBLl3rZ1EhAt5bJEVXp7agamc8QZXCJCGhTuxvUbJaMhquZ6l6CqYA8pSnkorg",
+         "reference" : "CmRbAAAA43pkhdGIWaPldQT-82JH7PU75Y2hixjc4W1V4vqoOsOWVkxZnPrXk-R9XrU9Xe3E94-JwNO5ruemWbfLsqNbEH7QEpTkvMCGYfCu2jUPLppl_Xfry34WG6V5NndIIbHxEhDDJfnXXw9mTCXiDrX0nyy2GhT75Ap8MTf09SitDzxVlTHW6trRSQ",
          "scope" : "GOOGLE",
          "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
          "vicinity" : "Nareli, Ajmer"
@@ -557,84 +74,705 @@
       {
          "geometry" : {
             "location" : {
-               "lat" : 26.4566637,
-               "lng" : 74.62797379999999
+               "lat" : 26.4053156,
+               "lng" : 74.54618219999999
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 26.45801352989273,
-                  "lng" : 74.62932362989272
+                  "lat" : 26.40666542989272,
+                  "lng" : 74.54753202989272
                },
                "southwest" : {
-                  "lat" : 26.45531387010729,
-                  "lng" : 74.62662397010727
+                  "lat" : 26.40396577010728,
+                  "lng" : 74.54483237010727
                }
             }
          },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-         "id" : "ee5338876ce7feeb85e76f3b2289d66c8fe38ef2",
-         "name" : "Choti Dage ajmer dargah",
-         "opening_hours" : {
-            "open_now" : true,
-            "weekday_text" : []
-         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "fdbc712ef4f2a480e8e4523ab9278495697151d1",
+         "name" : "Shiva Temple",
          "photos" : [
             {
-               "height" : 576,
+               "height" : 1836,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/112684428106637529564/photos\"\u003eMohdraza Noori\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100561315932508487659/photos\"\u003eajay sharma\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAA0AK4Y85kmZdYIgK-htb3Ym_9gKkJeTqeOjQ0HoUM8lzn0GFbe7qGyJVYxeKWeIJHo01-X2Xe-QQ65Ine4Ow0y_WuIAO9eQiiWRRB630FHE49JjpFXpcGMXzgnaGmbfrzEhAUYI8oZq2E1aj3qB6GFS8ZGhTdF5EYnFVanJZGiocgImh407LSqA",
-               "width" : 1024
+               "photo_reference" : "CmRaAAAAbeOTgYinaugZBwhVjwdfKeXGOLSEAk-_GjI1JeeYN8z4ANWHEKej3-_z6mWBJaDdq9UvdBAhITgB1YsBunlF6d8oiFnanOXDItmv2p46Wf81XGnZsCbE8qyHSrq2W9ZXEhD5GAcOcFjUe9WkXZNO7V26GhR-3-JWs181-1tqGsAGwZTDjuH3aQ",
+               "width" : 3264
             }
          ],
-         "place_id" : "ChIJoT5_oBDnazkRh6T-4PvXn0o",
-         "rating" : 4.6,
-         "reference" : "CmRbAAAAYj-87DsR5n8w9yDemVh6g4PHLB0guBw5RH38g8ENKiJRhxCjRxoAjY_Yp3mYc2wev81GZrTXKo_qNoaEXrt_I0RK1TqvWRbdpfwqpFBa1eF7OQwEzByezwBJx4M27e9jEhAX1_Mlunyc56tCkJpe2NNTGhSl-KyP-A-TITmU-48yqwmq_0Hbpw",
+         "place_id" : "ChIJ60jGXTrcazkRAeqq5Ntd50Y",
+         "rating" : 4.1,
+         "reference" : "CmRbAAAA8d-eyPHUjXveRG1mON1PWAoPK480vzor4o4kYbBQW9_sb_q1AREoe_sGAi9PWw6U0F_8EK21NbypG6px1MNqU6RJ7xKRviy0oSZ5MDqxjmX1bruSfDtDjwxfWGJMZ1ZlEhDVrlZNz9zGT-Lr8RhkCkitGhSUHHP01XECeHOX0pu1_NHqeeU93Q",
          "scope" : "GOOGLE",
-         "types" : [ "point_of_interest", "establishment" ],
-         "vicinity" : "Aftab Manzil, TB-75, Diggi Bazaar, Ajmer"
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Ajaysar"
       },
       {
          "geometry" : {
             "location" : {
-               "lat" : 26.4622274,
-               "lng" : 74.6277509
+               "lat" : 26.4547156,
+               "lng" : 74.6599799
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 26.46357722989272,
-                  "lng" : 74.62910072989271
+                  "lat" : 26.45606542989272,
+                  "lng" : 74.66132972989273
                },
                "southwest" : {
-                  "lat" : 26.46087757010728,
-                  "lng" : 74.62640107010726
+                  "lat" : 26.45336577010728,
+                  "lng" : 74.65863007010728
                }
             }
          },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-         "id" : "d3c14e12813dec67c846109bc5165ca7182550df",
-         "name" : "Delhi Gate",
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "7f80c53fa46ed18bb3e4d5109209b2d2ba5c74d3",
+         "name" : "Dhanop Mata Temple",
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104370437962958738545/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAiN48M5KuhvdRQNLaK0vzVcu83Xbhxksby1aQsqmbZ9Eupi71jbZBsa9E_TwHLgiFFX9PtBjH2QzmoxUYrWY8pJUJQmo4VSYOuQMrTjF1sM11IXBUyARWcuGWB1W7heJ-EhB5DJqkpRCSolv6BGkSouTTGhQtA615PUwpLeNsE2xpENpVaUVjkQ",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJby4IXermazkRn70WixgQboI",
+         "rating" : 4.6,
+         "reference" : "CmRbAAAAey8W8oKZZohgIyqoB42aKSYKd7upt965_x1rV7uzum2umLqJZleLbkM2qIOl1gqPFkY3tsSK8V6ZWoNd6zaMno3-egDC0rfZMtC9h7xWvqt0NRI24wMB574RDhOWG1W5EhDMTFZ_MwHJX712Ki0Tf771GhTzFo0S_zGznb7P6Rv7j15OFFO5RQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4431588,
+               "lng" : 74.64030989999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.44450862989272,
+                  "lng" : 74.64165972989272
+               },
+               "southwest" : {
+                  "lat" : 26.44180897010728,
+                  "lng" : 74.63896007010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "a29220c5c915e7ffab974c1323a40ff291def19a",
+         "name" : "Chamunda Mandir Temple",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106734645271519087259/photos\"\u003eYashwant Goyal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPBwOP4IetS0_HRgfiGFKkp8bVkygekxwZWzDROdJRgEWzonkM8uiDfdTXj4LZi5WS8nivhz52vFVII92E-kB68YZOd1C_KNcytPPkmplTqQQQ7TgXvlPDcbG3Pix8qBEEhAFglMYKHq6yRztpgfmlnitGhTqFGEUxWQ6ZJIp6ghajQ7OnHSwhw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJaS18hNjmazkReFmLmqrRC1A",
+         "rating" : 4.1,
+         "reference" : "CmRbAAAAEZnkOZijw_0CU71vrCasgv0M8siaN8ncLjwC9P7Tge8UH2ceh9_z-ewu7VnNHDECG-hMvWSa-CvLvmB615pAuAf10rWpTggpK8A4GPsmaF607Rn19nucM3wy0gp0TXfREhDzC_-9XMmUkX4A0za0ulHjGhT3rVkQrA7OQJvCu0uFPtfww5tufA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Dhola Bhata, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4577521,
+               "lng" : 74.63572739999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.45911342989272,
+                  "lng" : 74.63700852989271
+               },
+               "southwest" : {
+                  "lat" : 26.45641377010728,
+                  "lng" : 74.63430887010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "315969656245ac0ea6f6e3cd4609dff99dbd0c30",
+         "name" : "Balaji Temple",
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117999819030391325145/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFrVkIi40q4ewlZgC4hxb0MIVoarBVeAqsgEvohGsa-pPl52KaT0Gg-RFwdikcLoKaIslS_CG949jlY_mIHTo58OnOhpwG8tx-pn_ljgKl8mocUjK4i82b8ETO6xQYLnOEhALXkM2JHUPNe90rvv70VDQGhReYsmHpAPkz88vrBxUCP05dSXreQ",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJjbMVQBznazkRV1rqkVrfNCg",
+         "rating" : 4,
+         "reference" : "CmRbAAAA-jnKdNCUZOqtvHhG7B2WH4YRgMUv-v6lnEnA8ZSv0lbg8vPQGoKc-VOUHCbUehiyhQBRDU5BdAvf0fMYTMf29C8i-IHhrpANC1WVWmP7p_7R_kS2GVm6g8xIE4TiREYKEhAfiDbSq21KJoevXz4csSEAGhTuNCNmuUYycz519AplrDieMI_zcw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Madar Gate Rd, Parao, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4382844,
+               "lng" : 74.601426
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.43963422989272,
+                  "lng" : 74.60277582989272
+               },
+               "southwest" : {
+                  "lat" : 26.43693457010728,
+                  "lng" : 74.60007617010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "91d90f1e62b62716b57cac1f23bbf9238c43d76d",
+         "name" : "Shree Chamunda Mata Temple",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112386323432405414078/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYgOdOhvKahHWhj4H7avwdtnlTtG47mOm82QjAqWq4mJ5WLu6ewJo7kyYBjjfm4OzLcK5FQmtw2acVBBk9jOetB91uld8a5N6zljT3kUpjkyZaqMG63JDhwvM0TSRfJRfEhBOcGtBqzF9kY9EdHCHvEu-GhROfcB_yHXpfBAjLJpB0u1TCrsrXw",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJ72Dg-IfnazkRQtg7YFkv3_I",
+         "rating" : 4.8,
+         "reference" : "CmRbAAAAFTe8-qzK1_H0-1OFwtxHug76oyib2RCvYFx7SEo22tCEhCwj_g603QOiHfm1sFFQK58Y6f3X4xijxBk3dTAzi3q4j0vcCpL-t6CIewuL4BIMWbnY2qy-9KaQZq_AWs7aEhAHyEKiNXzhPbJO_ZCHfpmSGhRKfiiiq16UBsWt5QDz_Z9XeXh7nw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Kotra, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4221199,
+               "lng" : 74.6571529
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.42346972989272,
+                  "lng" : 74.65850272989273
+               },
+               "southwest" : {
+                  "lat" : 26.42077007010728,
+                  "lng" : 74.65580307010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "099f3cb571e057374a31906d1bbcb1ed3ac76fa0",
+         "name" : "Sindhi Temple",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103677243313758505552/photos\"\u003eYashika Soni\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAj4oF0nYw_9ZlKo76Xs-wt_vDC2k8RkW55b8acNWddZpsyt4Yfq0EmaAxERaroMicbCG0eUyXPtl0qyR19XwK4kirwSMQLkVOvr5cT12CUAC1z1YGSCXf3Heru-n5v24BEhAJutb4PaoLDbwR-qAIgCK5GhRIGn292H9GjY2ocaKL4PXSbNL3SQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJMcxyMTHhazkRS-AsCHnTJHU",
+         "rating" : 4.3,
+         "reference" : "CmRbAAAAmxUOIm3JxAmAxZodyRDeeQ4juYcdEs4lXFQXnXuhW2jZgvOQWDaqnw0N8b__lETka0lnUXzANfAD8-yz4SjdvgKaBnw9p9-xIiyDN1A2WtoNqak67RIRtQIQ3DO04-5hEhCb0GWrJu9QsPvy5wRInkh_GhQPHhDILBlBgGf6GqjGGE-Zho2BtA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Adarsh Nagar, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.463144,
+               "lng" : 74.6312562
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.46448817989272,
+                  "lng" : 74.63266562989271
+               },
+               "southwest" : {
+                  "lat" : 26.46178852010728,
+                  "lng" : 74.62996597010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "5a7f4cc64befdb9f07e1a480c36f33139cf12a5e",
+         "name" : "Ganesh Temple",
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115985954175628348682/photos\"\u003eChandrashekhar Sharma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAloRnQDKJlI-Iy69MEf7u_w0YGiqlY1WnZicMIdfGZqvH_1cfsQUUz8HvQAQ01gR4a6mZsvliYZE1ueDP19FUK4u2jWuAU8FQA9r_j_XIzzdiku0FoTJ3MjSvSh8yYGJhEhCC17sRl3RQYgd0SKAtOqDzGhQnuYKcwh4k89m3VuhhoMXZ-KbOLw",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJvwsEIAXnazkR4Vqa2QJNW-M",
+         "rating" : 4.4,
+         "reference" : "CmRbAAAATLR7GuN16ajRPLUKCs718E4vN_RXtEu0YBTyCgn0yihc4r78-e65KDkpEdbgVBqyTE_Q0L4nZQMFDpIZ1qFknE8tLSB6Cbmg6-bHilga3zCSljMxSt7vIXicjgi7xml7EhDhJ3zqi2y8EG5FI1S4nvj6GhR8CMOFkmk8dpjHWxAgYyPmqC4ekA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Naya Bazar, Dargah Bazar, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4614743,
+               "lng" : 74.5919511
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.46282412989272,
+                  "lng" : 74.59330092989273
+               },
+               "southwest" : {
+                  "lat" : 26.46012447010728,
+                  "lng" : 74.59060127010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "b418e47691913b6fd26b4c719f0b7edaa2e3a660",
+         "name" : "Koteshwar Mahadev Temple, Hathikhera",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105302887232895078944/photos\"\u003eashwini verma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAcJf3e2sjPNVaJuvDOzXUfpQy1neiTBxX7XOhzW2F4Un0DwrRFc1hvrACw24DoRs4UPNMBRttbNvEBZak1rED8nuWQ6dmFopGsPTlsyQ2JStS-_4j6Q1HjGdttDk0qxTgEhCxZz_rwCGMNZlGZjZKfycvGhQ5b9FXVIlr4eABLrxZujVhYxNsuA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJWfN5aofdazkRtLnt61hz2x4",
+         "rating" : 4.4,
+         "reference" : "CmRbAAAAAW_IXIlRPtx3U_P2eGpOsAbFdAO2I04etkoLuyQc9TbvhvnH0zE6rFe12RFJhYSAy5hsS6uUhiOw-NvomfNxwWyrjENPHVHH3UtAJiYwUIdITAeY2eOWupZjW0sMcxzAEhClPOnrUFVq2Qm4S5e83xNVGhTK08JA0apQRKrFlzyT421y1ZzsaQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Hathi Khera"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.3760609,
+               "lng" : 74.65362979999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.37741072989272,
+                  "lng" : 74.65497962989272
+               },
+               "southwest" : {
+                  "lat" : 26.37471107010727,
+                  "lng" : 74.65227997010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "722a87ea613e896c45a5d1a9bbfde3a71eb67525",
+         "name" : "Bheru Ji Temple Khajpura",
          "opening_hours" : {
             "open_now" : true,
             "weekday_text" : []
          },
          "photos" : [
             {
-               "height" : 4000,
+               "height" : 2448,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/110558106782145789810/photos\"\u003eNizam Barbil\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105998447166647939383/photos\"\u003edharam Rawat\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAA2U7FWd6-6iorhc9ixdnqPmbagoiKjJfSFgARw0YHkU17bzoXeDE6cUHi4zz2XoVzMyYz143PEAzrtTPuUuYX9W6kSZuvvM63hFseB8QwYZk3NraGvBW-5rwaWwWvo2FTEhCoqfoxBBcBWlyFS7be1r7hGhTAXpZwJKrmGr2rDm8HBbf0tWx1FQ",
-               "width" : 3000
+               "photo_reference" : "CmRaAAAAZ3TCMFcI1A8mA0wB0XSE24h1bh2u47KEBxehShysP0P6ILr0P3fSMb9AYR-hmQpO0aNUh383pJcDhaOU23yxm4-F9dE0uOmnAkqi3P5E6kksXYzzvnMss-wnpPtp7DN0EhC7rbqHHx7TvmOyKepNYdsBGhRduxCO1yySTNBvuHsaFJfK2U_jGA",
+               "width" : 3264
             }
          ],
-         "place_id" : "ChIJ1z4m7g_nazkRDz0vnHgEPE0",
-         "rating" : 4,
-         "reference" : "CmRbAAAAe-_A6rNYk3F8t5Z5pJ_xg7NVIZzxySD5NTYzKv4bUkous8ho-BwB8X9bWXO1-_WV-2zmPJc_ObuOQUsaZRVpi684ZJskzEmFVMKVnPlJ_AQUWaLvX-egV1Eu2Hg7fHxzEhA5e6hQ36_z3fGsKbbVpsxxGhQ0fTPCzAFpXr8xR_PrsyzVp6hq8Q",
+         "place_id" : "ChIJN57auKXhazkR5H5EGynlUm4",
+         "rating" : 3.9,
+         "reference" : "CmRbAAAA92Lw46RN5L7htg2yO-X4-ku0GCMh1bEiSyo21ExwR9WvmdjPcpKkXWLPILChEDNCfqq3aJsv7_zdeF4kkcHiYJixquYABQsGVCOIC-SXpBPxmd4cEFWMmEXmRRSlkTWPEhAUUyxoHIp81X4dPKsa7aSpGhRbS0ibJnBr3gLJGTafAwoudDMjQg",
          "scope" : "GOOGLE",
-         "types" : [ "point_of_interest", "establishment" ],
-         "vicinity" : "Kumhar Mohalla, Ajmer"
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Khajpura"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4968971,
+               "lng" : 74.5389922
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.49823937989272,
+                  "lng" : 74.54037427989273
+               },
+               "southwest" : {
+                  "lat" : 26.49553972010728,
+                  "lng" : 74.53767462010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "cbfebe2d05ef485efc0c48f64d924b9bd5e75cd1",
+         "name" : "Hanuman Temple",
+         "place_id" : "ChIJCaE1c9rcazkRNpyxvUKEbzM",
+         "rating" : 4.7,
+         "reference" : "CmRbAAAA5xHWW5QlEVyaGUuUZrDeUl2sjO1tRg4CLtJJsGD6E2YOzS5ed2Z-P15JCksnCtaR5VuE_GyW2mMPfABzAqb4ZSNfxAVgIXdJ43nBq36KLEprImsGYhydsZEuAXhaIZaLEhCOe8G6Wq7SG7plNYB-8sPjGhQje7VLdy4915ypLphjXF0UYpQA6A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Chawnidia Road, Motisar Rd, Ganaheda"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4952108,
+               "lng" : 74.67597929999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.49656062989272,
+                  "lng" : 74.67732912989271
+               },
+               "southwest" : {
+                  "lat" : 26.49386097010728,
+                  "lng" : 74.67462947010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "ee883b50cd449a248313939562d46871973ab591",
+         "name" : "Jai Shri Nath Baba Mandir",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 648,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116180911705553249298/photos\"\u003eJagatguru Jaishrinathbaba\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA-nfQvSDJXKWTLI27vp61wAZE1315BcX_M3QSVTmCKOz46rRLomj2Ja_1It9B3SsAtZLiUDOERf-BPSQIpaQr4Y5EZeI5lQIJ6VcQFuklsgFlKvt8P0Jhz0iQdBf27VxBEhCs3WhY-rhRYt25BhYpmRflGhSPznZlOw96xs22OHX7OMbXtsCaxA",
+               "width" : 968
+            }
+         ],
+         "place_id" : "ChIJUw1DHXLmazkR44ctePzF0ZA",
+         "rating" : 4.5,
+         "reference" : "CmRbAAAAZxtD-6ZNwUHiZxQR69fAzNh-Jqw8ryPtDTFF7AjXf4Hs12LmmtfuFuFGvVdKy45Gd-2dShxwINIFgk_75CmDFEq31-kTSYoccAa2iZLR3tzhZSgY05ViwlRKR2pE5zkxEhB9vd1Qhs4aE1IIcAcwNjQBGhQReoTJZbgATf6uzeGtrPugCCQhQA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Jaipur Rd, Kankarda Bhonabay"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4828595,
+               "lng" : 74.5768733
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.48420932989272,
+                  "lng" : 74.57822312989272
+               },
+               "southwest" : {
+                  "lat" : 26.48150967010728,
+                  "lng" : 74.57552347010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "269cb7a98cca76650eb842644eb2fee73750e341",
+         "name" : "Lord Shiva Temple",
+         "photos" : [
+            {
+               "height" : 3096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106108370247123073491/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAArKgnoOTZLFMz7n1bEYzPyz58bDB--fkKfdCfLpxrBFBI-N4ziS_ZrlQiP7D5cF2_k_p91Bgqi0oRX4Vc1aMhpq6FmueEk5KialkgLz2ocstKKX1zqnugih3oxKLRSHL2EhDzRtcQ2ZvmovSqZKRwTEEjGhRg6GlFGIIrxLgLFPUaxS57O_IfKw",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJ2298lW7dazkRg_O83c6nUdI",
+         "reference" : "CmRbAAAAH5Q19ilP2G3Jt8wSD3-wTPGcAK9L3l-wXAEW3_oqD-_ft0hd4JMRXQWS-Tl00ZQljgwP8vabY7WeIDof53krWfGOXlishX4seV6RQCY8S1PwUDGRyLAQx14JeOJ5Q9hREhD5Wn3scNgLVHgVnMiKuzjuGhTR3luoX5pJ8wEtqQJv3jAI84XhGQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Rajasthan 305004, India"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4516251,
+               "lng" : 74.6828914
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.45297492989272,
+                  "lng" : 74.68424122989273
+               },
+               "southwest" : {
+                  "lat" : 26.45027527010728,
+                  "lng" : 74.68154157010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "9b37c9a40827d18f73a1b8d5a32594a89922e83f",
+         "name" : "Ramdev Ji Temple",
+         "place_id" : "ChIJd_WkFqHmazkRvkCBUJ-U1NA",
+         "rating" : 4.8,
+         "reference" : "CmRbAAAAie4ruto90a1V0pgGXbozFCT9M6-ayqujmSG5UT0K8tyxrNe5iRk4brnvAjwCA5fo48Euf2lRZBCFY1YKGtJ6TCLCWfsR84KNCBzUGZKvCOJfKcNvlXbVW5mTXKUvsRFVEhARVjs18e8x4uV7Aoi9kcYVGhTD0-RTWEbfHCVPzNJlu6UKpSas9g",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Adarsh Nagar, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4888435,
+               "lng" : 74.631411
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.49019332989271,
+                  "lng" : 74.63276082989272
+               },
+               "southwest" : {
+                  "lat" : 26.48749367010727,
+                  "lng" : 74.63006117010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "5e0293cd4d6f0bd0759a899751e0125727e6902b",
+         "name" : "Digambar Jain Temple",
+         "place_id" : "ChIJf7ZzHbHnazkRG_Ww052REh4",
+         "rating" : 4.5,
+         "reference" : "CmRbAAAAr3JbJyCUN_vDXk2UusrgdWbPxvmTh-QgdY14yWTfrAUjHlZZj-y2Jm8SYRgeVVwRiuBDDGUvyHNEh2m-nAL42uqb8gmMcOwZQ2504i9s3CfHrq34cDOwxMkTQcFJyKYkEhDMW84UNPOwVhZ9ETx_xHO1GhTlldjG7rvrO6Scp-WabvonmyBGvw",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Saket Colony, LIC Colony, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4609397,
+               "lng" : 74.64450359999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.46218692989272,
+                  "lng" : 74.64584137989272
+               },
+               "southwest" : {
+                  "lat" : 26.45948727010727,
+                  "lng" : 74.64314172010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "db731937d269da62e4e17ef15cff31d0bd245127",
+         "name" : "Temple",
+         "place_id" : "ChIJj4cjbePmazkRmPWBzJPhiCM",
+         "rating" : 3,
+         "reference" : "CmRbAAAAberWf9VSDek1AM3btZ1ovVp6THS1NopzzwfbYqw78JrdSRLfiv9T7Q54PgtScani-vd818Dm_Bj0q77vt8WTZWW0-6kWdPyaETHczEnYPyP5-WTmGaqaKOSP2hopAvYrEhB-6kzxLC5oRG3DPril2-26GhSY6fdPIuVkbm4-XQEXiBGvEpFgmQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Topdhara Rd, Vinay Nagar, Pal Bhichala, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4881927,
+               "lng" : 74.6322674
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.48954252989272,
+                  "lng" : 74.63361722989272
+               },
+               "southwest" : {
+                  "lat" : 26.48684287010728,
+                  "lng" : 74.63091757010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "12ad1d0866db2a046588dbb2784ea17e5dffe893",
+         "name" : "Digamber Jain Temple",
+         "place_id" : "ChIJW1kfDrHnazkRTHeoL3cVc6w",
+         "rating" : 4.6,
+         "reference" : "CmRbAAAAKafHwl1uQykBocLcoz4eWVu0YcGw2D0j3CPeneM4sUzmfbevB4kc5_D3bbvPKSPlbyaDHYg_PxBUWmx9T5UR9zYkU9cKW-jxveACXJfk4hmkTmTzGiXRS_31tuhRdu8yEhAuHpWuYwhcSQC6p6YxxDf8GhQ5uZRKZVkvY4wc9m5N3QdE-3Wh-w",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Parashwnath Colony, Vaishali Nagar, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.3725483,
+               "lng" : 74.58028879999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.37389812989272,
+                  "lng" : 74.58163862989272
+               },
+               "southwest" : {
+                  "lat" : 26.37119847010727,
+                  "lng" : 74.57893897010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "474073e05b6c37b7bf6a8a1703d28262388684f0",
+         "name" : "Vir Tejaji Temple",
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111998144612997660216/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAZYfxYCsCPCBu5kC90RUa7oGv0oQK0WxlixZOofqlqLdQhA5IYvwpzIxEbFi1HoA1-8EpOvCVGlq1j6fzLAsYOfCflEbWtEg_yi8V9zhgvCHBK3kAn1sstb2vDVC2-ZvvEhD2yHWFoyqq6WsI574YJIKFGhSWaAHM5UFdtuAgPjFpwGvb0MEVbA",
+               "width" : 2322
+            }
+         ],
+         "place_id" : "ChIJL8rsdc3fazkR47Bw04rx3vc",
+         "rating" : 4.8,
+         "reference" : "CmRbAAAAW4tVJh5OMypz68naMNPITiRn6y53Pv087mTT0_ckDB3erDd6bTt3BxssktKDNUKKP148wuupcGTTZy6HhR-YSvJwgI8GpXbY33fFDi0JkGyWTy_MkxjHLrqGES8nR1pNEhA1oBlex4vobVwx43slYL9IGhTuE5bksAKLH0YXtsk6tfntnytVCQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Dumara Village"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4703401,
+               "lng" : 74.68192839999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.47168992989272,
+                  "lng" : 74.68327822989272
+               },
+               "southwest" : {
+                  "lat" : 26.46899027010728,
+                  "lng" : 74.68057857010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "e5af6fb5808b93699c0afd79c916b3629fba6086",
+         "name" : "Shani Maharaj Temple",
+         "photos" : [
+            {
+               "height" : 477,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114724841125432729864/photos\"\u003earjun josh i\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqGfUCZSr97OqG0Jdz7wWB84nlVFvf0R2qyRX3tg7fBmVc0foHe3pdgPnvDGXub61UBTZY5kdtX0gQOMSw59qxGkCTLRwV9G7iCnjICOaDDJY1isYZSB45ew7GXl3Dv6wEhCl_7b_GqFSaCrLCZTR8No7GhTIwllrXAxqCkpL4RL8hs6D0gpKVQ",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJlax1m4PmazkRIeN3EkkG4-c",
+         "rating" : 4.3,
+         "reference" : "CmRbAAAAxZIq_qzReje3e-IxtKlC758uv_g_O9S6Dt1HQrJ7hpgTwn8AOFGD1Okq1_N7HhNlmeZplktmEA_jC1yjOLX6te644Xa9hnzy1eLhauVG1ca2-ddeoZaMQeB0U7ABfLXFEhBj_GMDtepg2jSpRkigjBuRGhRjX7wz6ueuN31wA7TnkPpds1Z8IQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Ajmer"
       }
    ],
    "status" : "OK"

@@ -4,47 +4,6 @@
       {
          "geometry" : {
             "location" : {
-               "lat" : 26.455216,
-               "lng" : 74.6251458
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.45656582989272,
-                  "lng" : 74.62649562989272
-               },
-               "southwest" : {
-                  "lat" : 26.45386617010728,
-                  "lng" : 74.62379597010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
-         "id" : "e998b4e5626f9cb6787f7b493b0872a02ff3c08c",
-         "name" : "Dhai Din Ka Jhonpra",
-         "opening_hours" : {
-            "open_now" : true,
-            "weekday_text" : []
-         },
-         "photos" : [
-            {
-               "height" : 2448,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/110285205541160187508/photos\"\u003enaseem lodhi\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAA7Z8YicVMfaJFPfzUcPHJ7iXx3ttTwClz3OtzIV9lug3uB5rBNU6SLOCG1_PIzqIxVb-s_lmc9SzgKu3mKKr-P2TcPA3jUz8D0ZAgyfKBMzyIWNKmylIK5fXp07mZd6fYEhB_Gt5YCTD3kaUE3uH-YzSAGhQcZZXD3d_0WRuG66pEPIdtJ90PYw",
-               "width" : 3264
-            }
-         ],
-         "place_id" : "ChIJ8-9-KxHnazkRfFR_tBFTvlY",
-         "rating" : 4.2,
-         "reference" : "CmRbAAAAlzV3Wobgw67eIWx53zKU-O8s7CcEaQw6WHET7Np2f24DhhGkgM4zMorjzDpZ4OXEb52brKA89tcEv8f9Y4ciFhlnsLu44ak6gkAI4aObxeTuySymV6kWNO-gde0Xe5-wEhD9QsFqXzkw8VeljcSO1lwkGhRAkln0WKqw3rmicQx5aK2HgfIC7Q",
-         "scope" : "GOOGLE",
-         "types" : [ "point_of_interest", "establishment" ],
-         "vicinity" : "Ander Kote Road, Ajmer"
-      },
-      {
-         "geometry" : {
-            "location" : {
                "lat" : 26.4227535,
                "lng" : 74.63155789999999
             },
@@ -72,13 +31,13 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/109989233479582576906/photos\"\u003eNitin Maul\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAOXPxxnbv4c1Lf3Z9EwZogcP0PoBFBNNmboDjnjEKKMLa04UHPBI4ewiZBMouN0YEI4DYqD42HctpamZPu4nWQ-T_fsgThbz7c1zTGzbih08B4y2i3l446sWz3NnL3IisEhDRO8uG4ShOpFwp5NNyGBZrGhR1vnydVnNBFhus_27dlsvZF0ujSw",
+               "photo_reference" : "CmRaAAAAihgZP_GPxSnMi3c25mKMgoDLMqhtRZGbgjRUmCje83RIlFrk7iZMKMnMsuKteupcWZ9bUwKaAARa-64eWnh-QFNJPdqoqWnFk2Vrsr2tHI4EWNzRNzrhT9xZTWu4TzsBEhA0V5R36CUGLSLUetY7oCv1GhS0FZL36hgH43k5CAerUiZ07zjZSw",
                "width" : 4160
             }
          ],
          "place_id" : "ChIJRX7utdPgazkRaaYAgUzZsvw",
          "rating" : 4.8,
-         "reference" : "CmRbAAAAdm4B6qawIs-ZMTQeyGhdX9C9QiJr2hQODTYjzkB4a-en8fjhgOgt-0sHfIRVDpVHrboJ0Jvudzju1vBG1GP1lzXY-h9I_J90YuIoRqJAp92gFjSGw2OmlPkz3W7dv4HsEhDVvWi4wTroZ46OYKxWxEI4GhSwN-ijpeFYddBxrkVa4wqWhFTxkQ",
+         "reference" : "CmRbAAAAiUo8nj3sw1ALIA4tYdYrvAFLjU0teQJ-3Ct_xFzfUVWUMEqE6gH3Pua_yIZj9o3I-T7iaL3EOY70UTNiOYw8phqJoQ5zr7Qx0TQGuG_RynP0NW3mJChfSb0kGeGkOe3zEhAQa22UCd29XhWnRPrZ8wmFGhQgF1rz3L8jYNLjmFpuGHZQDoLnwQ",
          "scope" : "GOOGLE",
          "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
          "vicinity" : "29, Taragarh Rd, New Ganesh Nagar, Taragarh Rd, New Ganesh Nagar, Lajpat Nagar, Ramganj, Ajmer"

@@ -4,17 +4,17 @@ import operator
 from api_call import get_places, find_distance
 
 # PARAMETERS FOR FINE TUNING
-alpha= 20
-beta= 8000
+alpha= 15
+beta= 80000
 
 def fetch_filter():
     # Fetch data from user's choice
     filt = {}
     MONUMENT = True
-    MUSEUM = True
+    MUSEUM = False
     PLACES_OF_WORSHIP = False
     ZOO = True
-    FAMOUS = True
+    FAMOUS = False
     filt['monument'] = MONUMENT
     filt['museum'] = MUSEUM
     filt['famous'] = FAMOUS
@@ -27,7 +27,7 @@ def fetch_priori():
     priority = {}
     priority['famous'] = 1
     priority['monument'] = 2
-    priority['museum'] = 9
+    priority['museum'] = 15
     priority['places_of_worship'] = 10
     priority['zoo'] = 12
 
@@ -73,7 +73,7 @@ def assign_score(places, priority, filt):
 
         # Cost Assigning Algorithm
         if F:
-            SCORE = alpha*(R**2)/P + beta/(P*(1+np.log(P+1))**2)
+            SCORE = alpha*(R**2) + beta/((P**2)*(1+np.log(P+10))**2)
         else:
             SCORE = 0
         # print(F,SCORE)
@@ -170,9 +170,12 @@ def get_plan(number_of_days, cities, filt):
     plan = {}
     for city in cities:
         plan[city] = get_route(number_of_places_per_city, city, filt)
+
+    #Finding clusters in each City
+    # cluster={}
     return plan
 
-n_days = 2
+n_days = 1
 cities = ['Jaipur','Ajmer']
 custom_plan = get_plan(n_days, cities, fetch_filter())
 
@@ -180,5 +183,5 @@ for city in cities:
     print(city)
     print('==============================')
     for place in custom_plan[city]:
-        print(place.name)
+        print(place.name+"|"+str(place.lat)+"|"+str(place.lng))
     print('------------------------------')
