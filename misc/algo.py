@@ -58,17 +58,24 @@ place_id= newcontent["place_id"]
 #f.write(r_2.text)
 #f.close()
 
-#near_by='https://maps.googleapis.com/maps/api/place/nearbysearch/json?'
+near_by='https://maps.googleapis.com/maps/api/place/nearbysearch/json?'
 
-#nearby_ask = 'key={}&latitude={}&longitude={}&radius={}&type={}'.format(api_key,latitude,longitute,'10000','restaurant')
-
-# request_3 = near_by + nearby_ask
-# r_3=requests.get(request_3)
-# f=open('places.json','w+')
-# f.write(r_3.text)
-# f.close()
+places=['restaurant','market','monument','temples','mosque']
+f=open('near_places.json','w+')
+i=0
+while i < len(places):
+	print(places[i])
+	nearby_ask = 'key={}&location={},{}&radius={}&keyword={}'.format(api_key,latitude,longitute,'10000',places[i])
+	print(nearby_ask)
+	request_4 = near_by + nearby_ask
+	print(request_4)
+	r_4=requests.get(request_4)
+	f.write(r_4.text)
+	i+=1
+f.close()
 
 # print(r_3)
+
 
 path='https://maps.googleapis.com/maps/api/directions/json?'
 
@@ -80,5 +87,4 @@ r_3=requests.get(request_3)
 f=open('places.json','w+')
 f.write(r_3.text)
 f.close()
-
 
