@@ -1,0 +1,302 @@
+{
+   "html_attributions" : [],
+   "result" : {
+      "address_components" : [
+         {
+            "long_name" : "Hawa Mahal Road",
+            "short_name" : "Hawa Mahal Rd",
+            "types" : [ "route" ]
+         },
+         {
+            "long_name" : "Badi Choupad",
+            "short_name" : "Badi Choupad",
+            "types" : [ "neighborhood", "political" ]
+         },
+         {
+            "long_name" : "J.D.A. Market",
+            "short_name" : "J.D.A. Market",
+            "types" : [ "sublocality_level_2", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Kanwar Nagar",
+            "short_name" : "Kanwar Nagar",
+            "types" : [ "sublocality_level_1", "sublocality", "political" ]
+         },
+         {
+            "long_name" : "Jaipur",
+            "short_name" : "Jaipur",
+            "types" : [ "locality", "political" ]
+         },
+         {
+            "long_name" : "Jaipur",
+            "short_name" : "Jaipur",
+            "types" : [ "administrative_area_level_2", "political" ]
+         },
+         {
+            "long_name" : "Rajasthan",
+            "short_name" : "RJ",
+            "types" : [ "administrative_area_level_1", "political" ]
+         },
+         {
+            "long_name" : "India",
+            "short_name" : "IN",
+            "types" : [ "country", "political" ]
+         },
+         {
+            "long_name" : "302002",
+            "short_name" : "302002",
+            "types" : [ "postal_code" ]
+         }
+      ],
+      "adr_address" : "\u003cspan class=\"street-address\"\u003eHawa Mahal Rd\u003c/span\u003e, \u003cspan class=\"extended-address\"\u003eBadi Choupad, J.D.A. Market, Kanwar Nagar\u003c/span\u003e, \u003cspan class=\"locality\"\u003eJaipur\u003c/span\u003e, \u003cspan class=\"region\"\u003eRajasthan\u003c/span\u003e \u003cspan class=\"postal-code\"\u003e302002\u003c/span\u003e, \u003cspan class=\"country-name\"\u003eIndia\u003c/span\u003e",
+      "formatted_address" : "Hawa Mahal Rd, Badi Choupad, J.D.A. Market, Kanwar Nagar, Jaipur, Rajasthan 302002, India",
+      "formatted_phone_number" : "0141 261 8033",
+      "geometry" : {
+         "location" : {
+            "lat" : 26.9239363,
+            "lng" : 75.8267438
+         },
+         "viewport" : {
+            "northeast" : {
+               "lat" : 26.92525373029151,
+               "lng" : 75.82824308029151
+            },
+            "southwest" : {
+               "lat" : 26.9225557697085,
+               "lng" : 75.82554511970851
+            }
+         }
+      },
+      "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/geocode-71.png",
+      "id" : "cbda97b8e1b121fbf8508e695fe18967aabdb757",
+      "international_phone_number" : "+91 141 261 8033",
+      "name" : "Hawa Mahal",
+      "opening_hours" : {
+         "open_now" : false,
+         "periods" : [
+            {
+               "close" : {
+                  "day" : 0,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 0,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 1,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 1,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 2,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 2,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 3,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 3,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 4,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 4,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 5,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 5,
+                  "time" : "0900"
+               }
+            },
+            {
+               "close" : {
+                  "day" : 6,
+                  "time" : "1700"
+               },
+               "open" : {
+                  "day" : 6,
+                  "time" : "0900"
+               }
+            }
+         ],
+         "weekday_text" : [
+            "Monday: 9:00 AM – 5:00 PM",
+            "Tuesday: 9:00 AM – 5:00 PM",
+            "Wednesday: 9:00 AM – 5:00 PM",
+            "Thursday: 9:00 AM – 5:00 PM",
+            "Friday: 9:00 AM – 5:00 PM",
+            "Saturday: 9:00 AM – 5:00 PM",
+            "Sunday: 9:00 AM – 5:00 PM"
+         ]
+      },
+      "photos" : [
+         {
+            "height" : 1066,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107877680964455562268/photos\"\u003emohdyaqub khan\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAARWgDyvWkYyQUzSGAm2zdHcBD_6ZvsBF2vOND6u8L0RfZudlM0sAZn_278BbH9kU7TrzzjuvlcTs4uc6CCUOxP9ck1DyDIzLiBrpyaZOmBocPilzKjhpbMS_5Pia6Vno7EhDrcxGdWEAjeYHYHYzFm4n6GhSqFJEFUUwUtSX-20NvHCsG-1hsQA",
+            "width" : 1600
+         },
+         {
+            "height" : 3000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/116965772136180266661/photos\"\u003eAgnes Reinsdorf\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAJBc9bM6JYR7Ep_1Ah3pS10pSlqfLbSA0g_--23IbELYP6UV8Yhy0wMzX_pjPJsELFlemF1VMC7cgoFx4ui2Culfw-mVVMq7Gmy4Kjvf8E35evS3OizZv28UHL67WN3LIEhCci9F5LetXBiwuysK-uJabGhQG_4n6X_Z5_bkeHai6-qCNTesbVw",
+            "width" : 4000
+         },
+         {
+            "height" : 2592,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/106206455074835519456/photos\"\u003eankit tripathi\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAA5f72YQ6fgzeHaJDh5dW3zGGvGHLPeDMbrRr3FAiGCw_jj8s7utIHPu6P-oJ-tJuMv0J9cGvDsHmwuWVyV08vHIhkLotx6WCNK3qAWNoa4ejYBM88ovGh7mjfNKdwwAwcEhAGt5PG-QqpYiIHaDSSbjDEGhR53UGBsNvne7Bt0aCOsq0YGXocWw",
+            "width" : 4608
+         },
+         {
+            "height" : 3264,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/101404856530684798575/photos\"\u003eJeetesh sharma\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAX-0tlRI-3eSxT9ZFapfZKalyn2Cw3Atisr--LVV1oU66ASF-b4IGNAEv9TYoZx3JzwfWsknuYkPXHBiqeHs-B6UUpz21kqFcK5lIdI6LN9Qp9FK8UrcV7MSNYvTHR8ecEhDJr742Ya-JjFtV9y3XDFCrGhTP1tMnN18tBpvEyBQ1582mFTpJlg",
+            "width" : 4928
+         },
+         {
+            "height" : 2448,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/118007647015925972679/photos\"\u003eManu vasisht\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAARwT7LRGFqUGzLy-BMtY7Vxx1_CO-WWgOsFQ5tBfE8o3eV6PBBaNsjxXa9fpVOKl6wOSIDJPPJiTzMgN7nrmSMFvwtivLQirgYx-vazkQGfQVV8JdnEnp4cym8XYb2_9oEhBOLiLaZ4QK955j7Ffx45i0GhQL04qj0qwbw3sS6M1Y_QTjhvuYvw",
+            "width" : 3264
+         },
+         {
+            "height" : 4000,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/102928561119699916075/photos\"\u003eYogesh Anand\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAA_rovtSQYTaGURJ8y_bdkaZ5J4rcR9DVAj-S7gHgghRqwO5glFlbwXx1zlHMe2weWvvm0rBY1cKNRncOA8M56hbZaQAyOX1DEWlgiQhNDX350-Nxg6Thy2-BQXKVYzQ-dEhD3psBpURtZFKQ5KtKhuCbYGhTs92yOkPENvhQeMfVnTX1qTM8koQ",
+            "width" : 6000
+         },
+         {
+            "height" : 1536,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/104552648257562752000/photos\"\u003eChris Li\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAUGFY8SKTyRCt2z94pxKTqxIcIAYauLzB3w3HCB9n1w0kVPfkDbYC6lZVkn7FwbVlPnvJAtrqHepHrMHnM8yFba3yKIEfjTEouNy5TggJFZ4xFsnFW_Sp0jtC8XBhzenCEhCzwZWftTMrlr6VPIpeZfweGhQteXiIPQ-Elln0Id4g7goLyVGzdg",
+            "width" : 2048
+         },
+         {
+            "height" : 3352,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/109561358619062765109/photos\"\u003eChristopher Sprague\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAA7hR9BMXkMsprmFLONoRv449bwb_SsLODuJbVaduhhMYbnfpx2YUUmcBvtzQGcBn3DwPeDg0p3eX9qtUNRuWDAen7bAwEVQfZ07n_n9XLYSFLnSBsQRpEB_MqhvEEYvUUEhCws_nsiokasiXw8uEAOXPqGhQvbREf0xIRxH3nbUCSUMSScdz7cw",
+            "width" : 4773
+         },
+         {
+            "height" : 2592,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/107257567172386154815/photos\"\u003eVikas Bhardwaj\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAY2-VKiJqKLwriOxE1TOu6b31EBj_q6CIBiDuLEMNacpR2gCd6JJEr_ded-bkEWNRlK8f6gjO7_dE7vyRvCNNI8izsHXwNSRzoRp-Epavf-zgf8CXNGyV5BbN7T9dpVIGEhB3PxYgq_gQPkkhD1fhjCYUGhTlZQIIuAuXpS5UiFGQPgLd6XzEmQ",
+            "width" : 4608
+         },
+         {
+            "height" : 3120,
+            "html_attributions" : [
+               "\u003ca href=\"https://maps.google.com/maps/contrib/112503712247313337569/photos\"\u003eDeepak Sahu\u003c/a\u003e"
+            ],
+            "photo_reference" : "CmRaAAAAGd7BteebIL4z_FbOWE6tilBJqoeuMr7DDiDBf9MqFMbeFwBl3z5ru_zgMAZHHsQq9KslGUDYiVkx5CxqFgxPj6p11RcUFT21qBOSV33td8aDKxTGQtAC4fzMmmXws6XmEhCqie9tTV8uHZ7ubdqwSQ06GhT6fmOURCwYEWKmQw9-G9e7kGFl5g",
+            "width" : 4160
+         }
+      ],
+      "place_id" : "ChIJpQvTG0uxbTkRDLLMHlNdDoY",
+      "rating" : 4.4,
+      "reference" : "CmRSAAAAdR7GHelu73ohC9UsA3xcjCkF4TASfVu2jyGHQoeepkrJ0pUZ7y9Hog54pM5jpDEJOZraeMBIaVdOS1otRCcW_nlRgIS03I-UXaxBcP6bq5SQvN0CBew4fVXG3VecEr1rEhA4mwRhK0OB6tQJqdYzM14oGhQ4W_PfnP2Yxl9gHVXX7JwoJnRKEQ",
+      "reviews" : [
+         {
+            "author_name" : "gagan bhardwaj",
+            "author_url" : "https://www.google.com/maps/contrib/101207447157414151108/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-1LeMPejDUwI/AAAAAAAAAAI/AAAAAAAAAag/DQyg3GswcIA/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "in the last week",
+            "text" : "Beautiful architecture and building exterior but lacks the same inside. The building stands on a main street and the entrance is on the side not directly in front, might need to ask a local where it is as there's no signs. The building was hosting an arts exhibition when I attended which for me was more interesting than the building. Like all architectural monuments in India, you need a guide to really appreciate what you're looking at, the Hawa Mahal literally feels like just an open set of rooms otherwise with no stand out features apart from the exterior. The view from the highest point is of course great, especially with its central location, you can see the hustle of the streets below.",
+            "time" : 1521432215
+         },
+         {
+            "author_name" : "Jatinder Mahal",
+            "author_url" : "https://www.google.com/maps/contrib/104789668351088818256/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-eji-PurbFpU/AAAAAAAAAAI/AAAAAAAAKgE/8CNkmHxENRg/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating" : 3,
+            "relative_time_description" : "in the last week",
+            "text" : "Beautiful architecture and building exterior but lacks the same inside. The building stands on a main street and the entrance is on the side not directly in front, might need to ask a local where it is as there's no signs. The building was hosting an arts exhibition when I attended which for me was more interesting than the building. Like all architectural monuments in India, you need a guide to really appreciate what you're looking at, the Hawa Mahal literally feels like just an open set of rooms otherwise with no stand out features apart from the exterior. The view from the highest point is of course great, especially with its central location, you can see the hustle of the streets below.",
+            "time" : 1520996354
+         },
+         {
+            "author_name" : "Aditya Kalkur",
+            "author_url" : "https://www.google.com/maps/contrib/111683102083341712265/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh3.googleusercontent.com/-waOKR8XAncg/AAAAAAAAAAI/AAAAAAAAUhg/YEEAH_zPM9s/s128-c0x00000000-cc-rp-mo-ba7/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "a month ago",
+            "text" : "One of the best structures in Jaipur. They portray this when they are to portray Jaipur! The structure is awesome but is on a busy street. So parking is obviously difficult. Didn't find any guide here to explain the importance of the place. Overall its a beautiful architecture!\nIf you liked this review please give a thumbs-up below!\n👇",
+            "time" : 1518426484
+         },
+         {
+            "author_name" : "maran n",
+            "author_url" : "https://www.google.com/maps/contrib/104802354263885415568/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh6.googleusercontent.com/-vYiXozzI0Nk/AAAAAAAAAAI/AAAAAAAAAH4/ATIkac6Yqk0/s128-c0x00000000-cc-rp-mo-ba4/photo.jpg",
+            "rating" : 5,
+            "relative_time_description" : "3 weeks ago",
+            "text" : "Wow. Small, women area of the palace. Compact. Not maintained properly. Beautiful. But sad side of the history. The way the women got treated. Views are stunning. A quick visit is really worth it.",
+            "time" : 1519639741
+         },
+         {
+            "author_name" : "VIJAY KUMAR",
+            "author_url" : "https://www.google.com/maps/contrib/110911419520243222567/reviews",
+            "language" : "en",
+            "profile_photo_url" : "https://lh5.googleusercontent.com/-mA7MYLeWoe4/AAAAAAAAAAI/AAAAAAAAAOg/yNbJ6cOj-F0/s128-c0x00000000-cc-rp-mo-ba3/photo.jpg",
+            "rating" : 3,
+            "relative_time_description" : "2 weeks ago",
+            "text" : "This piece of architecture has to be seen to be believed. It was built to screen the ladies of the Maharajas' court from public gaze as they watched, unseen, the great processions and festivals that took place below. It is merely a very splendid and ornate facade as its only purpose was to provide a cool viewing platform for the Maharajahs' ladies - hence its name the 'Palace of Wind'. A must see in this part of the fascinating Pink City.This is an incredible building from the outside inside it doesn’t measure up. It is interesting to see the stained glass and the windows and how it operated but there isn’t much in here- views are excellent though.",
+            "time" : 1519776304
+         }
+      ],
+      "scope" : "GOOGLE",
+      "types" : [ "premise", "point_of_interest", "establishment" ],
+      "url" : "https://maps.google.com/?cid=9659760862336692748",
+      "utc_offset" : 330,
+      "vicinity" : "Hawa Mahal Road, Badi Choupad, Jaipur"
+   },
+   "status" : "OK"
+}
