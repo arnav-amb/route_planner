@@ -7,16 +7,38 @@ import operator
 alpha= 20
 beta= 500
 
+def fetch_filter():
+    # Fetch data from user's choice
+    filt = {}
+    filt['monument'] = False
+    filt['market'] = True
+    filt['art_gallery']= True
+    filt['museum'] = True
+    filt['restaurant'] = True
+    filt['temples'] = False
+    filt['mosque'] = False
+    filt['malls'] = True
+    filt['park'] = True
+    return filt
 
 def fetch_priori():
-    priority={}
-    priority['monument']=1
-    priority['market']=3
-    priority['museum']=2
+    # Priority is hardcoded
+    priority = {}
+    priority['monument'] = 1
+    priority['market'] = 2
+    priority['art_gallery']= 5
+    priority['museum'] = 5
+    priority['restaurant'] = 4
+    priority['temples'] = 3
+    priority['mosque'] = 3
+    priority['malls'] = 5
+    priority['park'] = 6
+
+
     return priority
 
 def fetch_places(city):
-    places=[]
+    places = []
     if city == 'Jaipur':
         places.append(Place('Jal Mahal',(26.965604, 75.859205), 4.5, 'monument', 'Jaipur'))
         places.append(Place('Nehru Bazaar',(26.918636, 75.818895), 4.0, 'market', 'Jaipur'))
@@ -29,12 +51,7 @@ def fetch_places(city):
         places.append(Place('Ana Sagar Lake',(26.474592, 74.619547), 4.3, 'lake', 'Ajmer'))
         places.append(Place('Ajmer Jain Temple',(26.464499, 74.632018), 4.1, 'temple', 'Ajmer'))
         places.append(Place('Daulat Bagh',(26.469087, 74.631626), 4.0, 'park', 'Ajmer'))
-
     return places
-
-# def get_user_location():0
-#     # None if user does not want to give his location or if user is too far away
-#     return (26.914125, 75.804636)
 
 
 def find_distance(current_location, location):
@@ -42,24 +59,36 @@ def find_distance(current_location, location):
     K = 0.5 # Speed scaling factor
     return K*np.sqrt(np.sum(np.square(np.sum(current_location, -1*location))))
 
-def assign_score(places, priority):
+def assign_score(places, priority, filt):
+    print(priority)
+    print(filt)
     for place in places:
         R= place.rating
         try:
             P = priority[place.type_of]
         except:
-            P = 5
+            P = 10
+
+        try:
+            F = filt[place.type_of]
+        except:
+            F = False
+
         # Cost Assigning Algorithm
-        SCORE = alpha*(R**2) + beta/np.log(P+1)
+        if F:
+            SCORE = alpha*(R**2) + beta/np.log(P+1)
+        else:
+            SCORE = 0
+        print(F,SCORE)
         place.set_score(SCORE)
         # print(SCORE)
     return places
 
 # Get Route recommendation for travelling one city
-def get_route(number_of_places, city, priority):
-    priority = fetch_priori()
+def get_route(number_of_places, city, filt):
     places = fetch_places(city)
-    places = assign_score(places, priority)
+    priority = fetch_priori()
+    places = assign_score(places, priority, filt)
 
     # Sort in descending order (Rank)
     places.sort(key=operator.attrgetter('score'))
@@ -134,7 +163,7 @@ def get_route(number_of_places, city, priority):
     route = [shortlisted[i] for i in route]
     return route
 
-def get_plan(number_of_days, cities, priority):
+def get_plan(number_of_days, cities, filt):
     hours_each_day = 8
     NLF = 1.8    # Number limiting factor
     number_of_cities = len(cities)
@@ -142,11 +171,12 @@ def get_plan(number_of_days, cities, priority):
     number_of_places_per_city = int(hours_for_each_city/NLF)
     plan = {}
     for city in cities:
-        plan[city] = get_route(number_of_places_per_city, city, priority)
+        plan[city] = get_route(number_of_places_per_city, city, filt)
     return plan
 
+n_days = 1
 cities = ['Jaipur', 'Ajmer']
-custom_plan = get_plan(1, cities, fetch_priori())
+custom_plan = get_plan(n_days, cities, fetch_filter())
 
 for city in cities:
     print(city)

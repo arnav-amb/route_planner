@@ -97,3 +97,9 @@ while i < len(places):
 
 	i+=1	
 #
+request_3 = path + path_var
+r_3=requests.get(request_3)
+f=open('places.json','w+')
+f.write(r_3.text)
+f.close()
+
