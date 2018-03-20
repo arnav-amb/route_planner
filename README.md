@@ -26,8 +26,8 @@
     pip3 install -r requirements.txt
     ```
 
-##Generate an API key and enable the Places,GeoCode and Directions API from the Google Developer Console.##
-    
+    Generate an API key and enable the Places,GeoCode and Directions API from the Google Developer Console.
+ 
 
     Place the API key in the api_call.py module in the misc folder.
 
@@ -58,7 +58,7 @@
     Once the server is started, open http://127.0.0.1:8000 or whatever server you are running on in a web browser.
     Everything went well if the webpage loads correctly and you don't see any errors.
 
-##You can see the output in the terminal as well to check the proper rendering of data on the webpage template.##
+    You can see the output in the terminal as well to check the proper rendering of data on the webpage template.
     
 8. Add a remote to your forked repository. This remote will be needed to push your changes to your repo.
     ```
