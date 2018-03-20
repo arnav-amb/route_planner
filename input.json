@@ -1,0 +1,64 @@
+{
+   "results" : [
+      {
+         "address_components" : [
+            {
+               "long_name" : "Barmer",
+               "short_name" : "Barmer",
+               "types" : [ "locality", "political" ]
+            },
+            {
+               "long_name" : "Barmer",
+               "short_name" : "Barmer",
+               "types" : [ "administrative_area_level_2", "political" ]
+            },
+            {
+               "long_name" : "Rajasthan",
+               "short_name" : "RJ",
+               "types" : [ "administrative_area_level_1", "political" ]
+            },
+            {
+               "long_name" : "India",
+               "short_name" : "IN",
+               "types" : [ "country", "political" ]
+            },
+            {
+               "long_name" : "344001",
+               "short_name" : "344001",
+               "types" : [ "postal_code" ]
+            }
+         ],
+         "formatted_address" : "Barmer, Rajasthan 344001, India",
+         "geometry" : {
+            "bounds" : {
+               "northeast" : {
+                  "lat" : 25.8137226,
+                  "lng" : 71.4405726
+               },
+               "southwest" : {
+                  "lat" : 25.7243694,
+                  "lng" : 71.36944059999999
+               }
+            },
+            "location" : {
+               "lat" : 25.7531537,
+               "lng" : 71.41806219999999
+            },
+            "location_type" : "APPROXIMATE",
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.8137226,
+                  "lng" : 71.4405726
+               },
+               "southwest" : {
+                  "lat" : 25.7243694,
+                  "lng" : 71.36944059999999
+               }
+            }
+         },
+         "place_id" : "ChIJv7xv5qE6RDkRaZiq6HlHbYQ",
+         "types" : [ "locality", "political" ]
+      }
+   ],
+   "status" : "OK"
+}

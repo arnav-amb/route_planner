@@ -1,0 +1,166 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 25.7404376,
+               "lng" : 71.37793379999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.74178742989272,
+                  "lng" : 71.37928362989271
+               },
+               "southwest" : {
+                  "lat" : 25.73908777010728,
+                  "lng" : 71.37658397010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "3d33ac6a7b00cbe61f7898b1534e13dca36bc7a7",
+         "name" : "Mysterious Cave Of Bats",
+         "photos" : [
+            {
+               "height" : 4160,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105938676253245936889/photos\"\u003eManvendar Singh Mau\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAW4gqx-XLlGt84piCnICn9_5mxjQuwO0N4dNmz0cWDG6E-DXpN_KY1Qk3Tm8ZqcX3VDwmFsAZVy32OROQh50Z7PJbvL651q3ug0JQAqUvaBJVNafsmKnDc1blEfBKbQ0nEhBMVo3YDKnhF2PqXfBt7rKJGhQIeM3z0ul2I0UweMh92L0btSfaqg",
+               "width" : 3120
+            }
+         ],
+         "place_id" : "ChIJ7-7vlQswRDkR1tsOvBwb-PI",
+         "rating" : 3,
+         "reference" : "CmRbAAAAKf03jUS1cg0Ve6umZCzyw24rOGxUUF_RlPTix-WnrPk8IIR7LczKdAytS0VBQ1gMUruMaZWnqPNCG5HI3UHHdDD-RS4n0wllPMXgL3uHYbbL1bBBx0ba1ysNvgqaH0U4EhA4ZIUh_bK-UhM0ifgvOecqGhSzuV8Ox-wproEZ0hC2-GRoTqoJ7g",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Barmer rural"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 25.7045006,
+               "lng" : 71.40451949999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.70585042989272,
+                  "lng" : 71.40586932989271
+               },
+               "southwest" : {
+                  "lat" : 25.70315077010727,
+                  "lng" : 71.40316967010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b3ad231fcb98ec21ca3e7a59a3bdd6a8e1d56ee3",
+         "name" : "Mahabar Sand Dunes",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2336,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106572503065811443525/photos\"\u003esathish kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARLsdspJbC6RuZrxEbWKknt3g4lK7_C1dIN0qHbhX3j7NHjPM29CZ8g6TAlMsJhBSCorRtz7vUwxt56e2YDubb_83MJvASQcBkBp5pxC8RU29XeiyQfQtFrEEPyJJJPH3EhDuO0aade7s7u3dD-dThcLkGhSjGccQWzBzTUWm1QA-5uiCU4XINg",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJkwAZHWg6RDkRQxL5upxgQD8",
+         "rating" : 4.1,
+         "reference" : "CmRbAAAA_Y_ecIZzd12Z7xOlNehoH-wCo9V_NKTbxhoz5sfMDIhctRvKDvwhP2YdNryr-1fnzz3Vwj3Q4WhlPSbGJSAHXo94rtQJQ5PwjFlBu5sPOFDliHOLkWoeQrV5tkWOxRfLEhB1dC3GX8P3LdY39ulglzTCGhSrB4BKfSKsPhzMzxLl57KtkRuIWg",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Barmer-Mahabar-Malpura-Gudamalani Rd, Mahabar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 25.7461052,
+               "lng" : 71.3968004
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.74745502989272,
+                  "lng" : 71.39815022989274
+               },
+               "southwest" : {
+                  "lat" : 25.74475537010728,
+                  "lng" : 71.39545057010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "dff5d0b2023f89c98c987d4614612530b1c043bb",
+         "name" : "Ahinsa Chouraha (Gandhi Chouraha)",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2368,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110768563622122429871/photos\"\u003emahaveer bohra\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxRLCeXFOsF83YsCx9Y-erI-wahklpb2rSAhfONMpCxqv6Q132iCUKCC3lJ0XceLkpfLRh2YdvRmSjaWOYjYmlSyFYeuYmTQDwqz4yRLRcDiN82L6cs5LIeuawEUWvHofEhD8Ju5N7uSSbiNU0CIR87mdGhTt8Rw7zSow7yMVGGh8uqlw2dWC2g",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJN4w0c7s6RDkR1as_APYH03o",
+         "rating" : 4,
+         "reference" : "CmRbAAAAc8VwMNJqhfPigfIcKg37nd4cSjq7ROGl9Cv9t6b6UX6v2p4NcEICPw5P6hNWdKXSfxiTDglQE2M3e-q8YVKTz8wv_xeKiBYYwIU1D6x3cZ1jbbh689rZX9ttNzN_Ox3tEhAOvIUZyWxujluD9-Zt1HLaGhQEkneJJdgi8xlZhC5SAIuHk6n_lw",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Opposite Railway station, Barmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 25.7513163,
+               "lng" : 71.3970056
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 25.75266612989272,
+                  "lng" : 71.39835542989272
+               },
+               "southwest" : {
+                  "lat" : 25.74996647010728,
+                  "lng" : 71.39565577010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "a41a84d29ebd086b7a2a2d79e4473bc7190f9f8d",
+         "name" : "Vivekanand Circle",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115112272926311820722/photos\"\u003eBANK SINGH\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAbCr8WeRk0zDeRl7C2LTZKl7RXRPJpectBi2LE30NO-0acynUWhdbg42k2fXsM9n04GAVXUrxqb6OUGMe8EQhLPdroDEW3zGefrIGUm7dH3ikPZc30mZtouRChtTgheFvEhCY0QQOoBBc2PaiNPQtdw8tGhQbfZeZ9O-MHLLCQozyfkFqQ2KiAw",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJE62iY7A6RDkRJsAmakQqMnQ",
+         "rating" : 3.9,
+         "reference" : "CmRbAAAAQ9_yCFbIrB_8dJSVtKi_Wt2uhfxzRTLQUi-7ywbv3g8VBO1PB_ifMfZxf3r0e1mdWB62sgjX2Z_oC1FIGYsu9vx6kqCdGzhfzj1i-3-MnVFHUpM86wqHiayx27Z19H5zEhBoXK0qQmxkrqubuO6Jlkd-GhT3UtZ6CR6cbpF9fONLU7V9gEc8rg",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Madhuban Colony, Mahaveer Nagar, Barmer"
+      }
+   ],
+   "status" : "OK"
+}

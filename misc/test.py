@@ -1,11 +1,36 @@
-from place import Place
+#from place import Place
 import numpy as np
 import operator
-from api_call import get_places, find_distance
+from misc.api_call import get_places, find_distance
 
 # PARAMETERS FOR FINE TUNING
 alpha= 15
 beta= 80000
+
+class Place:
+    name= None
+    lat = None
+    lng = None
+    rating = None
+    type_of = None
+    city = None
+    score= None
+    photo= None
+    place_id = None
+
+    def __init__(self, name, lat, lng, rating, type_of, city, place_id, photo = None):
+        self.name= name
+        self.lat = lat
+        self.lng = lng
+        self.rating= rating
+        self.type_of= type_of
+        self.city= city
+        self.place_id = place_id
+        self.photo = photo
+
+    def set_score(self, score):
+        self.score= score
+
 
 def fetch_filter():
     # Fetch data from user's choice
@@ -175,13 +200,13 @@ def get_plan(number_of_days, cities, filt):
     # cluster={}
     return plan
 
-n_days = 1
-cities = ['Jaipur','Ajmer']
-custom_plan = get_plan(n_days, cities, fetch_filter())
+# n_days = 1
+# cities = ['Jaipur','Ajmer']
+# custom_plan = get_plan(n_days, cities, fetch_filter())
 
-for city in cities:
-    print(city)
-    print('==============================')
-    for place in custom_plan[city]:
-        print(place.name+"|"+str(place.lat)+"|"+str(place.lng))
-    print('------------------------------')
+# for city in cities:
+#     print(city)
+#     print('==============================')
+#     for place in custom_plan[city]:
+#         print(place.name+"|"+str(place.lat)+"|"+str(place.lng))
+#     print('------------------------------')

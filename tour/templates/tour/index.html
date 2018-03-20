@@ -1,2 +1,122 @@
-<b>Home page</b>
-<p>Welcome to trip planner</p>
+{%load staticfiles%}
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Rajasthan Tourism</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.0.0/css/bootstrap.min.css" rel="stylesheet">
+	<link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.5.0/css/mdb.min.css" rel="stylesheet">
+	<link rel='stylesheet' href='static/stylesheet/mdb-theme-min.css'/>
+    <link rel='stylesheet' href='static/stylesheet/style.css'/>
+</head>
+
+    <header class="hdd">
+      <nav class="navbar navbar-expand-lg navbar-dark fixed-top scrolling-navbar">
+        <div class="container">
+          <a class="navbar-brand" href="#">
+            <strong>MDB</strong>
+          </a>
+          <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent-7" aria-controls="navbarSupportedContent-7" aria-expanded="false" aria-label="Toggle navigation">
+            <span class="navbar-toggler-icon"></span>
+          </button>
+          <div class="collapse navbar-collapse" id="navbarSupportedContent-7">
+            <ul class="navbar-nav mr-auto">
+              <li class="nav-item active">
+                <a class="nav-link" href="#">Home
+                  <span class="sr-only">(current)</span>
+                </a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Link</a>
+              </li>
+              <li class="nav-item">
+                <a class="nav-link" href="#">Profile</a>
+              </li>
+            </ul>
+            <form class="form-inline">
+              <div class="md-form mt-0">
+                <input class="form-control mr-sm-2" type="text" placeholder="Search" aria-label="Search">
+              </div>
+            </form>
+          </div>
+        </div>
+      </nav>
+      <div class="view" style="background-image: url('https://mdbootstrap.com/img/Photos/Others/images/89.jpg'); background-repeat: no-repeat; background-size: cover; background-position: center center;">
+        <div class="mask rgba-indigo-strong d-flex justify-content-center align-items-center">
+          <div class="container">
+              <div class="row pt-lg-5 mt-lg-5 wow zoomInLeft" id="imgg" data-wow-delay="0.3s">  
+                <div class="col white-text text-center text-md-left">  
+                  <img src="static/img/hello.png" style="margin: 0 auto;max-height: 100%; max-width: 100%">
+                </div>
+                <div class="col white-text text-center text-md-left" align="center">  
+                  <div class="text-center">
+                    <h4 class="white-text">
+                      <strong>I'm here to plan your Rajasthan Tour!</strong>
+                    </h4>
+                    <hr>
+                  </div>
+                </div>
+              </div>
+              <div class="row pt-lg-5 mt-lg-5 wow zoomInRight" data-wow-delay="-0.3s" id="formm" style="display: none;">
+                <div class="col white-text text-center text-md-left">
+                  <div class="card">
+                    <div class="card-body z-depth-2">
+                      <div class="text-center">
+                        <h4 class="dark-grey-text">
+                          <strong>Chooose from the list of cities which you will be visiting</strong>
+                        </h4>
+                        <hr>
+                      </div>
+                      <div class="md-form">
+                        <i class="fa fa-user prefix grey-text"></i>
+                        <input type="text" id="form3" class="form-control">
+                        <label for="form3">List</label>
+                      </div>
+                      <div class="text-center mt-3">
+                        <button class="btn btn-indigo">Next</button>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+                <div class="col white-text text-center text-md-left">  
+                  <img src="static/img/cities.png" style="margin: 0 auto;max-height: 100%; max-width: 100%">
+                </div>
+              </div>
+          </div>
+        </div>
+      </div>
+    </header>
+<body>
+                        
+    
+
+
+
+
+    <script src="https://code.jquery.com/jquery-3.2.1.min.js"></script> 
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+    <script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.4.5/js/mdb.min.js"></script>
+    <script type="text/javascript">
+        new WOW().init();
+    </script>
+    <script>
+      $('#imgg').one('webkitAnimationEnd mozAnimationEnd MSAnimationEnd oanimationend animationend',
+          function animateout(){
+            var x = document.getElementById("imgg");
+            x.className += " getout";
+          }
+      );
+      function hideit(){
+        var x = document.getElementById("imgg");
+        x.className += " hideme";
+      }
+      setTimeout(hideit, 4700);
+      function showit() {
+        var x = document.getElementById("formm");
+        x.style.display = "block";
+      }
+      setTimeout(showit, 4700);
+    </script>
+</body>
+</html>
