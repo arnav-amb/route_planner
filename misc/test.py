@@ -172,12 +172,12 @@ def get_plan(number_of_days, cities, filt):
     return plan
 
 n_days = 5
-cities = ['Jodhpur','Jaipur']
+cities = ['Jaipur','Ajmer']
 custom_plan = get_plan(n_days, cities, fetch_filter())
 
 for city in cities:
     print(city)
     print('==============================')
     for place in custom_plan[city]:
-        print(place.name+' '+place.type_of)
+        print(place.name)
     print('------------------------------')

@@ -16,24 +16,25 @@ from place import Place
 
 
 
-CITY_NAME = 'Jaipur'
-
+DONT_INCLUDE= ['travel_agency','shop','shopping_mall','store','market','business','store','complex']
 # Google Places API
 # Google Geocoding API
 
 new_api = 'https://maps.googleapis.com/maps/api/geocode/json?'
-api_key = 'AIzaSyAD0tsB11_bi7ofAvU-M2S459wmPRkOlYY'
+# api_key = 'AIzaSyAD0tsB11_bi7ofAvU-M2S459wmPRkOlYY'	#ANIQ
+# api_key = 'AIzaSyCOIE234Jzwqm1a6B-v3pNvdDNaiTyDR1U'	#MODI
+api_key = 'AIzaSyAqwxsqZQbDezGD_V-egxM4kxzm-0bpQ_8'	#DEEKSHA
 
 def get_places(CITY_NAME):
 	# INIT  only
-	# place_request= 'address={}&key={}'.format(CITY_NAME, api_key)
-	#
-	# request = new_api + place_request
-	# r = requests.get(request)
-	# print(r)
-	# f= open('input.json','w+')
-	# f.write(r.text)
-	# f.close()
+	place_request= 'address={}&key={}'.format(CITY_NAME, api_key)
+
+	request = new_api + place_request
+	r = requests.get(request)
+	print(r)
+	f= open('input.json','w+')
+	f.write(r.text)
+	f.close()
 
 	#using search place api
 
@@ -51,7 +52,7 @@ def get_places(CITY_NAME):
 
 	near_by='https://maps.googleapis.com/maps/api/place/nearbysearch/json?'
 
-	places=['restaurant','market','monument','temples','mosque']
+	places=['famous places','monument','premise','religious_places','shrine','zoo']
 
 	for i in range(len(places)):
 		#print(places[i])
@@ -81,12 +82,32 @@ def get_places(CITY_NAME):
 				rating = data['results'][k]['rating']
 			except:
 				rating = 1
-			type_of = data['results'][k]['types']
+			type_of_original = data['results'][k]['types']
+			type_of = places[i]
 			# Creating a Place object and storing it in a list
-			list_of_places.append(Place(name, lat, lng, rating, type_of, CITY_NAME, place_id))
+			flag = True
+			type_of_original.remove('establishment')
+			type_of_original.remove('point_of_interest')
+			if len(type_of_original)>0:
+				for type_word in type_of_original:
+					if type_word in DONT_INCLUDE:
+						flag = False
+				if flag:
+					list_of_places.append(Place(name, lat, lng, rating, type_of, CITY_NAME, place_id))
 
 	print(len(list_of_places))
 	return(list_of_places)
+
+	no_dupli=[]
+	for i in range(list_of_places):
+		flag = True
+		for j in range(i-1):
+			if list_of_places[i].place_id == list_of_places[j].place_id:
+				flag = False
+		if flag:
+			no_dupli.append(list_of_places[i])
+
+
 
 
 # x= get_places('Jaipur')
