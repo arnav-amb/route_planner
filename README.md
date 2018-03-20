@@ -27,6 +27,8 @@
     ```
 
 ##Generate an API key and enable the Places,GeoCode and Directions API from the Google Developer Console.##
+    
+
     Place the API key in the api_call.py module in the misc folder.
 
 6. Migrate your database.
