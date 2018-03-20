@@ -1,11 +1,11 @@
 from place import Place
 import numpy as np
 import operator
-from api_call import get_places
+from api_call import get_places, find_distance
 
 # PARAMETERS FOR FINE TUNING
 alpha= 20
-beta= 500
+beta= 8000
 
 def fetch_filter():
     # Fetch data from user's choice
@@ -27,9 +27,9 @@ def fetch_priori():
     priority = {}
     priority['famous'] = 1
     priority['monument'] = 2
-    priority['museum'] = 3
-    priority['places_of_worship'] = 2
-    priority['zoo'] = 4
+    priority['museum'] = 9
+    priority['places_of_worship'] = 10
+    priority['zoo'] = 12
 
 
     return priority
@@ -51,10 +51,10 @@ def fetch_priori():
 #     return places
 
 
-def find_distance(current_location, location):
-    # Use Google Maps API to calculate distance
-    K = 0.5 # Speed scaling factor
-    return K*np.sqrt(np.sum(np.square(np.sum(current_location, -1*location))))
+# def find_distance(current_location, location):
+#     # Use Google Maps API to calculate distance
+#     K = 0.5 # Speed scaling factor
+#     return K*np.sqrt(np.sum(np.square(np.sum(current_location, -1*location))))
 
 def assign_score(places, priority, filt):
     # print(priority)
@@ -73,7 +73,7 @@ def assign_score(places, priority, filt):
 
         # Cost Assigning Algorithm
         if F:
-            SCORE = alpha*(R**2)/P + beta/np.log(P+1)
+            SCORE = alpha*(R**2)/P + beta/(P*(1+np.log(P+1))**2)
         else:
             SCORE = 0
         # print(F,SCORE)
@@ -103,7 +103,8 @@ def get_route(number_of_places, city, filt):
     dist_matrix = np.zeros((len(shortlisted), len(shortlisted)))
     for pos in range(len(shortlisted)):
         for pos2 in range(len(shortlisted)):
-            dist_matrix[pos, pos2]= find_distance((shortlisted[pos].lat,shortlisted[pos].lng), (shortlisted[pos2].lat,shortlisted[pos2].lng))
+            if pos!=pos2:
+                dist_matrix[pos, pos2]= find_distance(shortlisted[pos].name+", "+city, shortlisted[pos2].name+", "+city)
 
     all_routes= []
     # Plan all routes for a city
@@ -171,7 +172,7 @@ def get_plan(number_of_days, cities, filt):
         plan[city] = get_route(number_of_places_per_city, city, filt)
     return plan
 
-n_days = 5
+n_days = 2
 cities = ['Jaipur','Ajmer']
 custom_plan = get_plan(n_days, cities, fetch_filter())
 

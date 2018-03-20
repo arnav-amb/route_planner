@@ -21,22 +21,19 @@
          "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
          "id" : "aacf9b35c10d8262282daeb6a6870a13991a18f1",
          "name" : "Baradari",
-         "opening_hours" : {
-            "weekday_text" : []
-         },
          "photos" : [
             {
                "height" : 2592,
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/115793199603789576348/photos\"\u003eShaikh Yusuf\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAacF7CQjhR-Lp430xGwwOnesanqp0HFi7gimJuAejdChkWnpHIw9d0iqi4TalrhTQEnjXf4PSF7N4jVEbXMLkfeX3H6nnlhk5AvhtyOD8mn0GxE1ZXK4WHe6N7uBgl5CgEhA44EOkNrK8vXEV8aS5iPyMGhRdm4DyXAK43AIj1ceZnGWX7HTY6w",
+               "photo_reference" : "CmRaAAAAlEZELcpeyWWi-D8adDdf8XrWL81ZFFvrWlEV7LfQh7fxekbHUgHiBlsivcIxNQgumlf96h7SABNCdOohWFMc4ElKcYZrE97IvrXhnXhEm0OJtx_oQrx2rQlAqBBujd6qEhBOkbfSKFakBW7kKjXCzlmwGhQsS02sYCA9vZjIdLjck3ugLBMZug",
                "width" : 4608
             }
          ],
          "place_id" : "ChIJ2fSHyAbnazkRSGxR9KKniY4",
          "rating" : 4.4,
-         "reference" : "CmRbAAAAx7z4R1k0Ct278AWBh5TsO7obg2WJX5E5ZE4T8xbUwspJcTWHy5Y801tYvz4ZKjhHITKaS2yC8F0A5ayzgZIlTBt__h5L688i5Qsk7ztPxH0so7mBysBeG4_m7Qjmcjn7EhCjqqxkqXTD3smkxRWwDfFGGhQbTPwX4K87bCg6wt02Aa0Dp-6CuQ",
+         "reference" : "CmRbAAAA5IuY0UUQuFqibnCbzQDH4Tq56Ipu94XpcYDoptSgPJkDEDCOWJjb8fr94rjQwoAvpL42I3elyFb7eSBPPzDv3l9Q9rBKaji3siVfIFirJpBmHyjd1Gf0nb0CChLfbWlBEhAbyU-wnYx9vYt0_tTY5XFhGhQc0sGx1mKMRmrssz0UsGqBFNPifA",
          "scope" : "GOOGLE",
          "types" : [ "point_of_interest", "establishment" ],
          "vicinity" : "Kala Bagh, Ajmer"
@@ -71,13 +68,13 @@
                "html_attributions" : [
                   "\u003ca href=\"https://maps.google.com/maps/contrib/110285205541160187508/photos\"\u003enaseem lodhi\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAAGoEKY6oTWfO3oTB6e5Hr8GJyCORDPo8MEYqkYo3jcg5O8EdzbbZpK5XcO0kH5DE0zwecc0TntIVAAMcDVczpzol79trgApCQoKAtIUEzqwa5H2d9MDdAPhy_yVTGH3eTEhCdtY_v0oWDL3v9YBN9CmA1GhQcRNxsXtMXlkrzAvWzqKV8N1aJQw",
+               "photo_reference" : "CmRaAAAA-Lgh6AlC_SahdvGUe_M0awBynGEltZZkyg6JbCL41ARvzqwjRzdPo3px8kGV99ida5Knoxvq7gcP2HkW2-r4RTa2qBr2-fDmxcqKUfgv9RGw1ziBp3K6DZWfM_JfwXBmEhDg6R8XfibydijgIhHLlZKeGhTg8JOYjCGkbcEaRGQvYStgtq8J_A",
                "width" : 3264
             }
          ],
          "place_id" : "ChIJ8-9-KxHnazkRfFR_tBFTvlY",
          "rating" : 4.2,
-         "reference" : "CmRbAAAAmqnwVfLt9ZUQqQpnpcdQXb9vQofuPO014Tpfhd6ms00628qFhFg8vHkfTG7MLByIB804lPyxDY175ymkMiz6SWWP4uZRO2HveIqXoxOX0Fe3ZvVA6FQ7QZ3EcPw2thrNEhAUU2jseKk91gBDUzcduxPYGhTaxiTzoyH9yk60X57CyxZ233xGpg",
+         "reference" : "CmRbAAAAk-fghuuymgVxk6aDcmO8_RGPrfW5gGmC1xq09LGK8AopfWlCBygo2ol2Rvl_6hW0WlMNb_O9udROKG_2Xe98fL27Z9QU2pQkxyPz4WHlFz5PxuVcv5FzFucFsONxhOtWEhCW6yN1NXBqZq68nBHaXaqeGhS0YQHSkFDR9vZY1Kl4KHKAZeRt3w",
          "scope" : "GOOGLE",
          "types" : [ "point_of_interest", "establishment" ],
          "vicinity" : "Ander Kote Road, Ajmer"

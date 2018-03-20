@@ -2,141 +2,174 @@
    "geocoded_waypoints" : [
       {
          "geocoder_status" : "OK",
-         "place_id" : "ChIJpQvTG0uxbTkRDLLMHlNdDoY",
-         "types" : [ "establishment", "point_of_interest", "premise" ]
+         "place_id" : "ChIJk9Ym1CLdazkRTUkKnyDEGeo",
+         "types" : [
+            "establishment",
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest"
+         ]
       },
       {
          "geocoder_status" : "OK",
-         "place_id" : "ChIJlXJ26RuxbTkR0qsToxFP05c",
-         "types" : [ "establishment", "museum", "point_of_interest" ]
+         "place_id" : "ChIJdaPYClXcazkRFBDCPvmKpWQ",
+         "types" : [
+            "establishment",
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest"
+         ]
       }
    ],
    "routes" : [
       {
          "bounds" : {
             "northeast" : {
-               "lat" : 26.9540591,
-               "lng" : 75.84243979999999
+               "lat" : 26.4905464,
+               "lng" : 74.55738509999999
             },
             "southwest" : {
-               "lat" : 26.9238745,
-               "lng" : 75.8270443
+               "lat" : 26.4742903,
+               "lng" : 74.5452404
             }
          },
-         "copyrights" : "Map data ©2018 Google",
+         "copyrights" : "Map data 2018 Google",
          "legs" : [
             {
                "distance" : {
-                  "text" : "3.9 km",
-                  "value" : 3937
+                  "text" : "2.4 km",
+                  "value" : 2412
                },
                "duration" : {
-                  "text" : "13 mins",
-                  "value" : 773
+                  "text" : "9 mins",
+                  "value" : 545
                },
-               "end_address" : "Amer Road, Jaipur, Rajasthan 302002, India",
+               "end_address" : "Kharekhari Road, Pushkar, Ajmer, Rajasthan 305005, India",
                "end_location" : {
-                  "lat" : 26.9540171,
-                  "lng" : 75.8424397
+                  "lat" : 26.4742903,
+                  "lng" : 74.5452404
                },
-               "start_address" : "Hawa Mahal Rd, Badi Choupad, J.D.A. Market, Kanwar Nagar, Jaipur, Rajasthan 302002, India",
+               "start_address" : "Main Market, Pushkar, Rajasthan 305022, India",
                "start_location" : {
-                  "lat" : 26.9238745,
-                  "lng" : 75.8270443
+                  "lat" : 26.4905464,
+                  "lng" : 74.55738509999999
                },
                "steps" : [
                   {
                      "distance" : {
-                        "text" : "0.9 km",
-                        "value" : 891
+                        "text" : "0.2 km",
+                        "value" : 169
                      },
                      "duration" : {
-                        "text" : "4 mins",
-                        "value" : 218
+                        "text" : "1 min",
+                        "value" : 41
                      },
                      "end_location" : {
-                        "lat" : 26.9293619,
-                        "lng" : 75.8308158
+                        "lat" : 26.4897863,
+                        "lng" : 74.5559744
                      },
-                     "html_instructions" : "Head \u003cb\u003enorth\u003c/b\u003e on \u003cb\u003eHawa Mahal Rd\u003c/b\u003e toward \u003cb\u003eTulsi Marg\u003c/b\u003e",
+                     "html_instructions" : "Head \u003cb\u003esouth\u003c/b\u003e toward \u003cb\u003eMain Market Rd\u003c/b\u003e",
                      "polyline" : {
-                        "points" : "eqicD_~xmMeHkAEAkCi@cCc@{Cg@cCa@aEy@iBa@ICACEGGWBQJy@RgBFc@ZqBN_A"
+                        "points" : "}|t`Du~`fMJ@FFDFPR@@P\\@DJf@Rr@Lr@LXN\\HF"
                      },
                      "start_location" : {
-                        "lat" : 26.9238745,
-                        "lng" : 75.8270443
+                        "lat" : 26.4905464,
+                        "lng" : 74.55738509999999
                      },
                      "travel_mode" : "DRIVING"
                   },
                   {
                      "distance" : {
                         "text" : "0.6 km",
-                        "value" : 554
+                        "value" : 553
                      },
                      "duration" : {
-                        "text" : "2 mins",
-                        "value" : 109
+                        "text" : "4 mins",
+                        "value" : 238
                      },
                      "end_location" : {
-                        "lat" : 26.9338381,
-                        "lng" : 75.83308510000001
+                        "lat" : 26.4877984,
+                        "lng" : 74.551334
                      },
-                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e onto \u003cb\u003eOld Amer Rd\u003c/b\u003e",
-                     "maneuver" : "turn-left",
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e at Kailash rainbow forex onto \u003cb\u003eMain Market Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by Laffa &amp; Falafel (on the left)\u003c/div\u003e",
+                     "maneuver" : "turn-right",
                      "polyline" : {
-                        "points" : "osjcDsuymMSGOEMGWQSMc@UQMOIy@_@IGSOSQ[S[OA?]Q]Oa@Ow@SaEcAWGOCoCw@IEGCGCECCA?CAA?A?A?G"
+                        "points" : "ext`Dyu`fM?@AH?H?D@T?PBPHd@RfAd@|CLbAFd@RfAPlA@J@F?H@ND\\D^?B@B@B@B@@B@B@VBn@JFBD@B@^\\VRDFHNZn@HNFHPRDC"
                      },
                      "start_location" : {
-                        "lat" : 26.9293619,
-                        "lng" : 75.8308158
+                        "lat" : 26.4897863,
+                        "lng" : 74.5559744
                      },
                      "travel_mode" : "DRIVING"
                   },
                   {
                      "distance" : {
-                        "text" : "2.5 km",
-                        "value" : 2477
-                     },
-                     "duration" : {
-                        "text" : "7 mins",
-                        "value" : 390
-                     },
-                     "end_location" : {
-                        "lat" : 26.9540591,
-                        "lng" : 75.84229089999999
-                     },
-                     "html_instructions" : "Turn \u003cb\u003eleft\u003c/b\u003e after NIA Auditorium (on the left)\u003cdiv style=\"font-size:0.9em\"\u003ePass by SBI ATM (on the right)\u003c/div\u003e",
-                     "maneuver" : "turn-left",
-                     "polyline" : {
-                        "points" : "ookcDyczmM_@G_@EgBYeAQm@McAU]AgAk@MIu@k@wAkAQOIIs@o@eAaAYYq@s@SU]a@s@w@{@aAi@g@u@s@{@u@_@WqA}@aAm@eAq@eDkB]QQKy@e@c@Wi@Ye@KWE[Ck@Go@Ig@Gu@KQCeCa@mGw@QCmCg@q@MYCeCi@yBe@}@O}@QMC{AY}A[u@O{Cs@mE}@qI}AUG"
-                     },
-                     "start_location" : {
-                        "lat" : 26.9338381,
-                        "lng" : 75.83308510000001
-                     },
-                     "travel_mode" : "DRIVING"
-                  },
-                  {
-                     "distance" : {
-                        "text" : "15 m",
-                        "value" : 15
+                        "text" : "48 m",
+                        "value" : 48
                      },
                      "duration" : {
                         "text" : "1 min",
-                        "value" : 56
+                        "value" : 15
                      },
                      "end_location" : {
-                        "lat" : 26.9540171,
-                        "lng" : 75.8424397
+                        "lat" : 26.4875869,
+                        "lng" : 74.5509143
                      },
-                     "html_instructions" : "Make a \u003cb\u003eU-turn\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003eDestination will be on the left\u003c/div\u003e",
-                     "maneuver" : "uturn-right",
+                     "html_instructions" : "Turn \u003cb\u003eright\u003c/b\u003e onto \u003cb\u003eBrahma Temple Rd\u003c/b\u003e",
+                     "maneuver" : "turn-right",
                      "polyline" : {
-                        "points" : "{mocDi}{mMF]"
+                        "points" : "wkt`Dyx_fMFHHJHXFNDR"
                      },
                      "start_location" : {
-                        "lat" : 26.9540591,
-                        "lng" : 75.84229089999999
+                        "lat" : 26.4877984,
+                        "lng" : 74.551334
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "0.3 km",
+                        "value" : 294
+                     },
+                     "duration" : {
+                        "text" : "1 min",
+                        "value" : 67
+                     },
+                     "end_location" : {
+                        "lat" : 26.485504,
+                        "lng" : 74.54911389999999
+                     },
+                     "html_instructions" : "Slight \u003cb\u003eleft\u003c/b\u003e at G Art Emporium toward \u003cb\u003eKharekhari Rd\u003c/b\u003e",
+                     "maneuver" : "turn-slight-left",
+                     "polyline" : {
+                        "points" : "mjt`Dev_fMv@n@`@`@VTTTp@p@b@d@b@ZHH`@Vl@`@dAp@"
+                     },
+                     "start_location" : {
+                        "lat" : 26.4875869,
+                        "lng" : 74.5509143
+                     },
+                     "travel_mode" : "DRIVING"
+                  },
+                  {
+                     "distance" : {
+                        "text" : "1.3 km",
+                        "value" : 1348
+                     },
+                     "duration" : {
+                        "text" : "3 mins",
+                        "value" : 184
+                     },
+                     "end_location" : {
+                        "lat" : 26.4742903,
+                        "lng" : 74.5452404
+                     },
+                     "html_instructions" : "Continue onto \u003cb\u003eKharekhari Rd\u003c/b\u003e\u003cdiv style=\"font-size:0.9em\"\u003ePass by JMD HILLS TOWN RESORT &amp; RASTURANT (on the right)\u003c/div\u003e",
+                     "polyline" : {
+                        "points" : "k}s`D}j_fMVNtBbApAbAj@z@z@jAh@l@f@\\`Bx@TJbAZt@Tr@RlA^~Al@RHhARlE@tDW`GlAvEZ~JhAVB"
+                     },
+                     "start_location" : {
+                        "lat" : 26.485504,
+                        "lng" : 74.54911389999999
                      },
                      "travel_mode" : "DRIVING"
                   }
@@ -146,9 +179,9 @@
             }
          ],
          "overview_polyline" : {
-            "points" : "eqicD_~xmMkHmAoGmA_HiAkH{AKGM_@j@wEj@qDc@M}A}@a@WcAg@g@a@w@c@_@Q_A_@aHcBiDeAKK?C?G_@GgC_@sB_@cAU]AuAu@iDqCyBqBkAmAaDqD_B{A{@u@_@WsCkBkF}CmC{Ai@Ye@Ks@IyDe@wCe@_H{@_JcBcGkAyDu@qEcA_P{CUGF]"
+            "points" : "}|t`Du~`fMRHVZR^Ll@`@fB\\v@HHARD~@\\lBr@`Fn@fEH~@Hj@FFjAPLDb@^\\Zd@~@PXPRDCPTPh@DRv@n@x@v@fAfAfA`A~CtBlCrApAbAj@z@dBxBf@\\`Bx@xAf@hBh@lA^~Al@RHhARlE@tDW`GlAvEZvKlA"
          },
-         "summary" : "Amer Rd",
+         "summary" : "Kharekhari Rd",
          "warnings" : [],
          "waypoint_order" : []
       }

@@ -71,7 +71,7 @@ def get_places(CITY_NAME):
 		#print(request_4)
 		r_4=requests.get(request_4)
 		f=open('near_places'+str(i)+'.json','w+')
-		f.write(r_4.text)
+		f.write(r_4.text.encode('ascii', 'ignore').decode('ascii'))
 		f.close()
 
 
@@ -118,18 +118,26 @@ def get_places(CITY_NAME):
 	return no_dupli
 
 
-# x= get_places('Jaipur')
+def find_distance(name_from, name_to):
+	path='https://maps.googleapis.com/maps/api/directions/json?'
 
-#api for getting directions between two places
+	path_var='origin={}&destination={}&key={}&units={}'.format(name_from,name_to,api_key,'metric')
 
-# path='https://maps.googleapis.com/maps/api/directions/json?'
+	request_3 = path + path_var
+	r_3=requests.get(request_3)
+	print(r_3)
+	f=open('places.json','w+')
+	f.write(r_3.text.encode('ascii', 'ignore').decode('ascii'))
+	f.close()
 
-# path_var='origin={}&destination={}&key={}'.format('hawa mahal','jal mahal',api_key)
+	with open('places.json','r') as myfile:
+		content=json.load(myfile)
+	dis_1=content['routes'][0]
+	dis_2=dis_1['legs'][0]
+	dis_3=dis_2['distance']['text']
 
-# request_3 = path + path_var
-# r_3=requests.get(request_3)
-# f=open('places.json','w+')
-# f.write(r_3.text)
-# f.close()
-
-#api ends
+	x= dis_3.split()
+	if x[1] == 'km':
+		return float(x[0])*1000.0
+	else:
+		return float(x[0])
