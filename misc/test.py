@@ -146,7 +146,7 @@ def get_plan(number_of_days, cities, priority):
     return plan
 
 cities = ['Jaipur', 'Ajmer']
-custom_plan = get_plan(2, cities, fetch_priori())
+custom_plan = get_plan(1, cities, fetch_priori())
 
 for city in cities:
     print(city)
