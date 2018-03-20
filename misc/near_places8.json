@@ -1,0 +1,746 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CrQCIQEAAI7-R7A1M_qRJ1gA2iaeh7laV2A_T36ftL4aMK1boHMDxtNEY0FRA5H0sCsCtMzvThG0fRucdnWItakO-ASdNOJJqTfGCAjj_I63ZA0bMomdcW4NskdnuJTJnD2ZdHpkoM8IFc7CdPoY-kalcgJ5KK6Uqbqkp9egplauIuNtOBJDcZKVRVynlM7lS0C1xAWNqBF376kuihUuwiz6UoyDS5-G-kZGkrs8Qu5N_x146s1mYHexDlucEoc294WinlEQyD4nckd2GOXhZxSiC5OGP4bTcWVp9Mmh2tOJtiAM16IQzt3Z85ZKbupuWdOrHSOug2l_ZANvLXLNDxXCLMzreyRfc6HIrUkx2tyMkeJf4SsFWO0Bxk-1smAgoM24UOLSuK0YefaifesVcXZikQa9jScSEEMhLuTVZDqu3THwlBZimPMaFDFBpVRW3M-6P6BpKMNqf5W0QD97",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.911676,
+               "lng" : 75.8194695
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.91319202989272,
+                  "lng" : 75.82086100000001
+               },
+               "southwest" : {
+                  "lat" : 26.91049237010727,
+                  "lng" : 75.81803020000001
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "87923a9d4f10148e171eeb604c0b538b2f853e77",
+         "name" : "Albert Hall Museum",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105061099394492403376/photos\"\u003eMichael Wu\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAAhSb9H5DAwdGrWoRlVuHewQZ1JHG8fX1a3SkBziGohMy_0Fusc9UuGfL1Y88iqU-JD4ECNXG-OxahKbHgxbmxgRdg2eoAOvl8lXg2v63fYJYdbGKzV_QeOE1di6D9AR3EhCxlmYETdz893wlH6eAQFHeGhSunmNbAZm00-Dk8PQ-45ok98zuSA",
+               "width" : 1800
+            }
+         ],
+         "place_id" : "ChIJXyn5OrC2bTkRaGk8EzNDuwU",
+         "rating" : 4.4,
+         "reference" : "CmRbAAAAwHSHbSEPEqQDo1lWB1b6lIikNYJjOmPUmvAGSByn0PsejKNPhdShh-kvvA7IR8v95JfifcV2Ayyh-a54eeBVdPYqlpqz-WHLNqRIUP46aKOmc5Gw_BvmJtXSj_583DZOEhB7ypUfJNUFvU8g8CeIYvtIGhS1Lfx0FIb2IbuliMQmApBZY0Us2w",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Museum Road, Ram Niwas Garden, Kailash Puri, Adarsh Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9164667,
+               "lng" : 75.81929239999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.91772872989272,
+                  "lng" : 75.82061962989272
+               },
+               "southwest" : {
+                  "lat" : 26.91502907010728,
+                  "lng" : 75.81791997010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "a0ae015e7062d6b3fa8c5bb96f0ecf0dcb78134d",
+         "name" : "Museum of Gem and Jewellery",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1320,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108580752876659065559/photos\"\u003eMUSEUM Of GEM &amp; JEWELLERY JAIPUR\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHW9cvdKwzVhSs_SDhaxPcmm5XFCX8AVJQoUDE5Tl2oFXOmJlOMXN6DmqiDkFOStM2ldPLWJDfg9x0ATqewZYtRMSm6mNYKJ2Qgx6elTaHk2JgpLtyZiNZQ7avDNu6Ue8EhAt-V_r7IM1NauU6L0mSKdqGhRFNRgE9dRfk04yEoYM1LUkbyzODQ",
+               "width" : 1980
+            }
+         ],
+         "place_id" : "ChIJxT05F7K2bTkRtk9N242uYtM",
+         "rating" : 4.9,
+         "reference" : "CmRbAAAAg5j_qtTUxjIkuvTfBWMJkiAC3cFv_pWUyBD1aS1cyVbG4CWb2bEW3_g3fpM5J9WksXnVwe-GQJr_SQ2fkPBBvZQslJxhBGrIlCObI4kMN5gzohmiBjVgIzZMjiYvDVzMEhDP0vOdI3Z1GHZhPoQafs3kGhR2aPEWKG3KwiNRbXlg1ZWqN70f0g",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Rajasthan Chamber Bhawan, MI Road, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.915162,
+               "lng" : 75.80180799999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.91657942989272,
+                  "lng" : 75.80317862989271
+               },
+               "southwest" : {
+                  "lat" : 26.91387977010728,
+                  "lng" : 75.80047897010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "b8f71277089be46a26e2bdc16d6df12a8a5e96dc",
+         "name" : "Amrapali Museum",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1714,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113274911063904790214/photos\"\u003eRanjeet Kushwaha\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAALrykBVCqDaCAde1m7eLJzAWglc1HbLw1cIi5JhRyMT69STSGVJt-l_wYbCE0RF88OdW6mijqcUtx2Ln2GHkc81PhugFennnl3PRSuLMMdTRctNxmq_IboruyTke71ts0EhCK6cCHYnDd6BKErD2ojOtXGhRhBs92CZGqZqGwhR9C5vV7E1wG5Q",
+               "width" : 2600
+            }
+         ],
+         "place_id" : "ChIJSTr0NwG0bTkRFSj6wltYcPY",
+         "rating" : 4,
+         "reference" : "CmRbAAAAeZWbKtIHfcZak1CnXgipP68MLge4jb5Ica8PgPQWYwCG2A0eAo77hWuHQN6XYF837FM7IJk6QwIWPoJn6kIXVzGa950h62HKntSo9q2rwUyP6hZFnq9GrgTlM538BFmuEhC638-stvrM01OX16M1xPMKGhQivgTM4mRx022QTUwggPL9XJVlCg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "K-14/B, Ashok Rd, Panch Batti, C Scheme, Ashok Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9209593,
+               "lng" : 75.8176991
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.92232297989272,
+                  "lng" : 75.81897682989272
+               },
+               "southwest" : {
+                  "lat" : 26.91962332010727,
+                  "lng" : 75.81627717010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "de3b10172f454ad66d558b39cdc0a43339980ca2",
+         "name" : "Museum of Legacies",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1366,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118192585822650256612/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA0Gfn9PsVUhpqi1oEi2T6BTL6Yg851PaFLMLvtE3kFWNvZ2a5uD-Gsf7hPDPgn7yFrPXS9Or_OtQg-4vS67sbEumc27id8hn2Xhxe6xX7zSaws-WaQIz6RN5qm7PvscTDEhCKXiZstUK4hIjtFFyInZIUGhRSVnG0WhIspP9GR1Dqgl326OCBAQ",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJgTFiUq22bTkRMXe5zXbckiQ",
+         "rating" : 4.5,
+         "reference" : "CmRbAAAAfbfqMxrHobtKFBIsIwuCOrANMsr5UZZNtclf-TLdm2cmP2E-8HJsO8a1l3dVypYC_kxTkjfdMbBpLRluH94lcPTczkcyTxa4WKTJ0EjgPBidw4ia0CL7fjysAZPlSwVEEhCbOXne5c9f29oA7WKXo-t4GhTwjW8bXz6OmQTLcJzqfYGM3gbMYg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Kishanpole Bazar Rd, Modikhana, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9003214,
+               "lng" : 75.8174068
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.90167122989272,
+                  "lng" : 75.81875662989272
+               },
+               "southwest" : {
+                  "lat" : 26.89897157010728,
+                  "lng" : 75.81605697010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "88128f3691c1359080afda98e1b9d6829464293e",
+         "name" : "Dolls Museum",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114388144115460258377/photos\"\u003eIshwar Das Baheti\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFS4PdPRQC7iVueNxD3d52odO-OH7pBkFCOaJvimEWE8YR-P1O_rMKsIUgQT9nJKi97EFlfYxn6wM4s8AeCIXtPsOEydqUTFiw-2rHDlV8ZUI9jfiSZjWxlkwd6Nps30aEhCsOOcv5bU7Jr-PNX75FgX5GhS43Im0H5eLRnY8Rj_GbZHZjj5lvg",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJJTH_wqK2bTkROfdwVZy6KHA",
+         "rating" : 4.2,
+         "reference" : "CmRbAAAAkZelg8Nx5O40Q_6F2zWiC17xmQb8mBMPkBLKm_qc1y2XWrzhBJCBf0uozG7yHGpNmocxguw9MR4jMYWXgXsokFvQ97V8QrDeUAUWN3kUV_zMuk3D6SqUwtvcSlqBrmZQEhBP3A0r4IxMAmH9JS8bxPzoGhRA93YrVMN3PNgJuOkomv5jzTxvlA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Jawahar Lal Nehru Road, Trimurty Circle, JLN Marg, Adarsh Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.99271,
+               "lng" : 75.850776
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.99405982989272,
+                  "lng" : 75.85212582989271
+               },
+               "southwest" : {
+                  "lat" : 26.99136017010728,
+                  "lng" : 75.84942617010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "f8dd9282e0a29d72cbdcece66800957dce8c0476",
+         "name" : "Anokhi Museum",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 427,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111615711468280915846/photos\"\u003eNilesh Korgaokar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAaFx4PpUQ12D4JHjofBJtTXqC8lbN4QoGJFSbxrw0TMS754M7ffk9aGj1SB27BoakssGxMTS80-faie5K8cinde4j5dx3J9OIXFz9GzAmE2GUYQti1Us2Bw-rgvJrXWT0EhBTtgWsi-_1Nq36PZwL1G1wGhQ0WtGrVZzSW7H2JlNZKaGvxy_JOw",
+               "width" : 640
+            }
+         ],
+         "place_id" : "ChIJ2fs8d7WxbTkRnv1e7pWoFuI",
+         "rating" : 4.2,
+         "reference" : "CmRbAAAAm9WHyO3L2v3VG2Pcu7uFH9T7LeD_T13ybBit0ohCEFbv0oOTrRgr9zOstWDRtOtPe-BkKBDwHtMzcSMSgio4tcm5Zxfn9sBC_yV-7er61DLdeUx2BCG02BYD7pListk4EhByC9xIFrRMe6ZduSwGqIxGGhRnpasE41YBY78BMp_DQgyCrmFlhQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Anokhi Haveli, Near Badrinath Temple, Kheri Gate, Amber, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8444057,
+               "lng" : 75.80722919999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.84575552989272,
+                  "lng" : 75.80857902989271
+               },
+               "southwest" : {
+                  "lat" : 26.84305587010727,
+                  "lng" : 75.80587937010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "702924ef10e142489d0036de74e60482e2edfdfb",
+         "name" : "Alice Garg National Seashell Museum Jaipur",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108777903940868221608/photos\"\u003eAshwin Tahiliani\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAUWXHzqWgBmEJR5bMaRObosQqUPKjW8vk_2q1MUZ8Us3SKGTw0ceTcvWUQ2jy7j-zz5mXNRyJ_ZOwulwnTkmBPLdi-wweDErWmiU7JOmMwBEVGkABZx1_RzVvZL4fLXCDEhBMamyMJHrbteEutyrTDEbHGhSF--tEkWbQ6WliePOBNQP7d_YHsA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJAQAA1Am2bTkRLMNfiqIbZ8I",
+         "rating" : 4,
+         "reference" : "CmRbAAAAVWCf0G3PAePNYWZj4rOdwOKaINHnYLSe5w-6yf59v02__26V_8aRS0O4UtFKLlSgTysBBgTqbO1v-ck1Ex6p0xFoJ9GwPLWHZR0DSsYHWVYFmhYsuNxPnme8xHP4wShrEhCTVx8wQiF66cXKq0RTYIg5GhT-gQ9DcnE9A4Vn3cHdXw18Ka8f-g",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "7/10, Amit Bhardwaj Marg, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9517335,
+               "lng" : 75.7016254
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.95307457989272,
+                  "lng" : 75.70297022989271
+               },
+               "southwest" : {
+                  "lat" : 26.95037492010728,
+                  "lng" : 75.70027057010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "2dc2bafee7947b977bbc488d39070e68dbe73d81",
+         "name" : "Divya Aatma Gyan Kendra",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 533,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109782463882228127769/photos\"\u003eDivya Aatma Gyan Kendra\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAABR0NtQSo37ZYpLx7tRfvn-I1X-W3fn7PdFfQviNsaG1pOxDdvvMRWirWZm5N2kQOFDgR2sMtAwSBcs1sYtyi-uU8K14E82YlT_NtBza6vb3lktWIDOTygPy_hS3Q4MA8EhDQTeR_1AAL8OzkfWF4YkMIGhTkZoKa5n1PXfyJ7Xq5-vKkP_7qdA",
+               "width" : 533
+            }
+         ],
+         "place_id" : "ChIJXZJA0NlMbDkRHoBZRR2YYZo",
+         "reference" : "CmRbAAAAINyyBDaRHZdZ4WO59LnYSli8-Q-Z8Ap8unSf3TvJoaqaMN3Gdz7CjcqMXdwfNC03bG-Pde_d-S2fYN9cdsFZULc4qNth3ZR1LJUGGn_ASNElsYwn-UmeaTGMa2BYkASOEhBwr1vC8JDiOFYslATCKSPQGhRPf6mqQzYEq8B7J9ZHf1pjM3zpoA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "A, 40, Kalwar Rd, Suraj Nagar, Jhotwara, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9391988,
+               "lng" : 75.8162296
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.94076792989272,
+                  "lng" : 75.81748932989271
+               },
+               "southwest" : {
+                  "lat" : 26.93806827010728,
+                  "lng" : 75.81478967010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "29e9a35e9b3f2d203b9d1273928cadd9b3c8707e",
+         "name" : "Jaipur Wax Museum",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115356011438431426740/photos\"\u003eRashmin Jadav\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAt7z0Qx-naFiyIGcTT0jrJj60IgzWd8eeiBvXuhpEowFEpaLwTKTpdv1iTZy_ZhBi8EttvJ3HOzIL27obg0LXGb-OMr36ovCtQnAmmgkeoENjQaRSimYb3ZMvGsMk0R6YEhBt37PEfB1v4mf790PrI7IaGhRMwzdwRmxDwedERODP838oxQ1gCw",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJw1BujlyxbTkRlufvmwfJwO4",
+         "rating" : 4.3,
+         "reference" : "CmRbAAAAtau4EteDbnx8g_0XyiQsUl3Kq8pYXIjbaWwUghUuz7kgb3jDDchcNIPE4FWX--P5mOPE9rYg-HISZf8F8q0_pJL6CbmAdAS28Ew0NCqDK13FZQvia54uxPqWIhh6V5u_EhDDJgYDGoTn-_Dg7zsrOgvOGhRVQfBRS8sb5QnC40zPT7Kjqp48WQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Nahargarh Fort, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9021043,
+               "lng" : 75.8194834
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.90345412989272,
+                  "lng" : 75.82083322989273
+               },
+               "southwest" : {
+                  "lat" : 26.90075447010728,
+                  "lng" : 75.81813357010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "61fdf18f7f6771e11c735c288ea8328f5803f1d8",
+         "name" : "S R C Museum Of Indology",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1356,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/106545978948917424189/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASj7OUwnoRAyfx6yEyvVcbZ1aFiMFv8hf6z7OuvEkbwXTnfq-eEvPZQYOXJfAHbtKY_OLQo4ma2uLdAKa8nDHPzbJAOz4leJ5PoWduzs4OxN2wNs6Jy3FIwXRN21arOvMEhDvoYO1eMrOXwHs8MdMmvPiGhRztQDBuhlTPh4vxMXeCzoew2vz3Q",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJTb0oxLy2bTkRtzh3GVmyMq4",
+         "rating" : 4.1,
+         "reference" : "CmRbAAAAZeZM2n7_YKtHxPpIINJNsgdRVTDv_6zWYoUIGv5yDLkxGgq5nWl0IOOlHatZ_0t5_10izLMaDdKlwFMFqYsYmacIHHe_DZFapeLQ73U7JVfl15d8jZbMChpG0zP4TPIuEhDcca6F_LPZacO7m1uHgUYzGhRw4iduEq_JnglfqbYQ4ONE5urAGg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "24, Gangwal Park Neelambara JLN Marg, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8360381,
+               "lng" : 75.82189749999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.83738792989272,
+                  "lng" : 75.82324732989271
+               },
+               "southwest" : {
+                  "lat" : 26.83468827010728,
+                  "lng" : 75.82054767010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "3fc3009725d71ad5e85e8206c530a5d2714bb5a1",
+         "name" : "Hazrat Abbas Alambardar Baba",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4096,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103699450386012392819/photos\"\u003eLakhpat Chandra\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAcFypvBIZ-qwnEcajGsHc8qx9c_kNhihBdhv3HhheWdcup-jNBaUvw2uVPhQ1OUKQGrj3nyTXZx1YWZgfPeQ6k3SHxhqHpIGRxS7akUyD0uDsM8HlFbbgKY6Z2sxsB8UfEhDQoItq1Rnpjrm-aoMvmHnJGhQUYDsy9tx20IoKdqAU-NGpeJpw8A",
+               "width" : 2304
+            }
+         ],
+         "place_id" : "ChIJATXdmxu2bTkRmTCjXkaZGRE",
+         "rating" : 3.9,
+         "reference" : "CmRbAAAAF84zNgl55O2Lk3weOR1HwEoV4qYLVFcL9cW9UFCnvTNxX5_asueGq32D9y5QbkS0LyR5NLxuoXWIRpaNnUpp_rWIHjFw9E4iwpFu2VHI4c-0p-JMyXZEbF4_76t3EHpHEhCIu-aMDlwr6_Kg_mwbz1DgGhSuOz_eVK1kAki1jWQky2LhDPERiQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "1392, Kache Basti, Nandpuri Colony, Jagatpura, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8508054,
+               "lng" : 75.78464649999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.85215522989272,
+                  "lng" : 75.78599632989271
+               },
+               "southwest" : {
+                  "lat" : 26.84945557010728,
+                  "lng" : 75.78329667010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "0aa415971aaff30b2cf73389ba3b22350865b55b",
+         "name" : "SHCrafts",
+         "opening_hours" : {
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJnfAfpr-1bTkRK8O28kyw0Co",
+         "reference" : "CmRbAAAAOH27wZTwKZmbJm2XpKNWfgM1NLsMDlSPEUgYDxIktB19zKrsmCEcPkXU2i0IBxhAAPdu-UFVLxIL-Kcel0DrpAy5jvhMgvLNn35T1_MOy-CEE8M5bW23vhw35n2GPTTDEhDEtnDknHlH5x9tb8dKrHC6GhRQES6crgBIEWguSpH4tH8_1P4ayg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Maharani Farm, Gayatri Nagar A, Gayatri Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9193833,
+               "lng" : 75.8140166
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.92073312989272,
+                  "lng" : 75.81536642989273
+               },
+               "southwest" : {
+                  "lat" : 26.91803347010728,
+                  "lng" : 75.81266677010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "76e0050bf11d4a261b7bb903fd06d1fef4ce54f3",
+         "name" : "Jan Kalyani Samiti",
+         "opening_hours" : {
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ82Wpv6y2bTkRwavrpAEJY_M",
+         "reference" : "CmRbAAAABE0Xxx9UZSzMaLPpio23yTCqN5sBqeCp2Fyam1xooM_8_kO3SOHl7rD6voLt54IGYq40XqnuTbf1q3T9VEPK3j3eK84N2GmYBHw2AFfoQV2krPbWWn1MrVULXQ2qS65MEhALN0NWf_FwN8qeM7K7bJCeGhTjmIdKBPNjRFk73hDapOQJ4FCM9g",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Chandmari, Badalalpur, Po Lamhi, Kabir Road, Kabir Road, Varanasi"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.860729,
+               "lng" : 75.7633127
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.86207882989273,
+                  "lng" : 75.76466252989272
+               },
+               "southwest" : {
+                  "lat" : 26.85937917010729,
+                  "lng" : 75.76196287010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "0244e35678065ec7efaa38d9eb0a2069f14e8821",
+         "name" : "Jaipur Handicrafts",
+         "place_id" : "ChIJ_____6i1bTkRo-egYY1k_p4",
+         "rating" : 5,
+         "reference" : "CmRbAAAAlx57BKjoomTMdmZK5PL0Xgt-jYCsKx5nvfhh7qRwYe2f7lU25CDROGT6S2fFsFM38Riow6lmcyp66ygPqzvh2blxOBfCJ60kZL7a-BnBkaEhqTfHA3OJvdWbKJlyPxQKEhDs8U8H6tlwLbn2wAgVS5XPGhSFRelxGn8krji6ZS5_I1gwCuIDPg",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "76/40, Shipra Path, Mansarovar, Mansarovar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.922922,
+               "lng" : 75.813057
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.92426982989272,
+                  "lng" : 75.81441757989272
+               },
+               "southwest" : {
+                  "lat" : 26.92157017010728,
+                  "lng" : 75.81171792010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "35c1c8d81a0c7d31bcf593d57246c9fcfb8864e2",
+         "name" : "Hastkala Moorti Kendar",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJXxNpg1OxbTkRMhjcARE7kfE",
+         "reference" : "CmRbAAAAW4h79E2UK9_WInWWlZoeh6YB8UeA0TBJHm2KKWG2yVVlRE_Fb2i1alX1JpR7I-MfRl0VPV8MxW3j5Hb_y5Q-8oejb6mot2mvq3EjDxLjA-I9jSHgdzObkkzoceXwA8KBEhC0geQaSjOWvR9mjxhVFPWfGhTBSFH5-I7546bxE9jVttcZQgyd3g",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Shop No. B-67, Khajane Walon Ka Rasta, Chandpol Bazar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9124702,
+               "lng" : 75.7872739
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.91382002989272,
+                  "lng" : 75.78862372989272
+               },
+               "southwest" : {
+                  "lat" : 26.91112037010727,
+                  "lng" : 75.78592407010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "41a8adbc55c4cde15b21e21bdbfcfeebe79493b9",
+         "name" : "Purnima Handicrafts",
+         "place_id" : "ChIJKXwKvq22bTkRZ5Dsx3UCSFY",
+         "reference" : "CmRbAAAAfHpoEwEJ7O8txjbH9CscaEJMj4lYgMC8H7dHxHhqWCubHuEgTFYorA6FCnDvk3rlbuQoBkgBbxzObe-pKZvhhDYGcsuPxm5uZqiRfIjYnfQu9ftI9Yqlkmr66NvIharUEhDIILMj6uRMhyptKfO6kxOZGhSLlYtJ8pSgdkBYrCmd7OyjwdsgCA",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Fist Floor, Chand Biharilal, Main Gate, Mgd Market, Mgd Market, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9850877,
+               "lng" : 75.84559279999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.98643752989272,
+                  "lng" : 75.84694262989272
+               },
+               "southwest" : {
+                  "lat" : 26.98373787010727,
+                  "lng" : 75.84424297010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "61da0201e069c1a9f4d55d7b58fb80a768895461",
+         "name" : "Jaigarh Fort",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 483,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113249029215368846276/photos\"\u003eSergio Saiki\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAkCIMTB862zOqH69Qp7-Amn18HGGu3zJKbpO4a70LvqJBNA9Jw31y_dpDdHwbFy5TNB5PMxzcKhdggLRaMTeDA8gGVrCRNPutFJrddQsiinnWieeYtnbggEefMRpbNQlYEhByg31nZAiRBJyzIjZL3S0tGhRwJXADx5fMEmO7bXseTT7664PSog",
+               "width" : 720
+            }
+         ],
+         "place_id" : "ChIJx0lfsbGxbTkRgVOhxJ7EGbw",
+         "rating" : 4.5,
+         "reference" : "CmRbAAAAGeEgFJjxz2hCGKOoh5kg_C1sqC1bsVntjHEx27TnBxf4Hhpv3ndiN7KEXjjO9Z-7zrUbjzThZvyjGsmDWQnmmPcRtiaHaFug8OfydLe9oftNP52nSJA5rqIlQC3iYQ4yEhBYJKUU2G01Grxe55e66qPAGhRqCyEJ4AjEwZSAWHYjQUoE_YiGjw",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Devisinghpura, Amer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.889137,
+               "lng" : 75.88046199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.89048682989272,
+                  "lng" : 75.88181182989271
+               },
+               "southwest" : {
+                  "lat" : 26.88778717010728,
+                  "lng" : 75.87911217010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "688cc2e12c837be38315e3e494b74d6750e38d61",
+         "name" : "Khandelwal Sanitary store",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1152,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111055543065292625361/photos\"\u003eKhandelwal Sanitary store\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAOhI3JlA1MyOaAyrK0EZdwTxaUqhv5XcYZ4QejAsowtd0e34_4BQuOe2GtyVSCBoVffl3-i66pDr7xuzC_J0W-bMnst_ylPWvIW-vq55hpuwcYDQHPKFEooNMPJld6ShUEhDuNdSVlJtPish9eiH9VOokGhQsZgZHpWBuZvdPGk_C3HjXlF8euA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJXUJeunO3bTkRL3A-22_2jeQ",
+         "rating" : 3,
+         "reference" : "CmRbAAAAkDTeG7dkxQ3PEeR-vkasZeu2PoJ-RQo7kgHxO8fMiZTwJXChm9uNWlwYxMJRZfFiEl_M-vckCYJHzeKlE1XF_rva9xd-oXkU1N54Lrh4sMfNuHR9__SnmKhhScPqjvq5EhCDqu6SKrMquWnjtiB551aeGhRKts8FvBUA53d-YqaaN51QwB8Z2Q",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "Near Balti Factory Agra Road Jaipur, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8518822,
+               "lng" : 75.7944924
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.85323202989271,
+                  "lng" : 75.79584222989271
+               },
+               "southwest" : {
+                  "lat" : 26.85053237010727,
+                  "lng" : 75.79314257010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/museum-71.png",
+         "id" : "2adf84c689d18d182012f34d258afd32cd098c21",
+         "name" : "Satya Marble Arts",
+         "opening_hours" : {
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ313J28K1bTkRj9mg2V8NkAE",
+         "reference" : "CmRbAAAAunpdSsnlEmHxY4tgHF-9NFxaWYnevgD_vJjtFv3aeeKmF4LN3P2sHSX0ai2h_dd9GU33f811-PSWUq9uXfLtUkWxJorzn71Tk9VzGVlxrFEgBksk2UuaqAwoHL-ROo_UEhAwzzbOzTCNoLSB_R558MCeGhQfgzVm7bcR6l77NbfssCwiMQ_0mQ",
+         "scope" : "GOOGLE",
+         "types" : [ "museum", "point_of_interest", "establishment" ],
+         "vicinity" : "588, Mahavir Nagar, Tonk Road, Mahavir Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.91651,
+               "lng" : 75.82352
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.91785982989272,
+                  "lng" : 75.82486982989272
+               },
+               "southwest" : {
+                  "lat" : 26.91516017010727,
+                  "lng" : 75.82217017010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "1aa4fde33aafb360b1e884c475f0cba13e5310a3",
+         "name" : "Cotton Museum",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJA6h1y7O2bTkRkY3qWuhcG70",
+         "rating" : 3.5,
+         "reference" : "CmRbAAAAUxOssKpz9Y0KPkZDMy4TtwxdsH81LDWyTsO0WSKNeeIXwmc4TYj5kxLyaD6UwfL2ZGQofLOwRWnCCtHZeaqpdfRxKnct-hFHkJzFb24gqRJtQC-3927a6Y79lvXKwWO7EhCVNlvMvdLwBZNRw8ennkYsGhR365bigUM4RsIFtvweF3-Yl3IOpQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "museum",
+            "home_goods_store",
+            "store",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Shop No 27, 27, Dhula House, Bapu Market, Near Dhoula House, Bapu Bazar, Jaipur"
+      }
+   ],
+   "status" : "OK"
+}

@@ -83,13 +83,13 @@ def get_places(CITY_NAME):
 				rating = 1
 			type_of = data['results'][k]['types']
 			# Creating a Place object and storing it in a list
-			list_of_places.append(Place(name, lat, lng, rating, rating, type_of, CITY_NAME, place_id))
+			list_of_places.append(Place(name, lat, lng, rating, type_of, CITY_NAME, place_id))
 
 	print(len(list_of_places))
 	return(list_of_places)
 
 
-x= get_places('Jaipur')
+# x= get_places('Jaipur')
 
 #api for getting directions between two places
 

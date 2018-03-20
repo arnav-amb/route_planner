@@ -10,7 +10,7 @@ class Place:
     photo= None
     place_id = None
 
-    def __init__(self, name, lat, lng, rating, type_of, city, place_id = None, photo = None):
+    def __init__(self, name, lat, lng, rating, type_of, city, place_id, photo = None):
         self.name= name
         self.lat = lat
         self.lng = lng
