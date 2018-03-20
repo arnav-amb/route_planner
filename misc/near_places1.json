@@ -1,0 +1,820 @@
+{
+   "html_attributions" : [],
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9018352,
+               "lng" : 75.7317001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.90318502989272,
+                  "lng" : 75.73304992989272
+               },
+               "southwest" : {
+                  "lat" : 26.90048537010728,
+                  "lng" : 75.73035027010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "ba732d18c9e6f0a11e3785e7c6e67df959df794a",
+         "name" : "Prarabdh D 2 H Market",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116111551387845109484/photos\"\u003eAshok Khatri\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAO2uTnh7JCr0aoeqAVpHmgTCCOeQiVSsavR088jGoQJMhZ3sNBVQtgt05s7e9u5cZ02sjmGAVeH5_yRLmarmwxzo-CLtBMXgA44g6PTgf7s_xFPwthpVkHwzq0s_J8-6qEhBikRiW_18sZamFzIZteqfGGhTAQjHZGumsKn7NCMDqn6IjKB8x3w",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJTW8tW6O0bTkRROpqN3d0l3c",
+         "rating" : 4,
+         "reference" : "CmRbAAAAqAfTTRacGjT9MZXnuPMBIGblLSf0Ctx1xRuvBQhEhUbHfntHz8kktsv66XU6qO2fJgm7nlcYrqGUEiO5zOr0AbWnJv0AdoacO09WVtS9Aa7UM6lukRwv8NuryFzWaENOEhCFhABs1dbnAzLXDC9aH_MOGhRZOpctYrSLPClSegZ9kPEb4LytDg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Prarabdh D 2 H Super Market, Chitrakoot, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 27.0062391,
+               "lng" : 75.76542959999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 27.00758892989272,
+                  "lng" : 75.76677942989271
+               },
+               "southwest" : {
+                  "lat" : 27.00488927010728,
+                  "lng" : 75.76407977010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "21a16f6a638d67a37f8bb1a7816aa89c2d221a8f",
+         "name" : "Pujari Market Pujari Dipartmental Store",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/118056220986706775934/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAT4u_jSNpTun3dOZnnW0RBmWgMjucInJU5d2AqgR70yNrp4mcBSLjDgskOfmzmgsOHvdjjw3DSlLI_6JGDgZkZqHppjTGU1fH4gksHXys3ekKgZXAZQBE6eMwY-__2SctEhDumYL3O39RdSKYTSUIvpN4GhQ8N7-NVKGE_Zp_d6T1YofU0zZ6xA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJfZLMOX-ybTkRIeFNfu2_W3M",
+         "rating" : 5,
+         "reference" : "CmRbAAAA2mwuuSQo3dcMI2YO94RLulG5VoD6NNJZLwRIfhh0hq8eOjYCLiQ61cLVXUtBP888mtKsjHN-BVFR0_fF0zokSLpsuYVkN4LiQSzp8niydpN7bQt-0oBdeLIHOsN6VZWREhCXCF7Fgohq6cUtWiOb1spXGhSzgfl-YLRSNT9nSvTp31n88HxbTA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "pujari market, Balaji Vihar 10, Harmada, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8815662,
+               "lng" : 75.9092419
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.88291602989272,
+                  "lng" : 75.91059172989272
+               },
+               "southwest" : {
+                  "lat" : 26.88021637010728,
+                  "lng" : 75.90789207010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "488c04a5529d693e77f80af4db65d6610c46f019",
+         "name" : "Meena Market",
+         "place_id" : "ChIJA6EwBi24bTkRH2_4IRKU35c",
+         "reference" : "CmRbAAAA0dm7d4sYWx8SDdSGoOAzTOQW6EJKBqlaj95R2m3822BBh2mOXeUYY50ttBjfW2Lk19Dg-OKX9cKDsmWr9TtRVgxw1sIRkTlm2AHKwpVy4RAP3k_eKrMiVg9O9thAgaBjEhDFw-Wf_fwY37k12CpYcuzfGhTZWjBcRSuyAran1mbz9lnkeUxNxw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Paldi Meena, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9208706,
+               "lng" : 75.734381
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.92222042989271,
+                  "lng" : 75.73573082989273
+               },
+               "southwest" : {
+                  "lat" : 26.91952077010727,
+                  "lng" : 75.73303117010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "13dcf4db1a8aae354607003b6bba9b70f149d0de",
+         "name" : "Aadhaar Market",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 780,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100668818436568142944/photos\"\u003eMihir Pinara\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFQIxrakId1UmPkGsO8OKBXwjVDKbIgMoaKhVcgvI9hMh6VULhDGibcGly5J26W6dktARTHW3axGnjSKm2dWO_83Ugy1xYMCdZff3t2V4vhBWyEkuAnEx0ek230PgMrF9EhAzAe3RhFiyIYuVsJBIwnlcGhQK_8VsRi6FXqnZazZq6GZcQwRwow",
+               "width" : 1040
+            }
+         ],
+         "place_id" : "ChIJ9yY5rF2zbTkR5PHg9KQIc6A",
+         "rating" : 4,
+         "reference" : "CmRbAAAAFAS1cRa5zHcr3yDKrU_hgscqX5C_iizbJGJDpeEZq1aqzwtnrTlzS_0T0kBLAP9U9xuauhVfhOT2IH51qxjPvWLWjqSrsmgH1UrW3Hw1RYAD-oJPj2SqpTofFlr5j-qLEhCgsgMFSXnK5fHSSNnI4wxHGhROywytOFsTqcsfzPONPLtv0yDC9g",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Plot No. 1, Sirsi Road, RFC Colony, Vaishali Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9241506,
+               "lng" : 75.8272827
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.92550367989272,
+                  "lng" : 75.82861757989272
+               },
+               "southwest" : {
+                  "lat" : 26.92280402010728,
+                  "lng" : 75.82591792010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "4261b24eddde271ce872d9a52d7fb7304e8c8610",
+         "name" : "Pandey Market",
+         "place_id" : "ChIJk3-u4kqxbTkRlMyPpTYmwR8",
+         "reference" : "CmRbAAAA4LfTpzhWNO1cyNJQrhexCOzb2esnU-t1tud3gQcBkvgt6tq9gDQ1U1ah_x5QQOYIaP8bedV5PW5X8IlXlaM0FU5MWqKE0k_85yLQB4D82RmmZ54IIgMfryqt349pwax_EhDKY4Y2lFSpEh5U4LF-WEAaGhQ_4XyCitsNNO7w8z-tN0FK9RiQxA",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Hawa Mahal Rd, Badi Chaupar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9908004,
+               "lng" : 75.77313889999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.99215022989272,
+                  "lng" : 75.77448872989271
+               },
+               "southwest" : {
+                  "lat" : 26.98945057010728,
+                  "lng" : 75.77178907010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d15cde2e054a638b1a7077c00b94196698273f0d",
+         "name" : "Reliance Market",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3142,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112782326860440857497/photos\"\u003eKuldeep Jadeja\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAHaLkWUbyUW5T5zkJrN3Bc-Lnrfv-2rYK5XY2CRfsUJk2uW7YLDDCiYuBKBMhC2qcMcxwdWk0OTBtvXwpDaJmAaA3H9NklgEqF6nfUrXvhQwBXafzTn-R4UYpEbs5kkdWEhCq80dyves6j_M7qfALC2NyGhQe_MIcO_1gMdWX1Xl6EbOmcJm68A",
+               "width" : 4190
+            }
+         ],
+         "place_id" : "ChIJMzMTWGSybTkRkmGJCPKzTdo",
+         "rating" : 3.9,
+         "reference" : "CmRbAAAArz5WQvHDqfmlFPkWSmtBuJX02spIBEKPK7-kWkO44X996bXjs8ikLJXBddv3CIlU_6s9COZb30c057a7WP9iGcHztlUWeDO5kU_BUAMwf_lFxFIKk6eIXJnKgAZ1k--jEhBacYEJRZ6lxYrzeZJaf-nLGhSyJSVxOeYubikPnBBLhXWXsyBqWg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Road No. 12, Vishwakarma Industrial Area, Sikar Road, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8786405,
+               "lng" : 75.7605875
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.87999032989272,
+                  "lng" : 75.76193732989272
+               },
+               "southwest" : {
+                  "lat" : 26.87729067010728,
+                  "lng" : 75.75923767010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "5224e0b2f21a635578b5b6c9f7a1ea318ea9da8c",
+         "name" : "New Atish Market",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107849587290047806622/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzrq05u3fGb_Pt7NL_j3zMHwmCV43a3UYve-Vk3PgpQCT2CaqBqiQiBrv3iILu7Vbewh9UXm_isdIxv87uXZAVEtljMFDb4HDFT1baa3rKGFPEvl5Af-7X0G51FhGawZZEhAkI3ZekiVtGCM9To9vJhvoGhSaom20JyaJKLDcld2Dlvcuz1sbtw",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJufyi2Ve0bTkRwvbrWdoO8Ec",
+         "rating" : 4.1,
+         "reference" : "CmRbAAAAwSXu9Ow9vQu0HNNLfUx8qNPuRmJahKpfWt4SBssE4_islNvecQrSyMOFBxI3VfsiXGsWSFypRLRkBrHCe9HACYuYrclXtUU_0JJOPxxfPHExLT2gbdf0VH73l1kIM9EfEhC_CPN0gI8urce7MbTpXWaBGhSnT48LBHqqObSxpLEyjtE7e5czIw",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Near Metro, Ganga Jamuna Petrol Pump, Mansarover, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9169444,
+               "lng" : 75.8235533
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.91798542989272,
+                  "lng" : 75.82482092989272
+               },
+               "southwest" : {
+                  "lat" : 26.91528577010727,
+                  "lng" : 75.82212127010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b703d85b4373228930542548f828384c778e837e",
+         "name" : "Jai Market",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ--oJ7rO2bTkR8Ym4gG4DusU",
+         "rating" : 3,
+         "reference" : "CmRbAAAALdkizmLHoEuV-FuvZwa6KpOvBbqb8m7Q_Mt9uChkV4YG2ejkK0ub07SAs_tcW2zukfSiyGdfe9PgnF2JiEHBS5WldFq9omUiDTy6jjnvY4NcpfigZt1tyP4rTqOo6QRUEhDSi9xBBPXrJ-mQkNyTSdAbGhTV8sy_0tF6aBFr3oB9mX7k9S4Beg",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Dhula House Road, Bapu Bazaar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9896519,
+               "lng" : 75.8526986
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.99100172989272,
+                  "lng" : 75.85404842989271
+               },
+               "southwest" : {
+                  "lat" : 26.98830207010727,
+                  "lng" : 75.85134877010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "d357234a81b9a34501a22864f77d4e37af15b7e6",
+         "name" : "RSSCI Govt. Market",
+         "photos" : [
+            {
+               "height" : 1944,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102320003889151287681/photos\"\u003eYOSIAKI\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzr_ziBy22JJD618aRyNA60obRLO-Xn2ebnBFDpKTRMcYUkBA2CRcUPS9mUaIuiOvYM_wcwTjCsIRDlEFfGbTZReWFm4TRnzneNEe73_gOGisJROEpw6-BesgYfxzCF1mEhByuLNYCopvuP-qwqaIHJ-lGhT-U9VRD9gJnenYF0Au3nF-2wcy2A",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJacaEyLSxbTkRjjdqJNYOBOg",
+         "rating" : 4.4,
+         "reference" : "CmRbAAAA5BW-tx-ej1voC821oKs3lz80vb5KMWAYJAsvs4yvEv5jN7N1_9Dyu5MY4YM92jdA_s4YxPpCfxy9LdMmssfwxjLC4tjXKq9VLzKKBFzeUCsa6OHrsuCR4l_Rj7vpAT6zEhBmvKYCpSBOXKDSGcVcSS98GhRFRIYg1aoMS6pdzvc7CARqf6jHhA",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Amer, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9853127,
+               "lng" : 75.75879209999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.98666252989272,
+                  "lng" : 75.76014192989273
+               },
+               "southwest" : {
+                  "lat" : 26.98396287010728,
+                  "lng" : 75.75744227010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "85e07a77e2944eea634fcb44ac7057fabc9bb1c6",
+         "name" : "Yadav Market",
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107758029453170134184/photos\"\u003eRoop Meena\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA74hPKTMqdIhwVjycWVObKzKuYVX-9Cywt03Q0oHaUB0VMo9BhzaCqcI0PtgIm_htdtLRXKJXrX3DNpPgPJuiiOtRAao-15IL2CXCOmm4JUnUr1FIB_3Qs5FmV-uBPjPiEhCHFHjxYREnkhv1BRYnPd38GhQ7gegKPJHZQ4Jta2Adrn3iBT564g",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJKQnewIqybTkRv5g5-7bEgDE",
+         "rating" : 3.4,
+         "reference" : "CmRbAAAA3A1ydg_ic356OCbBSFgZhgi7vO0mT-5EvYB6-cxNrLFfRBpKfGUb2DvRBXcBRPOheZavPCuAcDoaLw8EArJ_j3gYltjpwPnDSvsrO2Unn43i9vWeTzOQERrcwnWgXGi2EhBw2Mj98tOSnndIu6kz2SCyGhQzMbejp-lA2BM65PD_Bh7g1dGMpg",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "54, VKI Road Number 14, Sitarampuri Colony, Macheda, Jamna Puri, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.92269,
+               "lng" : 75.8283
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.92403982989272,
+                  "lng" : 75.82964982989272
+               },
+               "southwest" : {
+                  "lat" : 26.92134017010728,
+                  "lng" : 75.82695017010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "f4809af307f1faaff37a7c385e4d4cc0ab0ddb4a",
+         "name" : "Yogendra Singh Labh Singh",
+         "place_id" : "ChIJY6cvz0qxbTkRQHXS-H4Oglc",
+         "reference" : "CmRbAAAA40GPtlA778sIIn52K8ZDvhEku4MA_9tNtkXQ221hqqTsXjHc4h_MFbNj7t0K58QNg-aJdSvVgdPCXCFb8dtiygI9ICIdSS8lIn-7OV5RdcMh-qefvkmuYXWNREhp49xYEhDEzt640K0BUmm_yWRDUBWlGhR4BzNoSQ16YqAGvTC5fT5rC4TA2A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Ramganj market, Ramganj Market, Main Market, Ramganj Market, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9264858,
+               "lng" : 75.8087067
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.92782687989272,
+                  "lng" : 75.81006227989272
+               },
+               "southwest" : {
+                  "lat" : 26.92512722010727,
+                  "lng" : 75.80736262010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "a740c078fdcf85eeae2b5bd09d50601e97fef627",
+         "name" : "Market Jaipur",
+         "photos" : [
+            {
+               "height" : 3000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107340833722750842786/photos\"\u003evera chang\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFwDxKIxV6GH-bHcyJazTG_NMHqBop_GA0SfCUUz26sv6y4HKIDjQgDwfCpXy2Y9YZBE40mFodPTlm4PRMa4MfIiCXn5N0l2kfwVkW8XNYzZc5EnlXXlkrTFZy0wVPmhvEhD65pUH8FZkisiv3NgYIud4GhRFu23XnGGOhjWsXZtIYMSR5z3gpg",
+               "width" : 4000
+            }
+         ],
+         "place_id" : "ChIJX7YmclaxbTkRzkgWVnWbu-g",
+         "rating" : 4.1,
+         "reference" : "CmRbAAAA7Tf4QMaTcU8hZsTSaWY7GoIrUJG5pwhraN81OUutnKLqM7evV-nT52yTnF8i5dZI6ORVXCEXvDJHZetyVVqfziQO_ISc7tsaIh2eKFuZ2L84QDqo3P6VVY8CgwOOw-UxEhB9o1UQeOzixEo3hXXsohwCGhThuubAp_Mx9JiFaiCKwQ_QWl2_2w",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "D-13, SC Road, Chandpol Bazar, Jalupura, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9610964,
+               "lng" : 75.78012509999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.96244622989272,
+                  "lng" : 75.78147492989271
+               },
+               "southwest" : {
+                  "lat" : 26.95974657010728,
+                  "lng" : 75.77877527010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "10f33321123b38bdb378054835ac567f25fdd9fe",
+         "name" : "Reliance Fresh",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101735176441700186705/photos\"\u003eSurya Prakash\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAmyRFDc-MOwNOinm8aSyc-ZNxr2LknKE9lG0CD_LA6cE_EnADyqKPPztzhxsKGGc_0oAESFQc886CGdLuqzvFwwItOHFSCANBTL4YiRqDtc4q2rhrfqEJn4RbHMNaDHazEhBVOtia2CVb0RKw_xajpfm2GhTyQfWlhTzeqr1QO7JVgBhu6rjqVg",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJVdr8-rSzbTkRPrJWqxCbIyM",
+         "rating" : 3.9,
+         "reference" : "CmRbAAAAW1BGVzSvAj9i5vQBvTOQu3D9u8dKh2izzxTeph9ryIufaCdskv3wmzWO_JAeYiBT0QMTmdQ7UxOS9H1CJLJE7FNt61Tgn3S-J_NH9_qEm2EnAuFf3oGqYt6scLKB38DUEhAiaOGL3KzLIYLPzG8Kd7OxGhRzvsm6Idd1o1NDJ9KtIMMw2dQddA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Galaxy Star, Vidhyadhar Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9846272,
+               "lng" : 75.7722143
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.98597702989272,
+                  "lng" : 75.77356412989272
+               },
+               "southwest" : {
+                  "lat" : 26.98327737010728,
+                  "lng" : 75.77086447010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "13889dfbd1f4196f1756e581ac74507a3e8c78c6",
+         "name" : "Mittal Marketing",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116702293948595630155/photos\"\u003ebhanu chhipa\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAM074kN9LEXo6s43tkzRsPVSQpgGb_IjHwnH0gFW6f6Uklw2YAdbUGj0tf6C-AVdxqXeFonmyPQegLsTuUHWG9j4-HrrlgqwqH9zlmDDoobmYgmw4TY2yM1oddEn8NVNyEhAl6d-TK4R-SXPxWeH6wJBqGhQv-ZDg6Rb1eMZr3qASgqSvtv0yRQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJieqHkEKybTkROqrNsSkyjGg",
+         "rating" : 5,
+         "reference" : "CmRbAAAAHR8KRhBZCVqxE5hqc5gdhIIP8U1Lvhwzhn1QqT38xGpY46e2dRD_MmtanXVS10jiJn4AUtg6uITJQ8fkjMaeNQUSJd87mDh4u1Wrcg5VUGj7yBAFE3nBt5I_OV0ZS8EIEhBMeFwzSuXf1dUckUP0RArXGhTBBi8cLn-79vBdqN3ETMoWJu-Urg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Vishwakarma Industrial Area, Murlipura, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9161307,
+               "lng" : 75.82556099999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.91754622989272,
+                  "lng" : 75.82662382989271
+               },
+               "southwest" : {
+                  "lat" : 26.91484657010728,
+                  "lng" : 75.82392417010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "0eac5094b5182805ba044b1e721c7255845b2ce4",
+         "name" : "TULSI FASHION",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108277217758145684362/photos\"\u003eAtray Agrawal\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA14AZjGoD2IixItSue-vVlEQctAw94DXLXQCjaTYBUMgnMubhoLLZZJ_7AomE48vTh8249AGp6VX29fNCLas_g0GAPJalQdxQWhOzH-hdCRbWzjoxHPMZ_cW-8tcedfPIEhAXib--uTAFNV66m1HsDfBoGhRIGii0QZINQ5E2kAbb238dEjlOHQ",
+               "width" : 2400
+            }
+         ],
+         "place_id" : "ChIJG92tHbS2bTkRQn6n7mJPpTw",
+         "rating" : 4,
+         "reference" : "CmRbAAAAbcXcjXWCYppeS6w1e4AktvzrPtLeJsSFGMHIi7Gl3RGwpIUsOb3tQl_mykOHR_ho6MyHR3ODPucS6zQRmbnpYPPadAITvYZMUgPPzqcAm8e6UqRpiHmNqPjNU_oW5ITLEhA4PCb1TxrcTzWQsiBySXgZGhSQQjzZ7wPtBSycz6Zli9eG_IcGYw",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Johari Bazar Rd, J.D.A. Market, Ghat Darwaza, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9124336,
+               "lng" : 75.7872709
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.91378342989272,
+                  "lng" : 75.78862072989271
+               },
+               "southwest" : {
+                  "lat" : 26.91108377010728,
+                  "lng" : 75.78592107010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "3a49ccae921f9edf7e04b477ff6b1e04f0fd0eba",
+         "name" : "D Mart",
+         "place_id" : "ChIJE_whhgu0bTkRX_pdHiQEEdM",
+         "rating" : 3,
+         "reference" : "CmRbAAAAVQe-JEvM5i3OUdwzmMRJKuWY0LKSk-mZajGXDidfe8e20dqW72SNe6R-sFeK2OfJnyIKAK_8uX0E-6L2TF3Gu0JGuL_ufB5cwnDrko7Xsse1OKqdn0xqrXx4dL05LNYhEhBhoMNPOdv5IiE2kVEtZrbnGhQNlXm2gQ79MgjVvE2UkXbLyrTmmQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Civil Lines, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8862746,
+               "lng" : 75.7986042
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.88762442989272,
+                  "lng" : 75.79995402989272
+               },
+               "southwest" : {
+                  "lat" : 26.88492477010728,
+                  "lng" : 75.79725437010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "995f33be1694bb6e891a001e7a88d979956394e0",
+         "name" : "DMart, lalkothi",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 720,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103161668094880462019/photos\"\u003esneha zagade\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAd6pcxw0iQ2Xl8czusCY1VtpRk9jxEXQPwyeYqr6GBguzoXEzjIDkSV0CNt-mzTRsnyDRFpOqzVlAfiyLnPmkOQb3faOjJnYD2PFnBYW3ZJ8zlbP-ManZhF6bY7ZSRnD4EhCoh9ZtXggI1kWIBNaPTuEcGhT0pghyWGxgngKA3r4wh01lGriGNQ",
+               "width" : 1280
+            }
+         ],
+         "place_id" : "ChIJAf4MlSW0bTkR80HFfG3Dloc",
+         "rating" : 4.3,
+         "reference" : "CmRbAAAAR8u8xLE5lFJYV6Z0TBlKMwlHZYxbmKolauKsRahZC5MkvXfUg-uR8r9Kx66ghFazEakzfyE-sQte9_DIVcbePkR51cqFDwlti7qd54GpOk7dyUwxosauJ0HfUQu7WdAKEhA_7Gbb2xHhG1EnySe3Oug0GhTvPiJ1tulYRTsAY2oW-x_uERGQWw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "A-10, Krishna Nagar I, Lalkothi, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9412596,
+               "lng" : 75.77113030000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.94260942989272,
+                  "lng" : 75.77248012989273
+               },
+               "southwest" : {
+                  "lat" : 26.93990977010727,
+                  "lng" : 75.76978047010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "68693b4c4847dde4f79c0286f76c9c9f320ffe07",
+         "name" : "D-Mart",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115076652230599888709/photos\"\u003eharish kambli\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA9aQBiEcq5OtrrPUPV68SVEz_pbLuD7EMblIGArk5WNey9SFdHu5lDHMzFLf_ChEnFt3vhQuGpFqzdDScFvkPAEh_M8HGUgeTg1tLTFbf8NJxQnxblaC5MJXmwSv95hE-EhDc4YU9m46GdIRM4hjeKA8IGhQiXKeNcRUYmdYaKgofIf1NUNaH7A",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJtUsUxKKzbTkR4X10pTiZaWo",
+         "rating" : 4.3,
+         "reference" : "CmRbAAAAoZFaLRM0eCaaaAfZfTsa4gtJW-8CW60VgVtKIzlMLASOy2qedrNy2bvfOkvAMryCs14RIG62t-ep3pThEcV4yXwsrYJMOoHodbwWEuSNN-zo6MI-yS6dFqsqcxhln7vsEhB-W0PobwiHIUXxDp4A8AGkGhQ3d1Eu_Ta4EeLLKD8K7VGt8Kva0A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "supermarket",
+            "grocery_or_supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Triton Mall, Ground Floor, Om Shiv Colony, Near Chomu Pulliya, Jhotwara, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9140912,
+               "lng" : 75.7293545
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.91544102989272,
+                  "lng" : 75.73070432989272
+               },
+               "southwest" : {
+                  "lat" : 26.91274137010727,
+                  "lng" : 75.72800467010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "b0508cd27265bb90a000357ab58c943236200b2a",
+         "name" : "Sap Communication",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 816,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111087795546242771157/photos\"\u003eSonu Dhanka Dhanka\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAo88fYnW5sYroQ8Vf7mB8OeAaIsUyUY7U3OD3QMeUbP2ktXQeolHE20eP5P7CqOBODeqtnNRDAXFCdcZ90nGEa_Bs2lvGkceKrHaj9Ie5f1HAZ_aA1Wy5ZZpH-8_GEt8MEhBboNnbNrutOo00mylgRMlsGhRrdlWq_d1vTbItPaF_OEVzVLrvIA",
+               "width" : 612
+            }
+         ],
+         "place_id" : "ChIJgbl271izbTkRQVkB0yNOJuE",
+         "rating" : 5,
+         "reference" : "CmRbAAAA84Y_4y2JETFK_lZ4llQpbLzmyVwWfh0HDQciKTVaV43fbwSS50pJGifbJCJsjMYiqCDCRm50XxVOstACw-PjzXvuCd2tswcSYHHPIAbVopjfHFuq3uO_13764RFtDJY2EhCC-r4ijbSg8FxdAGme9QDbGhSVjt5goq3mi5GXMtuRJjpg33qDHg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "grocery_or_supermarket",
+            "store",
+            "food",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "25, 302021, Delhi - Ajmer Expy, Lohiya Colony, Kanakpura, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8600154,
+               "lng" : 75.9032629
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.86136522989272,
+                  "lng" : 75.90461272989272
+               },
+               "southwest" : {
+                  "lat" : 26.85866557010728,
+                  "lng" : 75.90191307010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "54251248a7cefdcff83061632d0dffc54b59379e",
+         "name" : "T.R.MARKET",
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110436360778718650565/photos\"\u003esunil kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAdhXdBQkZp-vxbJ0s3Jxjbfma1NgI7oMFD159SntSrILtpscuG2n0NFwVFJanIi8aYgPBlRNf689HyjdesGER9Pp_t1PdFWJrsdNYxrVhrGC0JBW5MFgfuwD-OasOSH5pEhABOZtbtxSWEiRIxEtsisM2GhQ-LThZiGMggWi-HB7WzKAq9sydsg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJPTNNeh-4bTkREX6THCJN7LM",
+         "rating" : 3.2,
+         "reference" : "CmRbAAAAI-nRBtRHAmGr52qk4R3Kc4XCewE3QvxEd0Hr4nkFdHR48czUQ0eO0tvO80sk9jb6h-z8naF-qCKZSWSFHARTBkPLgDtpyguU2uMqftVF1EmTTI0cYv3bOylkfSmbgNajEhCyYP5gC8rMLkVrZElSJMdCGhQz4K3n6NjPsTw1OAKBkxMpMWPUtg",
+         "scope" : "GOOGLE",
+         "types" : [ "store", "point_of_interest", "establishment" ],
+         "vicinity" : "road luniawas, Goner Rd, Khori"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,808 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CrQCIgEAAEkQXbfZY9LEuUBvuVnS9LtCHJYx7FgqJsDAagNvlDRZC9PWWDv192aI6w7FynGahADc_0uf6fLL3aV9R5Q2_hIWpZBi6R72v3jrhBFNgLruAWIyopHbUtrUkWwNgxPH-mqVOaj_PvzSK4hWg8XNFCgyzLplF6oUY0rolqnanideKIXT_lLuuMiOp8p10IsQe-1NR8WFC9JeW8HNNAJcE25kGxnwYoDHiH0Be7mB1p-F4285QkRqqUEAlCS3rv_bt3rkwt-l9osgBm4fDXky-3eNZGLRkgnoiSEKbaHfyQjDdAC9PftHFrcNALdgp2HTft8TOvHgYAROOjuDynSlQ6qnYtfi4sLXidyOhv3IIHB9r6ItI5JM3Xu4YEPvz8-8wJW79iNb6iKq2a4ttwdhqugSEDPeqrXQEvMzX1sz7rd-tGgaFIjmv5biJVz3ogdKg1uDhBiwJOkN",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8950954,
+               "lng" : 75.81680899999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.89644327989272,
+                  "lng" : 75.81816162989271
+               },
+               "southwest" : {
+                  "lat" : 26.89374362010727,
+                  "lng" : 75.81546197010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "ba1790ee347631498e586f36f63ce5ade1325d51",
+         "name" : "Shiv Temple",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100386626135236512912/photos\"\u003eRaj Kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAqKpx9XiImU8ywJaR7WNuRy696q5n3WJpz-d_uCW2vqHhRiqJSn1E9AWgrurCq_L3UxR2dyPHASryco1x6clX3KixdHG8OquKp8OjSzhqsjzKXcIDeQ-XUkpkCnc0v-gxEhDhy3gFdk3h13IRMw3JH3gRGhQ5jhQ22j-Fo4xH0w9B9QafJLDyeg",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJGbqvTJi2bTkRP4pxWysOdFw",
+         "rating" : 4.3,
+         "reference" : "CmRbAAAAx1UzSFM0ek1lbHocrdfmhIpCJI7Cw6b3cGsI21IhcVRepjXUwaK5J551g6VvFnnd94n3Zu-zeZxdHtWK1CEE4UJcjTd39jfKVBO1Jbyrk93Hctt0mBN7G-kBU8Wz9kU4EhBrXecmXXYPndLJFA-TblKEGhTydEXKVXvqSFxL1F-UrluSlEAfaw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Moti Doongri Rd, Tilak Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9916524,
+               "lng" : 75.85213499999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.99300222989272,
+                  "lng" : 75.85348482989272
+               },
+               "southwest" : {
+                  "lat" : 26.99030257010727,
+                  "lng" : 75.85078517010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "a1e1c0aeaf80121b747bfbf284a05b99ccedfc70",
+         "name" : "Badrinath Temple",
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112381981353931996342/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8tGPCNjtzwJcarbKfpfvQvuGg_Z31MVpefMYP15gDmhVgJRdhvRz_4y6l7rNCSKLSAqP6KJYux3rZvKMl8DU-0NuArBbR_o1v3IE1B2SHyF2HFnTO1hRNng_wd0CUl2kEhDKauhUTuoYFm4W6zJ2HVsdGhSsasbEpOjc61dPSA9BxHR9pXKjnQ",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJZThzPLWxbTkRjyAdBjdCNd8",
+         "rating" : 4.4,
+         "reference" : "CmRbAAAAf9bXcg5Amp5vkuRiPMMEmLe6fJmstDlKZ0WxOGjQB-5EIKsc977ifUSezpULyDsUZzZuRDINRaNP2PaesA2kBzA41-_2TQb65MpaighEB027DnfxDaM9SciH-94ImZuhEhDotC1bDJucEDbONW4-h9ldGhSI4YBa_-19ATHVaXTJqe6_YA2KWw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Amer, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8569803,
+               "lng" : 75.7709
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.85833012989272,
+                  "lng" : 75.77224982989273
+               },
+               "southwest" : {
+                  "lat" : 26.85563047010728,
+                  "lng" : 75.76955017010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "5cd0ffdae5127a3092ea7650f979654893fc3014",
+         "name" : "Shiva Temple",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110112164951550333651/photos\"\u003eDora Lacerda Soares\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA92o_b2GgzdnQbypH2hozrW_k3F1VdjXpkiiHsxuwfkVK5D4dKRCum2usC3WQ25TdnkPeQX0nmPf-90nCtV785kD3BWHpvB3gLl3FS3GsXzUaV9DG30dMvzwcsgdPdSx6EhAV4pgNCsXkqiUkPBPWmv9XGhTqjga5nurxNYgMnPp9m_5SR7QhaA",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJf9Gkebu1bTkREizohiqGUyM",
+         "rating" : 3.8,
+         "reference" : "CmRbAAAA9FUjXFJHP_FnMcnSjRuz8EobBmDsHnDJO8DXoVs6UJGPo26vFHMZuKz1kVvD0U9mlPGGv9AwIB_LBSU6xsmQtmjaoI5l61KHGK53mol8iffiA2qZ-lJaZu2rMDsv-4s-EhAJSKp1qr2YlQtVmXf5IeTFGhSJjyj_aRNdduIB34DhGpTXx6wwbQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Ward 27, Shipra Path, Barh Devariya, Mansarovar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9286688,
+               "lng" : 75.7484092
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.93001862989272,
+                  "lng" : 75.74975902989272
+               },
+               "southwest" : {
+                  "lat" : 26.92731897010728,
+                  "lng" : 75.74705937010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "0f58e608cd4842721b11dbc65d5516d4e49acddb",
+         "name" : "SREE AYYAPPA TEMPLE",
+         "place_id" : "ChIJ8-AHLG6zbTkRf8g8DOsCkgo",
+         "rating" : 5,
+         "reference" : "CmRbAAAAMGuIutK-pw4OFheJgOULX7kkyQez7WIPpY2PdUbLiyuY8-qsaZqFJco6IQX7vjs1W2wRZtN2W1zgkkeJ9WRWAUlSFCv9VqMAz45MBzuMCm4G5Qh_1vnJL9L9jy7GBusyEhD8yP_M5kWAAcw7s5aruHuOGhSRXnCiWiWWqgdG0hGKtAOf568S5A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "A-42-43-43A, Singh Bhoomi,Khatipura, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9072317,
+               "lng" : 75.78028700000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.90858152989273,
+                  "lng" : 75.78163682989273
+               },
+               "southwest" : {
+                  "lat" : 26.90588187010728,
+                  "lng" : 75.77893717010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "c0cbf11c5e90c279cbed5ff9e67fca1d630c36f6",
+         "name" : "Ganesh Temple",
+         "photos" : [
+            {
+               "height" : 1280,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116034667658880305702/photos\"\u003esubhash prajapat\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAh7xTm_-mQFEMq34jyL08Y5li0eqeiMS7YYt7apXl4ubbk4zPpRFV5kEFrJ75DNYuLaHuICPQK9F3WWs1pUyrPK1xsrdSWb9f-V5pCybEo9YTxYx9qsNnfaLsKp53E8kLEhDJttTrAb0CLu7x8O4ghI75GhQ5Ed64eQ3iE4gy2lAaWClxo-nIfw",
+               "width" : 960
+            }
+         ],
+         "place_id" : "ChIJ55owXnK0bTkRlr6aXRiwnRs",
+         "rating" : 4.4,
+         "reference" : "CmRbAAAANu6QdPx_6JSdg6_OQY41rPmOP-qTwV_8VLRBei-uhDQZzoqydJcfDeChIIT2Ce-whrvcK64P-J6PQ4KCw8daSC7Snrlho64kJGrB3i_zrpWxXrsLM-5Pujyze-7Tse9CEhDSyaqKNFBrmOJYXf2CrBesGhRv9R-g7xxr5HUAh3xLlEQBirqDXw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Hari Marg, Jai Ambey Colony, Civil Lines, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9238718,
+               "lng" : 75.82272949999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.92522162989272,
+                  "lng" : 75.82407932989271
+               },
+               "southwest" : {
+                  "lat" : 26.92252197010727,
+                  "lng" : 75.82137967010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "ad5eb0f61e5eb36a76717e954e05c9e43a514245",
+         "name" : "Naval Kishore Ji Ka Mandir",
+         "place_id" : "ChIJIaL-8kyxbTkRayEsW4gIJcA",
+         "reference" : "CmRbAAAApditSvZGjDYxmpJ1KTvUBAaNZd3O3HKWox16LeQaqJ789RB7u0wB-W20jgO79JtL9CiKtPYnO4Qf53YtZoZUiFE1CFvA3Egdr-dmDt1ElnHiwIsrL_Qj6h3I4nre_8FAEhColFQFgY8oS8kM5z4NDAu1GhQiIUzQJ6mx4YwUGnI0Yo_FhIBM_A",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "tripoliya, Tripolia Bazar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8921571,
+               "lng" : 75.8155024
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.89350692989272,
+                  "lng" : 75.81685222989272
+               },
+               "southwest" : {
+                  "lat" : 26.89080727010728,
+                  "lng" : 75.81415257010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "ee980b2c80b98f619bb88339bb64d17f520f3ed0",
+         "name" : "Lakshmi Narayan Temple",
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/114465350566775184559/photos\"\u003eBipin Kumar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAANubhTEbEMiNgMfSUjRcaencj-plUums-UQKfcOX8ubXfTTfXutu2Af3unE7yj_OnGDqPps4w8VLrxI1dAh6iD-68lI9CMMab3XE687MkKfSqvsHNE72slMyf-UuyDeBVEhCcoLHXtpYaWtszFjVziwzkGhSgrXKn0sNTbYzpmoM5cHTHOzQ9xQ",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJcQXIEpq2bTkRXi54LURWss8",
+         "rating" : 4.6,
+         "reference" : "CmRbAAAAwleKBR0_KUhwzOQapGmSmqBi_huF5AuZzg4YqBGHEB9KPxq3-aRdCT8Nu8Bd6gusSbeBXheEcBmK4fKUKnreDYoT7JCuDMEv41Pnv9KYn_50eAKZS30Vf5IDxUuwws5HEhA1Q9azdZN5TDZ1EOMMyXtzGhSHHhxdLaU4Aqkgqyexu14o4HuxCQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Shanti Path, Tilak Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.86097,
+               "lng" : 75.79068199999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.86231982989272,
+                  "lng" : 75.79203182989272
+               },
+               "southwest" : {
+                  "lat" : 26.85962017010727,
+                  "lng" : 75.78933217010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "ccf4f022f6a828524dac1821fffbab115dcf5928",
+         "name" : "Sree Ayyappa Temple",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3384,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102583793992462106182/photos\"\u003eSree Ayyappa Temple\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_W4NZF0mEkDtMSXQag6Kz9vjg7f6QOlZG-EAnplt2Ch9cSrYIqUtMlPxETrMhfuCmB9bELydJCguMRkkiNHgFCFNxInXS4xp3PIpCr7lUtE55yA0AfOmd-PLhC80cBP3EhAhHVWR7iqu25ecHZH8OFw-GhQvmjLX_V008Yy9THzxaw-i-TrJ5Q",
+               "width" : 6016
+            }
+         ],
+         "place_id" : "ChIJ712PXs-1bTkRSKTUFfpORNM",
+         "rating" : 4.4,
+         "reference" : "CmRbAAAArYpdwYX4SYg-jeKBq8E_U1EuTIZCTLcTwEboRkA-85S1DNnHT7n2Qmnj3PdsBLMHQLVtv6NbxFnHIuIHt6w62KphV8aZk0xYrZSg2dcxHoaWHVoeZyyhbzN-Y1P3WYR9EhCMneH2JCHyKRRyUAN1RnypGhSxNPmWxwHMMbMpRYc-WVtCgxjEpA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Tonk Road, Mandir Marg, Mahaveer Nagar Gopalpura, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9213089,
+               "lng" : 75.8241384
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.92275042989272,
+                  "lng" : 75.82551067989272
+               },
+               "southwest" : {
+                  "lat" : 26.92005077010727,
+                  "lng" : 75.82281102010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "21e964fc50deb4285143300a612a0017d991364e",
+         "name" : "Digambar Jain Temple",
+         "photos" : [
+            {
+               "height" : 1662,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112189995845270398392/photos\"\u003eAakash Jain\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAnPg6o88H8RaP7QRR3fje810e7w2wLRUXjmQiT-8LhDB6dSbQz6QwhpPCch6qJ1QkWwVp212tV_6dfFtXfcrE8Hixnj-mZhwA5CEcvY3taCLwEcIAFSMjZ3gtG83IzPokEhCfdaW_5zHeK_eE-PDhY7EOGhSz2SHEDVu6-CYKoprBzvSAWKaHiQ",
+               "width" : 1577
+            }
+         ],
+         "place_id" : "ChIJtVA6VLO2bTkRleCmFcs38WA",
+         "rating" : 4.8,
+         "reference" : "CmRbAAAAvvQmXiSwsMfY0mIZCufoibv0zwIlS48hXZoXb8BFVkMdxXrKz-0WKiiXC6FB24B2IePaztdYu9oamI4pYdWAv155cP1Bg8GpfWy6S-Zz8shNQVAQKIdJdLRcpLHlx0wpEhCalXPoK5UNVmrleT-blKLGGhRaOO2hqoyhrIUOc09cJ8zAYDbeQQ",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Gopal Ji Ka Rasta, Bapu Bazar, Pink City, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8909883,
+               "lng" : 75.8604761
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.89233812989272,
+                  "lng" : 75.86182592989272
+               },
+               "southwest" : {
+                  "lat" : 26.88963847010728,
+                  "lng" : 75.85912627010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "5c8c61c1a61de23fe2c73ecdb878d0b15a9568c5",
+         "name" : "Chulgiri Digamber Jain Temple",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101601892352841294821/photos\"\u003eVibhu Jain\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAYB3Ghy5_U3uHTMPidVrlgfKWMbIQL9GCsdnVRqfpilmjU9ecUHOJ0o5BGB0co18nH9IknIWFPjU2fUZ2rpyq5SML8L_g9ooc2Cwc1YDwlw5Hyavx9z6JL67YGVYk1mz-EhAF1eQMXmeTUzWS9qCjdWZbGhT4tMp6PYEu5XqjLgWU6krSESluUA",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJZxefSxu3bTkRnQdBD-qsak0",
+         "rating" : 4.6,
+         "reference" : "CmRbAAAAwT3KjdY7RC5atx9enma8yLhVNJjW2JNBoJ88PYcjrCroEqz_2LOEd0ywaIUYR-FQOJDGsRrc_kC7_R4Il4O0RUdE_1966T5Ac3yNmfGRaFl4iROfugTq-yvThRPFw-0MEhAYmgIqmIo7_gp_BNNmBr7eGhRj36mbOGjnqF2vTY67aE0K2FvHww",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Agra Road, Ghat Ki Guni, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8958806,
+               "lng" : 75.74605249999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.89723042989272,
+                  "lng" : 75.74740232989272
+               },
+               "southwest" : {
+                  "lat" : 26.89453077010728,
+                  "lng" : 75.74470267010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "e46b252e098bb622a91d1681de3139da338c293f",
+         "name" : "Bauddha Temple",
+         "place_id" : "ChIJVVVVLJK0bTkRxDCZtv5x8u0",
+         "reference" : "CmRbAAAAQeMgOSds3A3FiYmTEReixLxwJE9u9Cg2R_nUmXCMt8qduK3E2mlUa4C0sr1g1RTSQSN9Ty_vOY_CuFTganPoRTceJlxYT6nu1-nIB3m84-Brk3u9zZbSsHhu2IVsS1e-EhCWsyRSS9bVAiXUKHqeHrOAGhRQBMz-HLgQE1e3nM1x0hNnlhwsVg",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Heeranagar DCM, Mahatma Gandhi Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9450247,
+               "lng" : 75.82815769999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.94637452989272,
+                  "lng" : 75.82950752989271
+               },
+               "southwest" : {
+                  "lat" : 26.94367487010728,
+                  "lng" : 75.82680787010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "d7b33ae5cb6f0e39d01efc4c10157c937f421abf",
+         "name" : "SHRI GARH GANESH TEMPLE",
+         "photos" : [
+            {
+               "height" : 2000,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111958950641074273226/photos\"\u003eSumit Pareek\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAfZVDS1XljuvN7mKWa8CJLUNcu-g9tlaAhiEh2Y8MJVTslx0ez0qY9tA-pLspi5B_NNkfnbVi6BbpOz0x4b_PE1P7xfmRvsnhXa3hGcTiulCTg1sc1BYLkljZWRgsx5b7EhA4t-kGhNdv-VzKn2XjWiiTGhRwt6SRZxBcvJMmsP_tSADWw05_QA",
+               "width" : 3008
+            }
+         ],
+         "place_id" : "ChIJ98Yu8UGxbTkRvPwxg6alplQ",
+         "rating" : 4.7,
+         "reference" : "CmRbAAAAd5ZZLB_21MS18QTukyf-BR1o2i2tRO6sDKPJPwDmIlxdsTd9W5j-UNDGRoLqTkSprZ-4Iy6oqEqjii22EdrswtI9cNb91vZ_tnprg18vQMvASTNuI925ZGJvahleaWQ-EhAEH3qQLgOjutGTBS-krlURGhQF7caIztY4T9jkooT38oLKFxt28g",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Near Gatore Ki Chhatriyan, Brahampuri, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9262837,
+               "lng" : 75.8279639
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.92751332989272,
+                  "lng" : 75.82921797989272
+               },
+               "southwest" : {
+                  "lat" : 26.92481367010727,
+                  "lng" : 75.82651832010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "6f5168ac256d81bd97bf31767476b1d6a202bf4c",
+         "name" : "Kalki Temple",
+         "photos" : [
+            {
+               "height" : 1536,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/104569142835467550127/photos\"\u003eLucas G.\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAaH5nGVrdQUKcYT29XPcsW5kpi0rjCW7AHV-FWN9pvGp71OngIHPwLswjIKiFmb2qtWAU2PtDilCvpvUyDD2FtDx5XPvxfY15MG_XDWKZ8JXed7JG-kcta2VjcLSOlMdGEhDMdaWt9SysemMKsGAHY4QSGhT6f66BswvR-Cj15rR26a8vXEiOBA",
+               "width" : 2048
+            }
+         ],
+         "place_id" : "ChIJ_Vh2SEqxbTkRpZBW8ki4yBY",
+         "rating" : 4.7,
+         "reference" : "CmRbAAAAgM2dqaJroAasLhzVHq8ckvotmtIcLtdQsrtFKG9bcK_-XyxNuVlgxXTOUPD0cHYt94KwVTlgNjnLVDBKA1cAvqJJDexAcADd3FW2ixFnfrdaq5NEZ98meBbqP-pqSmUtEhDZa2k5sdivqpgJQuHkonGnGhTCv4G0vQ2KMbYscbLot8sgNiwvKA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Tulsi Marg, Badi Chaupar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9075979,
+               "lng" : 75.85037779999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.90894772989272,
+                  "lng" : 75.85172762989271
+               },
+               "southwest" : {
+                  "lat" : 26.90624807010728,
+                  "lng" : 75.84902797010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "5d2bd97b0147cfc2c34d32452d8aa38b508e0d41",
+         "name" : "Amba Mata Temple",
+         "photos" : [
+            {
+               "height" : 1200,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113226651361800150799/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA7p5qo9uC3rHE7hmmrLqdKnOo7NnMmbtxdDSE5252_mJK78l5i_ylwMwYj0pDv2ybIP0LdUPnO6jWI9Ly9k9nuAsjT71646vDXQCGAAFG62jatkefE4eHit9yUD9dqJrnEhCoU6DzeuMDmtsmaFv8WsTQGhTZ8_eIUaItF5nzEoey1hrpsHJm8w",
+               "width" : 1600
+            }
+         ],
+         "place_id" : "ChIJ-3S0Kdm2bTkRg6VA0fR0oXU",
+         "rating" : 4.4,
+         "reference" : "CmRbAAAAGI46d7hTw78vV_vOEmaX3TgmVZAO88qD5a2oKsoOZnZ05C7hg9B68kCoUmej-PwHcExEpkiC_DuHqyTCngCnEaPLjNoOMIyjUYMtfBfUKPFcMoffxxpgLwbCXXSibXGsEhC3iyJqZoaAlyzB6nID_qxnGhSZS-9hjDpmsMcTdNqriuc4DRYUtA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Lal Dungri, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.930067,
+               "lng" : 75.8151036
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.93143967989272,
+                  "lng" : 75.81636957989272
+               },
+               "southwest" : {
+                  "lat" : 26.92874002010728,
+                  "lng" : 75.81366992010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "6f28c1e438ac19a97497db2ba7ab2db660d158be",
+         "name" : "Mahadav Temple",
+         "place_id" : "ChIJHeJi-lCxbTkR-Z-AeSoKFrA",
+         "rating" : 3,
+         "reference" : "CmRbAAAA_JdyvuwqePvswJqJb6rlne32ImPRdIdXwOTZF-FkauTWd2enSTLLsYIfSHb9Y9xZTTQrpU25F11ySZiLB0p7mo7MTRp7tGt-UYTDKxCeDG6Gz7HBFTF63XEDfeB1z1gBEhCOvslxrVjIh4B1nrMe8etNGhTrANvCQeB-sqHSTMIF7yUPCwGOuA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Chandpole, Purani Basti, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9167077,
+               "lng" : 75.8600629
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.91805752989272,
+                  "lng" : 75.86141272989272
+               },
+               "southwest" : {
+                  "lat" : 26.91535787010728,
+                  "lng" : 75.85871307010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "39a2500158a159d3804574bb455f974e0620a409",
+         "name" : "Hanuman Temple",
+         "photos" : [
+            {
+               "height" : 2592,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105926115069818021702/photos\"\u003eZia ul haq\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAxPztgVdSHHcpphyEtPaDfoi7gU9psgXFQwL_0Imxko83hHekP0Jr_AH5xLXykzOIqlZbx2LIUDqEAaQwOkV4k1uCcauBjtdcc09qY8R5YeopzZ0f7OSxAXbGfxtFvXXtEhC8m7GLZfY4RXaTEbvIpHJrGhSxCS7KWQqOAnYeNZio7HQNfqY_gg",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJ1Z3OKym3bTkRcwaKjkS0nys",
+         "rating" : 4.3,
+         "reference" : "CmRbAAAAK3uf3hzjfgN0zZ3WWlVZhm4Vq94KBD8Ans4Elqshe8rW7mUS4vuikcz3JlkLDlmOKVpsD6XmmOOIzjL8FJLFrHXxWYYyY7IqdCNy34Uc-EuH0fXsPEgpGElPbq1742NiEhAds_y5m1lBDkiGaCiuHrp7GhQyhmSgaZM_azmyJyoIthWKh3RvRw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Galta Ji, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9274169,
+               "lng" : 75.81765550000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.92876672989272,
+                  "lng" : 75.81900532989273
+               },
+               "southwest" : {
+                  "lat" : 26.92606707010728,
+                  "lng" : 75.81630567010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "23e4e7daca36ba49ea2b0058ca001283b073ac39",
+         "name" : "Veer Hanuman Temple",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1920,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112318988815945430027/photos\"\u003eManish Sharma\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAhwD73I-h_AL88xM1izfQYnVTRjW99OERhWRpMqqpi7WYizzf8eGehQjzv9u1lZ84c_AJpOjFNoPn2s8oErjGuhfFkC-IDM6KtIJASCKW8gdXiuZZMi2fZUPKLLhuzdbWEhCkAcgzhCKUSnMuKKfW-XY1GhToa8OJkpyUeENkylMdWuEAvgQ5oA",
+               "width" : 1080
+            }
+         ],
+         "place_id" : "ChIJC8vh71GxbTkR5MyXzrSFocA",
+         "rating" : 4.4,
+         "reference" : "CmRbAAAAu8V8OsiccO29HSfEtMswyLPh-Ty4Ih-VRSk2GhWOWGP7r6goe1QKUYsEqqpbGnm6Qb6GtESZorg4Qlmgx1pcH3VDazVBmaxmsBHuU8XxIxNloWcAGz6I8Tgys4fab-4oEhCT1KLbUjVcVTfz_zv9j2VCGhQdOPVqWgfQHSFZXtvkegB2MrBzOg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Shiv Deep Ka Rasta, Gangori Bazar, Pink City, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8557231,
+               "lng" : 75.81028649999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.85707292989272,
+                  "lng" : 75.81163632989272
+               },
+               "southwest" : {
+                  "lat" : 26.85437327010728,
+                  "lng" : 75.80893667010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "2ee85bdc56475f629b4870885047a671382a437f",
+         "name" : "Sai Mandir",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJYeXDNnS2bTkRG1MGeiJ_pcs",
+         "rating" : 4.5,
+         "reference" : "CmRbAAAADr1_wFiNUcg-sVmIfCqtw8buZXUJDAMvgH475Mt8DU2zM57Q3rFP0jBRz9R1c-eFLC46DADhtcA9pajKXpgceEpvmm5SRho6fyaA3_yKCMoEGsKirntGPg3QQ0Eh-J8EEhBbMKgnr8zSmKb74irUlOV9GhRonltRqWeiGh-myqv_Q-q2YH3tig",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "C-Block, Block C, Malviya Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9023127,
+               "lng" : 75.7417849
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.90366252989272,
+                  "lng" : 75.74313472989272
+               },
+               "southwest" : {
+                  "lat" : 26.90096287010727,
+                  "lng" : 75.74043507010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "7361e0e49bb2af9b179ee4a6190c3385c1f0b513",
+         "name" : "BAPS Shri Swaminarayan Mandir",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3024,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115915620525516573657/photos\"\u003eSagar Chandrakar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAoH8vOblgay9nTDBMJWP0OojeECdmd4XlSmyYJL2x6kkYVtrww8_0D6Ha9Lsp5gSb10Ew_tSwIPRSoGacpMHfXFBw3r2nT_xzsoPcweViBwNQNk3CX4jpaZ-n-YRrwEX_EhDtE6w5goGBSR9RGHld_e-wGhQmN-fqUk5poKXvlz0ON9iN7j_tbQ",
+               "width" : 4032
+            }
+         ],
+         "place_id" : "ChIJq6r6m5e0bTkRThogczW_J_M",
+         "rating" : 4.6,
+         "reference" : "CmRbAAAAytGQ0D-lXgz0k3v1N4SKNVBUWB0jLU5nUMez0gF4nnKzXLKp8tZUgTQI7NGpfu8IEFD_MiFStRoXXdQMO17RcfDT8JhWXt190hPtmsMs-SVQGjjgAJKEGA5oyp_xpI_zEhAoV7RKy8mcFhl6sRgtK8VoGhRmgtCH32tTdm64jerMGxxB5o73eg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Sector 9, Chitrakoot, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8894302,
+               "lng" : 75.7388385
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.89078002989272,
+                  "lng" : 75.74018832989272
+               },
+               "southwest" : {
+                  "lat" : 26.88808037010728,
+                  "lng" : 75.73748867010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "66eee26d59baa22567163a262ddfc0e0a3e35e36",
+         "name" : "Shiv Akdeswer Mhadev Temple",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 4128,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102431285333264256406/photos\"\u003eRahul Yadav\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAACjy0kV8lPyLh8c-RSNxM0loiC7iOoD-JwyT3XHBvxwn5QkXNntj55y9ah4G_nZmrj7PSknXZTdnQgnvcfJFzSaja8L6tvS8mlEQtVeNnINeqQww8O-Rye5uv7J3_2YmLEhBrAWQOYmuiw9yjeWtd5_EwGhTsdPXAKPlAPX9sWqmTFRt4yTXV7w",
+               "width" : 3096
+            }
+         ],
+         "place_id" : "ChIJXbRwyeq0bTkRbMXNj6zx3WQ",
+         "rating" : 4.7,
+         "reference" : "CmRbAAAApYTapv9Z02SOLnNT5smrHTY1VKRw27Mu2hKu9N-CAj5qTHio_kILhaoiKnaFgPhKtPf9JdOzNR1nHZhLAD_0wFBbkrq3VgZ7DVME8WOsC2Ok7wZZ_nmx0HQcvSB9nep9EhAyiu_euX4Q6ZkE1UovSSo4GhTk83niCBCg9_WPNPMqcRZNKAgxcw",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "200 Feet Bypass Rd, Parswanath Colony, Rani Sati Nagar, Nirman Nagar, Brijlalpura, Jaipur"
+      }
+   ],
+   "status" : "OK"
+}

@@ -1,0 +1,649 @@
+{
+   "html_attributions" : [],
+   "next_page_token" : "CrQCIQEAAAYbql1QxtWMqCc8tw1DOKDDyixLT9dXQQApqIpooj_rAoNf8ghOpmZtNC4dPjaX0NrG6DJr0OSyjovM982GspxYpSbuEcbo9mIh5wt7GOV0ZTk12juSSJM9OHKdz62eLaoJJLpco6ZvnWE_WYT_oW-BLldDyyPgEeqVbLujja6x2boR7K58JfUILiYp-mdDkE8AQjzz0qBzkrvTU0LRetpQnKoqdUOqINnbpYrnEugcNzArMheIraQ4PC7Fds4J6oOFaviQa7Q3ZpXsNIiGJp6cm7qB7HmJvp8GYn2RNZQKuKl1l8u6nouLzwSwDuPxLXEGsSCVqZvRNh0wMjvjDMLY9F4-9U2CZRZ-8EdsIsSomRe1QKvj54JHi-SUfg8k8kBnu5y7fT9Ux-EqX8VkqtcSELxLzPC7GbclH1jo01n9oMUaFBB4YvT4sW99y1B6xGL7IpaQWIw2",
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9293411,
+               "lng" : 75.8036963
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.93059892989272,
+                  "lng" : 75.80496357989273
+               },
+               "southwest" : {
+                  "lat" : 26.92789927010728,
+                  "lng" : 75.80226392010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+         "id" : "952e90a07b6f1dcd087ec27e18946c65e8fdfabc",
+         "name" : "Dargah Masjid (Mosque)",
+         "photos" : [
+            {
+               "height" : 2368,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116770536747370083470/photos\"\u003eshaikh yawar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAARb6z7PvygBiG2smn8WpdhF_A3_afUV7uFdBikVUJn-k8XqxszY2IsNRVysjkWURcPj3ZgMaKi2aHINtvUEJnalOoBYSWoRWaWYPy9i2LGWrdubYz--ia8f_N33yOSF1KEhCTgY89tzivGjtug2l318QsGhRSmv_ZG1FFdKdK6g7uFvI4rLG7hA",
+               "width" : 4224
+            }
+         ],
+         "place_id" : "ChIJ1_9Y4fyzbTkR4dHilf_Kweg",
+         "rating" : 4,
+         "reference" : "CmRbAAAAvcFg9lPC7dsrdse_lWeEceLE413zQACTVwn5zrSj0PL2Df7WlIAtBHDuAR6s2IWPzMYuHfbFquzxdonD3X_d0TuV_-iLde_XjKHAPjDydnQ0CJlOAZ_zQr80_IsEu9dCEhBhgPpTT82HGVfbsgW4EVzbGhQfWlEoPfUFohTyl0Diqo6Lu4HXGQ",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "1155, Jhotwara Rd, Hazi Colony, Sindhi Camp, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9454019,
+               "lng" : 75.7500572
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.94675172989272,
+                  "lng" : 75.75140702989272
+               },
+               "southwest" : {
+                  "lat" : 26.94405207010728,
+                  "lng" : 75.74870737010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+         "id" : "2b92ca7b5aecce9babac06bc1395146e4d50e1c7",
+         "name" : "Isha-et-islam Mosque",
+         "place_id" : "ChIJwzN9Ng6zbTkRuORVl4g1j58",
+         "rating" : 3.7,
+         "reference" : "CmRbAAAA3N9T1mJPJFb_zSi2Qeg55TCYYWiJg5wuieNPt2Q9l_CfqBYScO0wuT_3bC4PusbLacH1I1zesbb2IGDtXsd4025enG0tfR0VT3jOTV7XVSuaQ5dBusenOcR7gunQWpfREhBluKbY-MCKsauakgbBtGSBGhT20lRiExIIVtLPlPIjPKY4M4a85A",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "139, Shilp Colony, Raghunath Nagar, Madina Colony, Jhotwara, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9307541,
+               "lng" : 75.8325334
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.93217927989273,
+                  "lng" : 75.83372927989272
+               },
+               "southwest" : {
+                  "lat" : 26.92947962010728,
+                  "lng" : 75.83102962010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+         "id" : "6864e6a613276036d44b0b7b79e45b60d87b10ae",
+         "name" : "Shia Mosque",
+         "place_id" : "ChIJmWN0UTaxbTkRoAah2Q2LbUU",
+         "rating" : 3,
+         "reference" : "CmRbAAAA4EpxGQ2JPj8kVRb86KcUhBBi9eqNROw_zR5gAS6FIoFhOE_sN8E6Da8yNZkkwryYyet0sNer9O3BjZYhvix1CCf4RBrodhuSLS4GeniOgwu2j-UikNgvUX1wrIMn25LuEhD1fyHkyBc6i6fgLTFszcq_GhQfUnLIp0opjfLXpoiN4UA8wtKaGw",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "271, Amer Rd, Char Darwaja, Chokdi Gangapol, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9565415,
+               "lng" : 75.8020695
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.95790837989272,
+                  "lng" : 75.80346597989272
+               },
+               "southwest" : {
+                  "lat" : 26.95520872010728,
+                  "lng" : 75.80076632010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+         "id" : "8d5c89df73927f0fcac42d173e88e71be7e2d14a",
+         "name" : "Iqbal Mosque",
+         "photos" : [
+            {
+               "height" : 4608,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116397707775217891703/photos\"\u003eA Google User\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFaau-8_IT4ChqVFjVii8TljMy4wlB7md-_alzUZbR7usjWRbs-pWdLGjMk2Qwnrl7_EUy3KXGTYaIWsekJBfYKH7DOakEXaTskc2lNdB8wdlJ9x3hLFogudEM-xW4PmJEhCJ0XZLk2kV6zr0vNShtF4QGhRiDX1FGDg8n6gj1QJd_mbg-l8lhA",
+               "width" : 3456
+            }
+         ],
+         "place_id" : "ChIJJ22ZJtezbTkRA28KkH6pS5M",
+         "rating" : 3,
+         "reference" : "CmRbAAAAQ3u6YWS5r554YxJotkNCUG1b_MISr6h0CcL3hdBySuuWlTPRQAARMAwzW4PUPswrHe5ziiR-ZwUar7h3GYi_ZxKt3AjTA9usrfSqrwLAsccAx3Hogo10HcNvox__IFDiEhA7cgCRp8aNHXZ_50S_FQsPGhTPewKtdKRFOZYE7D0cSUznHXlAEA",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Ram Nagar, Shastri Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8432168,
+               "lng" : 75.81780209999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.84456662989273,
+                  "lng" : 75.81915192989273
+               },
+               "southwest" : {
+                  "lat" : 26.84186697010728,
+                  "lng" : 75.81645227010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+         "id" : "d13913d019d035f5019700905362e25813f55a7e",
+         "name" : "noorani masjid",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/116066870354833137632/photos\"\u003eHumaid Alvi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA1KONRZqNVo6SuqwFAj_3vrCtigfzhJW1CMOAsTXPl9pCyU2_Ou9ZbFhUsugTTKSILttbvflQRaLbnOKvb3ZyfoXvZkQ9b2BNKtb5s5z58oavp6amFyo5X9p0Y_5yLl7pEhAwXQNrjT4o-V6l_iDRVuJRGhRM1KLoNNLn8Fr4BgYfQ0iY_L76cg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJI4xCzQ-2bTkRAt37Arj4OHU",
+         "rating" : 4.8,
+         "reference" : "CmRbAAAAaCXU-Uj4qcCvnQeEiRLjFLHQ4ad-pDK5oRDVZ3cWtCd5zHoVFJiTI-vE_iX6PMps_ed9zjcJ1Y3l4sdw0ZjPoEB1_zYrr2BqN3XI7MF35fHOYXxC23GmSQ15KF2BOH4VEhA088tl5bSl5flYmBUAr_O-GhRKiAFZtoOSVDZMN9zjcdkNUYNktw",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Nandpuri Colony, Jagatpura, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9489606,
+               "lng" : 75.75289170000001
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.95031042989272,
+                  "lng" : 75.75424152989272
+               },
+               "southwest" : {
+                  "lat" : 26.94761077010728,
+                  "lng" : 75.75154187010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+         "id" : "44ccf78bf9c85ee1cd5c410696f8531443b92ab3",
+         "name" : "makka masjid fectory area jhotwara jaipur",
+         "photos" : [
+            {
+               "height" : 1456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109993553338387175799/photos\"\u003eFaseeh Ahmed\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAzWrpkrAS9tQ9QbmNRIjtFlfmDTuuUdv_SDQw-SI-XHqheVW9Lfx9JXnX8W6-FNVbZ4rOFCtTcM9EH_TTfQUKQ79BwiR7PSjdgEe62SoEdsgwyziM1cdZoo5veMD2l_dEEhCfEtcrDdAHLKAcLHh_WGZVGhST373bTH9Xg1quPsOh_Vc9XnL5ew",
+               "width" : 2592
+            }
+         ],
+         "place_id" : "ChIJPTjZYQ-zbTkRrH3s9Ff2Noc",
+         "rating" : 4.3,
+         "reference" : "CmRbAAAArOoNLgwAOlAZpN8IJtqGx8T0GAIqzUGSkjcMA5W0x-nO0mkBMmYVEu619Qfa7SqyD-sd1uv7-44nGt1l6tHXUIq0CtfbqbXO1s4jMiKTWojE43-K-5qsmkRB5fGKxyJkEhAhThQlIW6de8gD0lZV38ODGhRUqHR8MtXvUQSnPD1E0Mm8RcBjnw",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "makka colony fectory area jhotwara jaipur rajasthan, makka colony, Bismilla Colony, Shivaji Nagar, Jhotwara, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9889656,
+               "lng" : 75.85618339999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.99010992989272,
+                  "lng" : 75.85751737989273
+               },
+               "southwest" : {
+                  "lat" : 26.98741027010728,
+                  "lng" : 75.85481772010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+         "id" : "d8f43ccd85b437fdee386f40892370b2de96db2f",
+         "name" : "Akbari Mosque",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101828180510644162225/photos\"\u003e邱垂進\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGmUXavBeDjdiSgla0lH0A5LNltCzEK_AEjKTgL_HYxDZPABSONyQw2lK9RBPS8jMW9VJyCNxz2fBkiQiJzWmR8-9Lhlw2f6V6pKbCcYHyQxxy2S1wPd9v-YGwTPP8VgNEhCF2aG8rg5jwDhrJugkAW6_GhTtxxPwWQa8CwJaC0kuiw7n1vS0_w",
+               "width" : 5184
+            }
+         ],
+         "place_id" : "ChIJyyVHeEuwbTkRcq3wFdxTVoM",
+         "rating" : 4.6,
+         "reference" : "CmRbAAAA7nN0tPfX0txrEkJl77lGMbNS7psEU9ofou1Q_OPdIBCR5tlxvzDXZSBOgbjb6RPNsPJC6Iuaym9Q-4CM69DadRM9ormmOpAL46M7KreE9Xm_ozBwYUZ-koruR4Qhw6EMEhAhFH9ri9gab3lMuXl9m3piGhQaSzOcShWp6tHjTKQkNZl20EGuEg",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Amer Rd, Gandhi Chowk, Devisinghpura, Amer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.8345333,
+               "lng" : 75.82396
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.83565147989272,
+                  "lng" : 75.82548607989271
+               },
+               "southwest" : {
+                  "lat" : 26.83295182010728,
+                  "lng" : 75.82278642010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+         "id" : "48f1781dcaaf4b2ab20ad635f0bf4a7af84e8976",
+         "name" : "Masjid Garib Nawaz",
+         "place_id" : "ChIJP6WoBBy2bTkR2WHsiYVbsnQ",
+         "rating" : 4,
+         "reference" : "CmRbAAAAM5alwyFHaz56Pf5rCKN89LKoG8VmMUyk94HiwQmFDSOfPTxsNnDQei6bAiRd3jy-WIFIpBZ5LKN5WA_snga5J3DZ0zUcAm2ATFPvNpQmYWGjuX29FvgJUtAiBzbExAh8EhCpZx_kmkXGMwniRA5kLibiGhSbn4dv4lyVgvjxahHtidq5n_TNsA",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Jagatpura Rd, Mayapuri, Jagatpura, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.95082,
+               "lng" : 75.8052043
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.95219257989272,
+                  "lng" : 75.80659697989273
+               },
+               "southwest" : {
+                  "lat" : 26.94949292010728,
+                  "lng" : 75.8038973201073
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+         "id" : "ba1ae2cc3d9bc7b0288e1f2be15eab0531d1ae93",
+         "name" : "AAYESHA MASJID",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117573449278111214865/photos\"\u003eShakir Khan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAgi5nCmFsaHhgA6gILzNqJVwF4MPeCyF9n7IYSKEAQt7RIQLtnimX6UUdD7gvzjey3beyQtHIhZ5htg41mYUICT2rdk_2fYiNpC37krsbajm9nF0PsOWCv1zqeoUBNloQEhCGoi8oNryLJvl1Acu-gsf7GhRhNHLQdUHuHBcn11hw18l_5AyRGQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJVeY08tizbTkR3fuTPbSaAZs",
+         "rating" : 4.6,
+         "reference" : "CmRbAAAAPhY3w9znwZW2mt19wd6msIsHhMk5Rfe5D68jh1oy7QveKGCG2PKZKVruJfQXBeuT5p-fxIBkRioWzeiVmgrHgObvp8zLB4IReUen3cyV2VhBBij2K6vBwX1nwwKEGiEJEhCsuPu4N_OIdAH4h5yD6TJsGhSrvGCf2cudg1zMG3rMuaSM87EjMQ",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Ram Nagar, Shastri Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9182097,
+               "lng" : 75.84232860000002
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.91955952989272,
+                  "lng" : 75.84367842989273
+               },
+               "southwest" : {
+                  "lat" : 26.91685987010728,
+                  "lng" : 75.84097877010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+         "id" : "eb171da58df1130370fa836c457d42d8acc812da",
+         "name" : "Mohammadi Masjid",
+         "place_id" : "ChIJw8_8DdK2bTkRkk7EE5MZqwk",
+         "rating" : 4.5,
+         "reference" : "CmRbAAAAdV_7toFKsrTWg26j0j9kHI0SoDofCoAcJI-7dxn8ZgQnNnhAqS2TMkMMMmUp6NK9cGuYEjh-89wPVg5SZ5KpVSvzHQEqkoP9cifbjjef2N3o0EJS6mBhZt7Rbjc-mihxEhDUf79v2ihvQ7s5R30Ytut3GhSSHlQL3vfHjHNt97qVV810CtXF8g",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Surajpol Bazar Rd, Pink City, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9124995,
+               "lng" : 75.8349376
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.91380657989272,
+                  "lng" : 75.83624057989273
+               },
+               "southwest" : {
+                  "lat" : 26.91110692010728,
+                  "lng" : 75.83354092010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+         "id" : "d8256c4c9355fa5a4f5dccaf409e9803d8c55a48",
+         "name" : "Risalah Masjid",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJ7xUkuci2bTkRahcu73sUG3w",
+         "rating" : 5,
+         "reference" : "CmRbAAAA5J-kklyLtBcTrQy4yecpFS86y9Ku7Ay2QA0Klsje208Q_WJVYy-Xs7KZx9VVi2o9o8tAOkSaaQWWtHUM3xkYJEhWwiUmBtwTa2eT9RmtfdVNMxtP_qI7PGE8QOnBSh2_EhCEUlgkgUXCSRN6mssQm8cpGhQkm2DJRuizP6cuwadys1xGbXs6TQ",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Near Ankur Cinema, Agra Rd, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.933197,
+               "lng" : 75.840231
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.93454682989272,
+                  "lng" : 75.84158082989272
+               },
+               "southwest" : {
+                  "lat" : 26.93184717010728,
+                  "lng" : 75.83888117010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+         "id" : "5a943918b1b0779bf0c51b3e79d22515ae00bb65",
+         "name" : "Masjid-e-Muhammadi",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "place_id" : "ChIJAbXyQDCxbTkRb4kdHNaFu1c",
+         "rating" : 3.2,
+         "reference" : "CmRbAAAAaxzm18vxBX8qXxrXWFI7FNxNDWus-lTwHiagCsdWS_QZQ9i6YD4ALPw-AnPu6F5cgag9M3GBimlofsFaZsreg3aHv2hr2wz9rnIRiJ6jV1Tl6Zf0_c4skvKWiVdqnlS4EhAMouEgyJrQi84xFLqxN5I-GhSW_njOaBM2YmLqXQdRnPELTc8IHw",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "1B, Khandelwal Colony, Bas Badanpura, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9476001,
+               "lng" : 75.85211819999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.94894992989272,
+                  "lng" : 75.85346802989271
+               },
+               "southwest" : {
+                  "lat" : 26.94625027010728,
+                  "lng" : 75.85076837010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+         "id" : "855def67131e1ed6bbd455d9d1ddf751f89b2d33",
+         "name" : "Masjid A Modiyan",
+         "place_id" : "ChIJh79_9R-xbTkRkgSjTszlv74",
+         "reference" : "CmRbAAAAvZ8N8PGOfxpXHiyt-it4rCWLse6Q8UJJKFgsNNrppm8_f_J3Npab0ICxOCosAC0o53I-DoS3TY77b8jpaWgP0Ziv0eqiP_OxJAStZKsxx1AX7FuzsbM44cDxSmSyrcr_EhDQHbMDr_ybgJs84xMRKSuxGhS9O64Spkx6I1Me7GvLdqPwXENiXQ",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Baldeogarh,, 53, Nh 8 Bypass Rd, Baldeogarh, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9216669,
+               "lng" : 75.831943
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.92306397989272,
+                  "lng" : 75.83330577989273
+               },
+               "southwest" : {
+                  "lat" : 26.92036432010728,
+                  "lng" : 75.83060612010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+         "id" : "c8d158dd1d4cd1ce2a7b42b84f4da4c7e9bad5e2",
+         "name" : "Chhoti Rehmani Masjid",
+         "photos" : [
+            {
+               "height" : 510,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/113481611637531079388/photos\"\u003eMohammad Akram\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAKQrTowykv_AiWqS2OC92FW2Xx1x0oY6HHV6VkT6TzN3rEHC8-_o9wehVYUyJUifEB6cEynP0l6Efd2FCfdlFn0gxYU8Ghy8Qp_CEk7I0M08MnQDDQSjm4cZWp7WQ1_NTEhBqnmfqJbodD5gOKrvZrf2qGhQ7NgErP-yvncvUo0IGrZ0iDQqjSQ",
+               "width" : 680
+            }
+         ],
+         "place_id" : "ChIJtXZzxsq2bTkRA-x9uff73SU",
+         "rating" : 5,
+         "reference" : "CmRbAAAAEU6USaxLWpY1CChmxQXK83jdvgb7R1icYNS_rBM-hrbIYKCiPaPNL3N04Zu-RotBes4wKW_2FTEUIWJqKZi_yghTv0AD2mAU-dqD2S6WKBkRoLClXQ1afMGwvtRSf9HDEhBX4a6j8YpwjGtycL6pNY2oGhRwlv-cTl7rzqFaaB_oocUWfldiIw",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Ramganj Bazar Rd, Ramganj Bazar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9264057,
+               "lng" : 75.81242859999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.92782387989272,
+                  "lng" : 75.81348257989272
+               },
+               "southwest" : {
+                  "lat" : 26.92512422010728,
+                  "lng" : 75.81078292010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+         "id" : "e4ee9f960a9bd388dd3b44d4406cd78d704ea0b6",
+         "name" : "Masjid a Jarahan",
+         "place_id" : "ChIJEyc3qlaxbTkRJD3tCqF1Gtc",
+         "reference" : "CmRbAAAADAqjugeXxTCrx8fApOKJK_9PKnAJ-blbM5XGIYdXzFAGrAZScERr38ptsdGzuOCR59osRTYWRPiezidCZCVE4AmHtfw5luMF-eFGFrzrn-LL8xXg359M7R-erZObFIdKEhBW2e332WuvALPxInuKo3RMGhSplvqBBOJLpQ-lA4KGzmyxVHb27Q",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "786 kasaio ki gali bagru walon ka rasta chandpol bazar jaipur, Bagru Walo Ka Rasta, Pink City, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.875167,
+               "lng" : 75.8786855
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.87651682989272,
+                  "lng" : 75.88003532989273
+               },
+               "southwest" : {
+                  "lat" : 26.87381717010728,
+                  "lng" : 75.87733567010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+         "id" : "be36e0adbaf9c97659128c71724d4953bb4763a6",
+         "name" : "Madina Masjid, Dwarka Puri, Goner Road, ghati Karolan, Jaipur",
+         "place_id" : "ChIJV1mmzZi3bTkRnI89X3Yf85w",
+         "rating" : 5,
+         "reference" : "CmRbAAAAXhiJ5Iii00GOzbja2-_25Dmg3CdXztLc2MiBI0LEG_GiIHycW2vNMHk_ymOik7iBKdbNzxrRMS1WBf0HW6vS6cBnMDfmIsL5pqv5fJPCbArlhTYPCkn3t1RtGBtQTiwvEhAtCaNA895iAxfe6xA9NVUtGhTohX14iREY-aF-SRhwxniKxAywhQ",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "52, Ghati Karolan, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9148569,
+               "lng" : 75.78070339999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.91620672989272,
+                  "lng" : 75.78205322989271
+               },
+               "southwest" : {
+                  "lat" : 26.91350707010728,
+                  "lng" : 75.77935357010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+         "id" : "016fba0ac454a25599426793016c9179e12a259c",
+         "name" : "MASZID E RAIYAN",
+         "photos" : [
+            {
+               "height" : 3264,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/117291668965798208453/photos\"\u003eAamir Khan\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAY4MykVSv6Rxfwbk1ggUgyBSX8sNA335No7K22-bN4HS9bEGAx9e9j0Indbj8AW-KAyakSdT0IczSwENAy90Pi2P8GwxcY-K_QPQYChY1t96a7XkYpjeMKPebZ1_-f5CUEhAcjkb0w4glPUSgFrWDYX5LGhTRf6tsv1UxGv-fc8Iff_q7dU5-rw",
+               "width" : 2448
+            }
+         ],
+         "place_id" : "ChIJ19vEqXW0bTkRA8fuTDYPCpU",
+         "rating" : 4.9,
+         "reference" : "CmRbAAAAzBH2Tvoq_dlJ4arDhWcdbzNcVe7-ivxn9fB9wmggqagrVUpLR26HFBIqTOuDm57Q_nLV7RI5f55iugroYLhSeUrP303VOAAKbG-JjUeldOV5grHq5fUJ7Jcmn4bYSCnOEhDUVQuyEGzx3iRrVfZSaAOtGhRWFm2_4Y3cvyxTJgyecuZ-cawXow",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Kamala Nehru Nagar, Rai Colony, Ganpati Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.907739,
+               "lng" : 75.8230904
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.90910587989272,
+                  "lng" : 75.82439687989273
+               },
+               "southwest" : {
+                  "lat" : 26.90640622010728,
+                  "lng" : 75.82169722010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+         "id" : "15acbb2aa24337a0433027d09102e8c665065fd3",
+         "name" : "Choti Masjid Kharbuuza Mandi",
+         "place_id" : "ChIJ8UwBN7q2bTkRStc0tG9G9TM",
+         "reference" : "CmRbAAAAYKTGuQMxgVKxg66K8018H0g4riqritjn03QXJsDsUYUIB1PUYjbJsAtIiwAuMd6pdCzbHdPIp_kf6tZ2r1s42tXRl0ZabOoSRes5K7sqgCx63ssy_Ou2FmFSkdUuHw3WEhBM22466ooMUBG6r6N-kuovGhQvtSDxRa0WXjmm4TYPx4m-6ferag",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "A-2,, A-2, Moti Doongri Rd, Dhadho Ka Bagh, Fateh Tibba, Adarsh Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.9101787,
+               "lng" : 75.821996
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.91152852989272,
+                  "lng" : 75.82334582989272
+               },
+               "southwest" : {
+                  "lat" : 26.90882887010728,
+                  "lng" : 75.82064617010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+         "id" : "ebec05c6415be36b425a1009e8c084d08cf14772",
+         "name" : "Masjid Jinnatan",
+         "place_id" : "ChIJC_IIg7C2bTkRmeUwiBFgMTE",
+         "reference" : "CmRbAAAAaxKZKpMEDzAgbRuqBYOhRgelNiJtodsfio9BcpvWHghVTfg2ZWKIsC1tV8bU77k6-_9b6LrQWzqGHYwRxjKNVYBiMCGEQxMb5sHRFhrfB0Zz3iSIaIbaz5KM7ZTvB_TzEhCjAFD0grI-UfjWpYsa2hIcGhTXQiSCqS_eROGYSmD-b8Aak6AvTA",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "180, Bardia Colony, Kailash Puri, Adarsh Nagar, Jaipur"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.928809,
+               "lng" : 75.84280459999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.93015882989273,
+                  "lng" : 75.84415442989271
+               },
+               "southwest" : {
+                  "lat" : 26.92745917010728,
+                  "lng" : 75.84145477010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+         "id" : "2df05be47e85df6ab9d5aaaada974b34e5f8af20",
+         "name" : "Masjid Zaibun Nisa",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/103532519797081658707/photos\"\u003eSyed Adnan Ali\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAPfAcov5uqMpXhr-cf42oLzhwash-O4KsnLhVgaoXl_hOwyJYlcZ6D2LMTl3Mer6LZPod14lGfGnib0RGKwQ9yRFh6NYasMotqkpQirH7gnei_ORV7ryvOpDJWwfY4ghyEhA2kDcsr3TpHpJ1TAr7Mc5FGhSnVu6Rgfd79m91nJz_6c4G4VHSkg",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJf8w55C2xbTkRwbXgDYCAUHE",
+         "rating" : 3.7,
+         "reference" : "CmRbAAAAB3S8bBCz1rrvaP_bkA3LBaJRipyFBFGmU_VujBBPLCSMZDyJUmQG3aBZV8PM6nSEt4-zzRxkh1LGAe7mhyCcaHOMa_x36idOgX4_HXF1NAxfhT8f8gH5y91Trya4lWPaEhCyn4LnWFXqopccqaEq8eeSGhT_4f2fHSTv5npOJpBMUbelyVSXSw",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Mohalla Dakotan, Bas Badanpura, Jaipur"
+      }
+   ],
+   "status" : "OK"
+}
