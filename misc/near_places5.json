@@ -1,6 +1,88 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
    "html_attributions" : [],
-   "results" : [],
-   "status" : "OVER_QUERY_LIMIT"
+   "results" : [
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.455216,
+               "lng" : 74.6251458
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.45656582989272,
+                  "lng" : 74.62649562989272
+               },
+               "southwest" : {
+                  "lat" : 26.45386617010728,
+                  "lng" : 74.62379597010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e998b4e5626f9cb6787f7b493b0872a02ff3c08c",
+         "name" : "Dhai Din Ka Jhonpra",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110285205541160187508/photos\"\u003enaseem lodhi\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAam5_AvA0hfjRMWTs5t3e950hNHKW4zyo7tlJOxKwQkAylI1k28ncz_bIx8PJl9J2N0hJETc2kkIwqwJZYXBnXBwT5E2Jk5fT-goeq3l7QOfwl6csujCzwZLLnUFB2cFnEhBsI83jYgidkVNIjVZyue1TGhSTNtmZKbJlv9dwkoBtfmPIn9cftA",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ8-9-KxHnazkRfFR_tBFTvlY",
+         "rating" : 4.2,
+         "reference" : "CmRbAAAA8mQzrOzgBcI8SauxhATHKpP7yBt2HliMAQcBk4-xRzkogTM5m5aenCZyqgpjOqESbSZvgTFIlI1f_dk65nQC9l-jWYyqdmo4spqPn4lIhat3WQhILnkEJBfkztWCPCUAEhCMqRvOpl-8Xs7rkmN88w5fGhRIXl_i6W1g9llzZVcW502KFDmt8g",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Ander Kote Road, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4227535,
+               "lng" : 74.63155789999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.42407817989272,
+                  "lng" : 74.63289652989272
+               },
+               "southwest" : {
+                  "lat" : 26.42137852010728,
+                  "lng" : 74.63019687010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "8da49de0e0cb4f176536a687a49ee06217b89cba",
+         "name" : "Zoo-P Mens Wear",
+         "opening_hours" : {
+            "open_now" : true,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 3120,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109989233479582576906/photos\"\u003eNitin Maul\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAA6mEpIjgmeQ-zQw6Wyq-J35eUzWvPiDpxGyeN_3Zv48rlMishQGzqvH5-IsbyOdnuH1fOQpZ-bxDt1s0JT0CBZw9Q83dSwwyGt1hscxKI8W_N3hbDX91ip8KZTf9v-4TEhBrv3-Lw021rfLHeEb_7h_hGhTtT67CqB2Kz-HpPrDJgPuPmOl5EA",
+               "width" : 4160
+            }
+         ],
+         "place_id" : "ChIJRX7utdPgazkRaaYAgUzZsvw",
+         "rating" : 4.8,
+         "reference" : "CmRbAAAAHgPJiwHoaS_3G-UV_d4irr9yeSPNLLfgQVsFJ9yan5VZXoGPGvYrlgPlcg-eXPcWVrcqqF0hwnT_6UML-Zp1zDGNARrL2rAT96EYE2lEL2DKCb5zpDk8qwqUiQFYSbNPEhBhycUpPL-OgSQdNSHqXX9TGhScK28U3DldO3hbwnF086N5KPpF1w",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+         "vicinity" : "29, Taragarh Rd, New Ganesh Nagar, Taragarh Rd, New Ganesh Nagar, Lajpat Nagar, Ramganj, Ajmer"
+      }
+   ],
+   "status" : "OK"
 }

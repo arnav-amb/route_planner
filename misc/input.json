@@ -3,13 +3,13 @@
       {
          "address_components" : [
             {
-               "long_name" : "Jaipur",
-               "short_name" : "Jaipur",
+               "long_name" : "Ajmer",
+               "short_name" : "Ajmer",
                "types" : [ "locality", "political" ]
             },
             {
-               "long_name" : "Jaipur",
-               "short_name" : "Jaipur",
+               "long_name" : "Ajmer",
+               "short_name" : "Ajmer",
                "types" : [ "administrative_area_level_2", "political" ]
             },
             {
@@ -23,35 +23,35 @@
                "types" : [ "country", "political" ]
             }
          ],
-         "formatted_address" : "Jaipur, Rajasthan, India",
+         "formatted_address" : "Ajmer, Rajasthan, India",
          "geometry" : {
             "bounds" : {
                "northeast" : {
-                  "lat" : 27.0206722,
-                  "lng" : 75.94119069999999
+                  "lat" : 26.5252392,
+                  "lng" : 74.7021311
                },
                "southwest" : {
-                  "lat" : 26.7497493,
-                  "lng" : 75.63992500000001
+                  "lat" : 26.3812472,
+                  "lng" : 74.56929629999999
                }
             },
             "location" : {
-               "lat" : 26.9124336,
-               "lng" : 75.7872709
+               "lat" : 26.4498954,
+               "lng" : 74.6399163
             },
             "location_type" : "APPROXIMATE",
             "viewport" : {
                "northeast" : {
-                  "lat" : 27.0206722,
-                  "lng" : 75.94119069999999
+                  "lat" : 26.5252392,
+                  "lng" : 74.7021311
                },
                "southwest" : {
-                  "lat" : 26.7497493,
-                  "lng" : 75.63992500000001
+                  "lat" : 26.3812472,
+                  "lng" : 74.56929629999999
                }
             }
          },
-         "place_id" : "ChIJgeJXTN9KbDkRCS7yDDrG4Qw",
+         "place_id" : "ChIJAc23_NjmazkR7gCB6xKPr8s",
          "types" : [ "locality", "political" ]
       }
    ],

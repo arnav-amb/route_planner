@@ -1,1118 +1,641 @@
 {
-   "error_message" : "You have exceeded your daily request quota for this API.",
    "html_attributions" : [],
-<<<<<<< HEAD
-   "results" : [],
-   "status" : "OVER_QUERY_LIMIT"
-=======
-<<<<<<< HEAD
-   "next_page_token" : "CrQCJQEAADn1XJXdXHtfz0gKt7nrNVaAM6Gz9kHYO9MxDPVnM5srwcFSTbXUo3iyBz21XNBm5lFASIjlCWzVpRvgTN7ySHBEIwkeRwaLGJF5vEZl14aATSoegwkhN6YKuxBm_Md5zqyLkC9JkkbwHYIGBJgFNA9TWF_bZASNMOqTUx3tr9fazTzFG77hqGZU8hDWHrQRptwL65zXXe61oRU8tmWgITT0R-8FUwVS87-sEnVzI3LkhOBegxaslEly8FKsBQFPRY0nhnIKP4wAeMvyVOUgrOqBkqIiQgUOm0skG7yM9v9EbWpxFxFodKqp41a6K4E7aBAOR6Mm1CrOckSfYNa7eLILCVDFPtYvk6r-nIFGW401IZZ6wW0uBwHB7hzfnKF4aHuWdqXIjhrpeg6Fg5cRsDASEMc3Trk8trRQyVOlCV_3_GsaFLbkWojR4dKApAybvBUEH6aV2Iwc",
-=======
-   "next_page_token" : "CrQCJQEAAJRgg8P1Z8TM0onYWyYf5ppH5z4d_bf52JrvC8nRuc7vOxwY7_zuUwfAB4i12ImCUpK_crB0cR4lQWRzEbs1btl_FPGTSEXFcvCn2_jZKm3P3E6jmAwLeIJAA8gMKUOKMf3R_ucDrAhSxX3L0SlKxSRkn0VRTTuABADLUA5MoLQgz6nvTVcIrJ-kpOCyKade8K05gZZni3uQsaBSfqE8hJqZX7kbg41UnkFrfIvaJclHhlavvfUOkMHUfB3AgwWvhSCJkIaLTY4xsI-ot7RqD3TK6Rb_NpXuvsQWxdGbl3sV2nxoJmud_Sd7COQMRS87uYv2RgFxTgfwnj9VXLHjt5hO-MzjeupCMCdBoXWUD_u1tk_y_rag-nKF-dFlWKLNC1jxc8YzP-EqgBPH6ld5ZTYSEN5bOqy5pd1JjDLmFoi295saFP9YKmsZfeWFXoor9VgMKgXyYVTb",
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
    "results" : [
       {
          "geometry" : {
             "location" : {
-               "lat" : 26.9371782,
-               "lng" : 75.815206
+               "lat" : 26.448404,
+               "lng" : 74.641982
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 26.93852802989272,
-                  "lng" : 75.81655582989272
+                  "lat" : 26.44975382989272,
+                  "lng" : 74.64333182989272
                },
                "southwest" : {
-                  "lat" : 26.93582837010727,
-                  "lng" : 75.81385617010729
+                  "lat" : 26.44705417010728,
+                  "lng" : 74.64063217010728
                }
             }
          },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "6dd8aa32f1e64c072615571f7b87166775ecbdb2",
-         "name" : "Padao Restaurant",
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e7515cdd7de7158ad495c3278620a633ad9f63ee",
+         "name" : "Ajmer Pushkar Tourism",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/101607136403886959391/photos\"\u003eJitendra Choudhary\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8U4kwYVjz26w6K1wRea23qjJ5OgXCwK0xsovQskVvCVyP7hGnqcwzu5_W0IK5dxE77aSgpiX6hbhc7eWi7n0aED7wcw2zbTvjJGmh0ulxrq3kKnh9glriVlsfnQ7VMQPEhBZgRKnmyAScbcx-KT66MoQGhRVfrrNh7WAkSx13zmx7WYedyGacQ",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJ86EWp9_mazkRpY-9h9sp85U",
+         "rating" : 4.1,
+         "reference" : "CmRbAAAAF6xxrQzDFjXzxYtF3iJKqGU8IeCf4zeVCPlTWfSX5tANvN9LGmC16URx3kY9sZYzynywFk6AQOwEpivulQZGAV4jEXhQiJxk0xqwlFjpI6MvHYz05lSvBS4FaTO--3vVEhAoQXT96EUUGoCdoPTo5wSOGhRAydNNFaQBTqFQ4G68WZ8GdgG1AA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "travel_agency",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Near Ajanta Cinema, Martindal birdge, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.455216,
+               "lng" : 74.6251458
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.45656582989272,
+                  "lng" : 74.62649562989272
+               },
+               "southwest" : {
+                  "lat" : 26.45386617010728,
+                  "lng" : 74.62379597010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "e998b4e5626f9cb6787f7b493b0872a02ff3c08c",
+         "name" : "Dhai Din Ka Jhonpra",
          "opening_hours" : {
             "open_now" : true,
             "weekday_text" : []
          },
          "photos" : [
             {
-               "height" : 720,
+               "height" : 2448,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/100433521190095682199/photos\"\u003e김승주\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110285205541160187508/photos\"\u003enaseem lodhi\u003c/a\u003e"
                ],
-<<<<<<< HEAD
-               "photo_reference" : "CmRaAAAAHeqVROaiTpl0klV-7PDFVDlyfTOgEvwKv_l0NRTTYd1Ak65koxdEetezBG4qp8HomrxlOhxZD-2UKwWykOFfyKvSo44UiG-ebvstKMMrHedZg1-BwgZpWCrrAxh6jwvFEhAByoa2FmnQVYstc83H38g-GhRUIuWJ-pgQA4-AIXvZRlLymr6kgw",
-=======
-               "photo_reference" : "CmRaAAAAVpkXwPxY9K7X62o0yePfzWzADv1dPyniI3FOlEalSH14D7f7EUzEDso9wy6J1rvTYHZJxZEDR3dwbCZwALTkKRhNBibFn9MXUeV3bkwmwQUgKdESk8fJK5Ndt6h39RNhEhBdRMoQoJ8-TgdvNJEIbytgGhR2Q39oMqmDeUFpf0d6URxOlfLi4w",
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
-               "width" : 1280
+               "photo_reference" : "CmRaAAAAsgaUVVv5pQB1e4YWaipl_Tr-RBtt_Lhhob1T5f_nNw_TzfoA4Yo7Z6mO0C-Uf_xxL51v4Xz38p97WeT4ih66cJRozJulplJZUHNb_KEnXTgev85WOHdCjLEfe8m-yeCeEhDuqhThMZKEsF-3sxh9MhY9GhRGwbPk8Oeg3BvXk9gaHDU0gkAg2w",
+               "width" : 3264
             }
          ],
-         "place_id" : "ChIJcaJ_41uxbTkRhJDA6vLQirU",
-         "rating" : 3.9,
-<<<<<<< HEAD
-         "reference" : "CmRbAAAA4z3TahxXXHAHP8SepvpqIELFTi3DKn6P8c8kvAQHWJXmp2tcITIVQDX4PVMyIpK8ar8Hz5RWcxDexQi-0T1gVSLJPrK13H2ltr2ujlX4RCHHTvbBHssHbSg_0fB4kZzbEhAEUao2uuErGNjPT6dTYESiGhTuu6Rpa_KmSaX9zTl-pLnYUtAUXA",
-=======
-         "reference" : "CmRbAAAA5goxn3mURLPHJtiaTXozbiLNcs-rgBUR_tgpqWKnxPpZ8DLcgxUjh7ts3iR3Guydx-5nzmWuLv59puPHZ0uGQE_SSCIVDfZodih7RwXFrWxPTvPB6-NHXMLSzSa0mMJgEhAWflaztv3IFHlS6CLyMLSAGhSfVZe52iOYEyD5cIb4twWPVn7QEQ",
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
+         "place_id" : "ChIJ8-9-KxHnazkRfFR_tBFTvlY",
+         "rating" : 4.2,
+         "reference" : "CmRbAAAAKerH7q0s4hp62f0NdcKawt2LADbbIfLzWg5jdt7A1rAudqpeLpuoacX3WbqsiuIG72XztJYE9l9lyWrKFh90bleJPTV1rYLY-ZTYiwbjnLyTiQ6tFtCb_ib0nT9VkQL2EhCi3hWHpa9yN1T5596yfEhLGhRe9H22O5ZCX9XlGQdQH2XYPvOLmA",
          "scope" : "GOOGLE",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "Nahargarh Road, Nahargarh Fort, Amer, Brahampuri, Jaipur"
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Ander Kote Road, Ajmer"
       },
       {
          "geometry" : {
             "location" : {
-               "lat" : 26.926605,
-               "lng" : 75.824759
+               "lat" : 26.4905459,
+               "lng" : 74.5576916
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 26.92795482989272,
-                  "lng" : 75.82610882989273
+                  "lat" : 26.49189572989272,
+                  "lng" : 74.55904142989272
                },
                "southwest" : {
-                  "lat" : 26.92525517010727,
-                  "lng" : 75.82340917010728
+                  "lat" : 26.48919607010728,
+                  "lng" : 74.55634177010728
                }
             }
          },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "9a6dbf86dc682588d0d6e08032b829506ae2b3f5",
-         "name" : "BARADARI RESTAURANT & BAR",
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "a114af9792e92cacb7fa1c4bb09e6325d017e103",
+         "name" : "Varaha Temple",
+         "photos" : [
+            {
+               "height" : 2304,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115158454694652921276/photos\"\u003eMuskan Singla\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAFa85aQ6p7KpBPyiNFoALNu3tqJ-AEG2cS7hG1TBeaprYNqyHghwmxmKyZGTNKnF5FT8OIqpxcWhqz41xW7IdkWxdxKSkw2C6BtQz5RIlZ0xVwv5sEQtGyLPIKxLoS1iKEhCrxhdVx0G0ny_bRKDjMyv9GhRLhQnz_-dwnUN-VA-gyOhbK1dSKg",
+               "width" : 4096
+            }
+         ],
+         "place_id" : "ChIJk9Ym1CLdazkRTUkKnyDEGeo",
+         "rating" : 4.5,
+         "reference" : "CmRbAAAAA78wDJzLLIjgzAJUC76MQQy00kIrRHYGe-2cc8xP_JdFR7Bd7mpI3B-pdBylswxYnoZ9NztOSRZ84pO9thpRgteDJWFOC-aECUVllMD7nh3a8Ld0Hv3dnXa-XLhwk8WJEhArHWXMmGV0nwJdgWGBgCnjGhQI9Zb5kIrUurWF0WXCkFl_HE5jOA",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Main Market, Pushkar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4644985,
+               "lng" : 74.632018
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.46584832989272,
+                  "lng" : 74.63336782989272
+               },
+               "southwest" : {
+                  "lat" : 26.46314867010727,
+                  "lng" : 74.63066817010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "3717b666ee91bf09be8299d9ecd0005c0f9b726a",
+         "name" : "Digamber Jain Temple",
+         "photos" : [
+            {
+               "height" : 2448,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109784970595060145825/photos\"\u003eaashish jain\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA4Wq47ybm6TeEVyPyO2OeAK4JqlKl-hLOgr2yGvKODmitgT4FVfIti43Yhrh4Mj4nVUCWVHwYnAb742ehc35uUkgoqPyLcYV-zJCrIhggHB_kFzz47Vetw0Hi-DSvi3otEhD3HovrUkjjtTXBccA2E-KzGhSL5fTkM7kbtMmAYiw5sxWDM-__6Q",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJkTRwxjbhazkR6ixjNdvjlds",
+         "rating" : 4.1,
+         "reference" : "CmRbAAAA-wllVGhWRc3fknTkH_sfeA-gTIXb7RZJpQwKLoAQ-zJ8irpXfS4jXK-Wl-LimyGW553RiUYSV2FJTTHxbrFhPBZjcYq9N72bot9J8GwgF6OTennm22Jx2S1ijfxFsWGlEhDfspJn5Alg59_r9pqkL_hmGhQhhmi4z_xzp1zADXNpe4xDwUQUDA",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Adarsh Nagar, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4749032,
+               "lng" : 74.5399484
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.47625302989272,
+                  "lng" : 74.54129822989272
+               },
+               "southwest" : {
+                  "lat" : 26.47355337010728,
+                  "lng" : 74.53859857010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "c8bc651d7649338f6ea3bb63b1953900176cb4ea",
+         "name" : "Savitri Mata Temple",
+         "photos" : [
+            {
+               "height" : 3456,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/105685297412761199035/photos\"\u003evilas patra\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAASaNZW4-eJzZL-8tziqUv1pMbbRccFjlFDSD1ep6tX_LEcr70YCvQmsSSBJh4piwQ5UDL32Q1BMwuHahkD1d97LBs_mpy4F6zbBygefxwgr1yRZyLxWV6vJADyB3W3IEOEhCbAUTl2HchhFzaQAAnP8uyGhR_BR0W-M__rR6577a0pDmcSec7kQ",
+               "width" : 4608
+            }
+         ],
+         "place_id" : "ChIJdaPYClXcazkRFBDCPvmKpWQ",
+         "rating" : 4.5,
+         "reference" : "CmRbAAAA6jnkg9SpW228kviP0-AN6qmrFDIkwmaFFuIetgXNw-lbTvcKVY-KWACOzFSYEv85Me1tq0ThoSGSe5gZV7uHV7BfOLhXKgCjwkoIIOLEbNO-5YFVi1jUeaW-rXSGuSO0EhAZa70407Wo_scRj5IQwUBqGhTqjkQnAWPc_Wu0OChQDk8vHZn6pQ",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Kharekhari Road, Pushkar, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.487857,
+               "lng" : 74.563643
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.48920682989272,
+                  "lng" : 74.56499282989272
+               },
+               "southwest" : {
+                  "lat" : 26.48650717010727,
+                  "lng" : 74.56229317010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "9e7cf4a472922f206a936e9d5ad689fd726a1518",
+         "name" : "Pushkar Sightseeing Tour",
          "opening_hours" : {
             "open_now" : true,
             "weekday_text" : []
          },
          "photos" : [
             {
-               "height" : 1122,
+               "height" : 4160,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/111789618880247957688/photos\"\u003eA Google User\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/107849124272853251759/photos\"\u003eShankar Lal\u003c/a\u003e"
                ],
-<<<<<<< HEAD
-               "photo_reference" : "CmRaAAAAzRs7mgHwGP2-5IxeFXVEyVByKKy_6bo6LGbvNYRGEoL3XwvxGhw40RJ3u9ZUPBZTtyjKn55BEy4y9J7MYF92eQhl46LvzS_RvaWlAWI6bVeMT_tcie1gv8XTkLXeM_GLEhDLJNQcLacvK70b8qy962E-GhRmZCbN5U6IumlZ8vsEZIZWdo70Kg",
-               "width" : 886
+               "photo_reference" : "CmRaAAAAyrSpcr3MFysZLyKvVuWXxdSWTGywWk_C98NfTdLvoOIBsd1gqISxBohGG9T9jUyBRF8R7phUlZf9rh3OHSLnCBYcNJZqznkiIPf5ATm8grBxdSou2toFzU3b30XuR626EhAHmBW3MlwAYcGbJelebw1HGhTWJmX5dn5Kg7Kov5b3AD240CDI1Q",
+               "width" : 3120
             }
          ],
-         "place_id" : "ChIJw81-jPizbTkR5jfGF2P61w0",
-         "rating" : 3.7,
-         "reference" : "CmRbAAAAy27DACHzkRrdB25Vv0b6-s6U5wk1XGrTu26QuY0SSVm98ow0toNslDAhyeDZTRp1jwsd8tYv7PGeDKJZUBTd-z9EbiERf_bRANcDvHWn03oRzpBPdkXS_sYbioQQA_dTEhAHf8X9F2c0h-NInyte86AHGhQKBO9-i6l_csIhOuySJFwUcp3TQg",
-=======
-               "photo_reference" : "CmRaAAAAtujeryLkaF5WpSTPDlpunXkRBE0xnlmpWRiLL30wn5Rf4JPQ5kq2PV3nrHoGyGF3hpuUzKckLKw78Pur-xiRoC_Wq68cKAlUjtX-EH9YXkgxsI99n8Vv80cSyXCXfXwyEhAOtLTKYCAZYNiEvpSkgUnbGhQIisLPEnW0GHaSTlb7Pt-CAO2hTw",
-               "width" : 2804
-            }
-         ],
-         "place_id" : "ChIJX2qJV0yxbTkRbzau5wY5XRI",
-         "rating" : 3.8,
-         "reference" : "CmRbAAAAelENWJwYWOUbNac1np9pJz5kFfyIRC34zraz-hG3RXGi5zNbj9_Vo0bDAXCzrGWD8YF2c-gtbBOpdOmcQ6-ro0Q3p-J8SkYbSo51SHXMSZsdMmtB4l8u7pWB6SvzXR_fEhBAa2Z5SGLh8XTdamY-q3ZdGhSRKNarEcVxW5D_KYiHueJf_Hl9YA",
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
+         "place_id" : "ChIJS44gBhbdazkRY2lxhcOV0WE",
+         "rating" : 4.8,
+         "reference" : "CmRbAAAAEqasBG4k4gP7te59OSTzgMwnksCUqPEeIjQ6JqHyCq-GbeXZi4ochYQD_VKR_P_I0TiP4WCttD-BTc8c8qkMD2cYg3Pekx116mtWdG0jWbb1Oz0aZFaYtGAIDQo7Oty7EhDDO9LyYRgOsM_b1sTIlrzOGhTaBZOLM7pa4zTI7sB-7u6kQ8SEKQ",
          "scope" : "GOOGLE",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "Jaleb Chowk, Near Gate No 2, City Palace, Jaipur"
+         "types" : [ "travel_agency", "point_of_interest", "establishment" ],
+         "vicinity" : "S.No-5, Naukhandiya Balaji, Ajmer Road, Pushkar"
       },
       {
          "geometry" : {
             "location" : {
-               "lat" : 26.94804,
-               "lng" : 75.7217441
+               "lat" : 26.4852867,
+               "lng" : 74.5392233
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 26.94927552989272,
-                  "lng" : 75.72306472989273
+                  "lat" : 26.48663652989272,
+                  "lng" : 74.54057312989273
                },
                "southwest" : {
-                  "lat" : 26.94657587010728,
-                  "lng" : 75.72036507010728
+                  "lat" : 26.48393687010728,
+                  "lng" : 74.53787347010729
                }
             }
          },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "f7c9d1bd14a62e27a9e4c8b86f19a8f0ad82aa15",
-         "name" : "The palm Restaurant",
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/shopping-71.png",
+         "id" : "69057b245ee9fe0b36b9c2b3db35f6d4c40b763b",
+         "name" : "Sand Dunes Pushkar Tourist Places",
+         "place_id" : "ChIJexzlXOfcazkRuDvEEc-fxRw",
+         "rating" : 4.5,
+         "reference" : "CmRbAAAAHuxOa_EYw_HWenn3e1PH9OgDZyOgTgolXtr3maDUFbIThiPfeD6K4Gdj4XUAYDyu6ki34i63ejLNfPCVaBPaSK9WwlhEo4zDLVUqt6DS8BL-dceMO23xhJIXjPYwc4CEEhDo2Sj5kTKqx3HzF2WyhAJfGhRjp-prWJgdGtC-zeW2wx4TzA_GfQ",
+         "scope" : "GOOGLE",
+         "types" : [ "shopping_mall", "point_of_interest", "establishment" ],
+         "vicinity" : "Pushkar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4569134,
+               "lng" : 74.6277817
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.45834307989272,
+                  "lng" : 74.62912307989272
+               },
+               "southwest" : {
+                  "lat" : 26.45564342010728,
+                  "lng" : 74.62642342010727
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_islam-71.png",
+         "id" : "07d938b1b86b7879fd1c5cbaa089cf04a534e11e",
+         "name" : "Akbari Masjid",
          "opening_hours" : {
             "open_now" : true,
             "weekday_text" : []
          },
+         "photos" : [
+            {
+               "height" : 1836,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108231377838516892544/photos\"\u003eIqbal Ansari\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_s5fiYmPPZAOL4XUIMq5fbuUwVvAb9PIK5yDXYJMrOnh5ePIr0eYPI0kzcg8JAUpBctYSKDsfLnQIO-3wuMALQw0AuzrCNwLbuNkNe6ZBbWhIF3dYTC7i0_YszipvV_bEhDvzD4liL6RYIk18dPl43FEGhTzzM5NdZqo3N_KMAprZsaRl33Ytg",
+               "width" : 3264
+            }
+         ],
+         "place_id" : "ChIJf60emBDnazkRJ4G2wDCvK00",
+         "rating" : 4.4,
+         "reference" : "CmRbAAAALUu6ITYv7fS3tJXEE3nvuYYLN9G-SadjLpnXEwDz0SJrY_QUw3d7IMD7lK_0lrOqhs8QFDLRn6aLJJKu58zW1one5n26vYotGW_m78x9s4VAbnp6cxGgGLHK-8cAHRvmEhAcaKR4M5ow6OSjHCGz34I4GhT7SwWyZALDebIz__r-OOinAfzioA",
+         "scope" : "GOOGLE",
+         "types" : [ "mosque", "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Ander Kote Rd, Khadim Mohalla, Diggi Bazaar, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.456118,
+               "lng" : 74.6282011
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.45746782989272,
+                  "lng" : 74.62955092989272
+               },
+               "southwest" : {
+                  "lat" : 26.45476817010728,
+                  "lng" : 74.62685127010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d10c64b04ebc276207c8d206c6cf5267061943cb",
+         "name" : "Khawaja Gharib Nawaz Ajmer Urs 2018",
+         "photos" : [
+            {
+               "height" : 400,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/108420439029792133578/photos\"\u003eAMIR IHSAN\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA_Vhvd2c2oJ7gQ41Aj0s5aS4VWhkj89-0RyY6cXMcRlJWSxW_stysqWWYenQ3FyhoIX0G7_C7cEhvrMrebnDPRj7fGRAttHlfH-3lyGM5UaFWReEu_3t1DvDwksuOnyCpEhCL-v-mId8fGk9H6ljXj-tOGhQTuRGXcSDg5ZUQz3--vdcWYkdxlg",
+               "width" : 604
+            }
+         ],
+         "place_id" : "ChIJGV0pphDnazkRO5ANkwKf2hc",
+         "rating" : 4.4,
+         "reference" : "CmRbAAAATXKjIIbmRuK0ZWYQqc5N_iM8WeZql73N_pbwarvz1Cp4ZBTOhZl5SURjEPF-fq-F6SCbFCsozLwUY5EiTvgUA0M6g5d7naZp5RT49Lt5QKlLSgiRfHns-raYW8KkoPT6EhDBwDVztmDATtXGhi16Q5diGhRM2FOv4rkqDqP4T3q98uFSW43f8w",
+         "scope" : "GOOGLE",
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "111, Faiz Manzil, Nathwan Shah, Dargah Sharif, Khadim Mohalla, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4902141,
+               "lng" : 74.5549527
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.49156392989272,
+                  "lng" : 74.55630252989273
+               },
+               "southwest" : {
+                  "lat" : 26.48886427010728,
+                  "lng" : 74.55360287010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "1bbdd2a5f0c466044faa376fdd66d5f1a4051d0a",
+         "name" : "Sri Raghunatha Swamy Temple",
+         "photos" : [
+            {
+               "height" : 4032,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/109112731951632722265/photos\"\u003eयालिं ग्वो\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA8d5WpSeAqmVYkN1W3wTja3EHzbKOyG6d9mNk74LG_aeoH8eosRc3RDQifjerxxxK7qCyHxeU7Ht5gnW_shmnXgJJ83t1DKXTlUgFs5_hvh0_e0r0XN4jd6ePKtmJqiBOEhAJNNvecj3Rldnv6OrMJVQRGhQBuKHddO025kkh4H_qGuBDOFu2cA",
+               "width" : 2690
+            }
+         ],
+         "place_id" : "ChIJ3xfKVSLdazkRfgICueuFwtQ",
+         "rating" : 4.3,
+         "reference" : "CmRbAAAARHCLMZcnsBG2WpvfBjdrXOKm1t-RltO6TpFBSv-FdMX8Swx_0TqUtpjpyD1UHaw7YdW7qNlxGpVt1SXUIOUjDTo1pmWTeYkwtesYDKzvRaZAm3mHGS_5FYvL7LpT84wpEhDy5hHTTqHOK2xt0x1-vFEXGhThYfxhNzUhaF8UwbiArnd7YlLqRg",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Pushkar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4873591,
+               "lng" : 74.5488297
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.48870892989272,
+                  "lng" : 74.55017952989273
+               },
+               "southwest" : {
+                  "lat" : 26.48600927010728,
+                  "lng" : 74.54747987010728
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_hindu-71.png",
+         "id" : "228357d52c2dffc4f44185c9b1d559c759ad185a",
+         "name" : "Brahmaji Temple",
+         "photos" : [
+            {
+               "height" : 334,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/100160629484392217430/photos\"\u003esiddharth mishra\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAGYHIpKaw74kemThECRbg7KgEX89LjP0f7Vj0N6Yaa-jKdYnWmpKglnm9-EPqIIoEhJIzNevMAzuw2DxmiMMytYDUJR42QMyH5cibii66Y1VVQ4FfXY2FeUnJkAr0DT_yEhB-JgH3G55vVDjLc7WJ5TcyGhQUKwM0zO4kRQatRAqbqlfx0VoP0g",
+               "width" : 500
+            }
+         ],
+         "place_id" : "ChIJ2fC6LiDdazkREIevIjlWJoU",
+         "rating" : 4.5,
+         "reference" : "CmRbAAAArXOfTgQl5hzb68i6Qu7d2RUPR_Y1cRa2o3oEQcenOSUHQ9BMcKyOlQxTWegh6p9EO2UrPs2qcAynXUpT3glpU3NfR_yEnxHOUmeois1m1s9iDJilKzBstC8CnGbcbxzIEhCtRPenBRiNoAUC_E9tl8ZjGhSs6RXhqYJO-CZx7WvBwLP-W5tw2Q",
+         "scope" : "GOOGLE",
+         "types" : [
+            "hindu_temple",
+            "place_of_worship",
+            "point_of_interest",
+            "establishment"
+         ],
+         "vicinity" : "Brahma Temple Road, Ganahera, Pushkar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4930833,
+               "lng" : 74.60275229999999
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.49443312989272,
+                  "lng" : 74.60410212989271
+               },
+               "southwest" : {
+                  "lat" : 26.49173347010728,
+                  "lng" : 74.60140247010726
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "b7fbc0b176e90692c853a8857adeb3e221e55487",
+         "name" : "Laser Show Maharana Pratap & Chetak Smarak",
+         "opening_hours" : {
+            "open_now" : false,
+            "weekday_text" : []
+         },
+         "photos" : [
+            {
+               "height" : 1080,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/111506716728582092747/photos\"\u003eMahaveer Suthar\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAAusms_iojb-uVA5vNRDwDEehobqFeS62N0KfbfKoYyk29lk6kJaOtMnT00hYIpPolnS85Pp6uMOTDHWb2OgCBuz5T-BHUXABRNTZT4n5gFnmZcb0V2qfuW_4HE82YeaikEhAo8ejhzU_SkmGNFT0btQ-AGhS65fh5Gqb6vdC9qzIFN_HBCt-9tw",
+               "width" : 1920
+            }
+         ],
+         "place_id" : "ChIJH3M_zfLnazkRxRJJcESBoPs",
+         "rating" : 4.3,
+         "reference" : "CmRbAAAAcjdhvvMlTK_kaYCU2DvWC1X70oBiv9GuGusA7ttmL_tZd21BoRTMrmnnVhf83dyESOeK54hXgp4U9Sq2gs78MAi-TTIEQ2xRcdujI-8zo7L9XFSv5qQY1vFLxEtYaWC6EhC0bpOt7DtRdquNyEyeBTznGhQfyc0BYm5XNN5migrTVA40GPdiyw",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "301, Pushkar Road, Near Haribhau Upadhyay Nagar Extension, Nosar Ghati, Ajmer"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4740881,
+               "lng" : 74.5453852
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.47544782989272,
+                  "lng" : 74.54664942989272
+               },
+               "southwest" : {
+                  "lat" : 26.47274817010728,
+                  "lng" : 74.54394977010729
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d1850b414e9a43ef14b4d9210cf130278ed13ac1",
+         "name" : "Bagdawat Ki Bawdi",
+         "photos" : [
+            {
+               "height" : 2322,
+               "html_attributions" : [
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/115272698665602779642/photos\"\u003eDinesh Rayta\u003c/a\u003e"
+               ],
+               "photo_reference" : "CmRaAAAA46oVWiPQWKOdHFPhq1vI_gn3ZIXqIFqEmV1NF3k92GUJ8sA40Rmt2sUza73T6G8wfDch-0t74-y1hGzw1IPO2HjIrgQmhEQ632z40nrwc18LOvCPZl0Y1ghXuiZVHEOLEhAQ-HrkacWjp8RBd5iwL5tKGhR4rU8c1VKieMrU_6pA0rhtwupM3w",
+               "width" : 4128
+            }
+         ],
+         "place_id" : "ChIJvxNcRP3cazkRTbi4VUeiSbk",
+         "rating" : 3.4,
+         "reference" : "CmRbAAAAGmcnFM3L_dqm588k9I9BusjNoEPr6uNWc4o3QO43Agn7Z0aYG1dGsW9IwZM7XlVII3ZZEB25wvnjhKPyKXk5Oe3RbRFkE7EDqXK6FE2Td9CcH8NaKmR3Un6vbbWtVqzUEhA99an3syJ3lO-1nKBhM2ZnGhSYEa-waXAx3mOg_dI2yYjpN69g7w",
+         "scope" : "GOOGLE",
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Kharekhari Rd, Pushkar"
+      },
+      {
+         "geometry" : {
+            "location" : {
+               "lat" : 26.4592556,
+               "lng" : 74.70353
+            },
+            "viewport" : {
+               "northeast" : {
+                  "lat" : 26.46046777989272,
+                  "lng" : 74.70811325000001
+               },
+               "southwest" : {
+                  "lat" : 26.45776812010728,
+                  "lng" : 74.70200224999999
+               }
+            }
+         },
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/worship_general-71.png",
+         "id" : "17ff28cb8c564d8e0d0b54f6e0c7134118a1954a",
+         "name" : "Nareli Digamber Jain Temple",
          "photos" : [
             {
                "height" : 3024,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/101156411378477181828/photos\"\u003eManoj Yadav\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/102592056362320885612/photos\"\u003eKaroliya King\u003c/a\u003e"
                ],
-<<<<<<< HEAD
-               "photo_reference" : "CmRaAAAAAgEaJBOOrRcw7hlnJQQgr-_Y6QfqNhxqDBt7z-0P2jqUa56UgvUhMLfNsuM6gllA4fL-b3SbRiWMt7yt6FMyRoyRan4p5HAeFJINKYn3v-243XGZQ2gnqoqEvdlOp_-3EhCCj3NZTJ1WjoLMIFrrq8iHGhRcTmUZAxlwniGZPS7mg-vod6-9WA",
-               "width" : 1000
-            }
-         ],
-         "place_id" : "ChIJp3ZBtfizbTkRNZoC7irMZLM",
-         "rating" : 3.5,
-         "reference" : "CmRbAAAAv3q_UoNkhYI99hIr3WcWCmg3Nqn2nVX6t6gIdeBguvhwjbx4K741pqrkPIiGKJTYaNvyYNuh8xbwLO9yJzyqQwO0n9W679e6fDe0bTMAWuUuh30yV39jUeCH_ellu8upEhAbwveuZr7oL2gQgXI24KNEGhSxJa0uO1rNKqO4etXO0LsgEVCPIw",
-=======
-               "photo_reference" : "CmRaAAAAJNRudHMvyozJWtzAkSrz9avcGDYUb0Nm9yXeldn-ky5UX1X8PLtxscekELFoi8BgVnYSlPEFozHpIJYcTHgBiPK2TResK-9_L6gazcLuWk2ZUyiWqVjieXcPwn5ChNBMEhD7BvzkGx0CyWpbbxQxDSgyGhT65c7zCA_dW_NGvpK_dK3gOwKkQw",
+               "photo_reference" : "CmRaAAAA1MkPdNeFQziSBhK09aoh-hnItGRsGP4n-Yti69Zn9VGg5Ow0sY46FftXlZYgLnFcHqauu-5G6DbYnbiu3ed1lz99Jgr8ZBOeeeCaI-DHqyzHpWeH8evwIF3sXoeIt-ToEhD8hXqWgPVYr7tJG2m-Yp0TGhR7fKcrEYCh8A1MRmme4RcPboDurQ",
                "width" : 4032
             }
          ],
-         "place_id" : "ChIJqzTmWi6zbTkRRKqRpinQ764",
-         "rating" : 4.3,
-         "reference" : "CmRbAAAAD8TDwGjQxFq_G3x3qGKwIuvHtWngMXD1iIK9Up4BlRl0cNGJ_E6Vs3rYSmPdZw1iMl9qI99OQXphTGYH-mUzpuKzzSb21d6GLiDtnRk_66x8Z7hrSQ40Pm5ehAjKZ7tyEhCh2jHCUjZPlMmr9muYNluiGhSBLgs27lEHZ_SOFuwA5Rp-5RmVQg",
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
+         "place_id" : "ChIJR11D7z3kazkRjFBu53k5MT8",
+         "rating" : 4.6,
+         "reference" : "CmRbAAAAp3S80ZKu5BrbxS2pSjoKReehZHwfl5tLwMOrolMBXLVZYpBTDtvxEHZGLl6hIelYRBfyQeQMxtYIfSxtfisyklSlhe0JSHYX00RNAeqCbOHM6pLikW_N4EAOauuOyxRwEhDdZeJGRrEt4qc6cl2FcT9kGhRuLE73jFaG26DhupQ1Tn2M67c_tQ",
          "scope" : "GOOGLE",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "212 S,Sunder Vihar Near Ravan Gate, Kalwar Rd, Gokulpura, Jaipur"
+         "types" : [ "place_of_worship", "point_of_interest", "establishment" ],
+         "vicinity" : "Nareli, Ajmer"
       },
       {
          "geometry" : {
             "location" : {
-<<<<<<< HEAD
-=======
-               "lat" : 26.8952572,
-               "lng" : 75.83019659999999
+               "lat" : 26.4566637,
+               "lng" : 74.62797379999999
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 26.89660702989272,
-                  "lng" : 75.83154642989271
+                  "lat" : 26.45801352989273,
+                  "lng" : 74.62932362989272
                },
                "southwest" : {
-                  "lat" : 26.89390737010728,
-                  "lng" : 75.82884677010726
+                  "lat" : 26.45531387010729,
+                  "lng" : 74.62662397010727
                }
             }
          },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "be00af6e63e8277f5ddec98380b572034f47b3db",
-         "name" : "Seb's Restaurant",
-         "opening_hours" : {
-            "open_now" : false,
-            "weekday_text" : []
-         },
-         "photos" : [
-            {
-               "height" : 2202,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/118159338381021707492/photos\"\u003eSiddharth Chhajer\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAx2Ykpg6t99sdPKUpZpnMr-t-y1ebubZCcDBLYggUkMbGWzCMMmG7_tN7KsHlDu8wMQ2Bg0ZlS6t3v2vsVHVVuMSDFsNURl_kJYzzRPgojdL6SEAEhHWn_fAG1UGJWcWyEhDnhf_EIHX04rqOEFTsM5m5GhQ-GfZX4LiDTegjNt88HDHKqibR8A",
-               "width" : 2271
-            }
-         ],
-         "place_id" : "ChIJG2BFS-u2bTkRXtbeNoexzzY",
-         "rating" : 3,
-         "reference" : "CmRbAAAA5zTYBwtPOY1RgYckO4VZLmaadW1RioH-PK1JQIjSIqeqhlbCWn7Dk8-pY52fVgfUadZw0KxqB2xET7MZtm3HZ-xLHzfQTfqhFOEGRXZ-VfVwSSmx5NQvB7hky92RZVFCEhAJCFq1Wn2_kGnBz0Q2NeLIGhTiKwvz7hxIOXBX4mLL3A8_nhCp2g",
-         "scope" : "GOOGLE",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "18-19, Panchwati Circle, Raja Park, Jaipur"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 26.9206612,
-               "lng" : 75.8010281
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.92207177989272,
-                  "lng" : 75.80248802989271
-               },
-               "southwest" : {
-                  "lat" : 26.91937212010728,
-                  "lng" : 75.79978837010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "da6c429ae9f15e22f349f57b03aebeed15a3c035",
-         "name" : "Kaveri - A pure vegetarian restaurant",
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "ee5338876ce7feeb85e76f3b2289d66c8fe38ef2",
+         "name" : "Choti Dage ajmer dargah",
          "opening_hours" : {
             "open_now" : true,
             "weekday_text" : []
          },
          "photos" : [
             {
-               "height" : 456,
+               "height" : 576,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/117501388220428615281/photos\"\u003eKaveri - A pure vegetarian restaurant\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/112684428106637529564/photos\"\u003eMohdraza Noori\u003c/a\u003e"
                ],
-               "photo_reference" : "CmRaAAAA6nQwxZ1R45Deo2kMEiR4jXUFlGHCIm2voGnzfEj8j6jD22y3WZFCBt1sS_CqPuqc0W_aw2092aut5EF4v9UtHafg_f_tw0KB_rldkGTtH6NVo6fdeAHdkcLu5EAHpnzYEhDCpv7RB2oGA6TSAlO69Nt_GhQzjOdyVaTimMK9-dxrYnMvLEQLjg",
-               "width" : 1000
+               "photo_reference" : "CmRaAAAAs6qSLbETYXoMwg190ywo85HibX1O00lV-RXwhLe4dFLW2jRMb1LCG2KmsVghDEl1iOEhEqCoKHK234XUb5IHaEkxBINOS2uEosRKcOA-Z7h5mgX3dAU5R5cwmXEay_mqEhBevlDD47WtpAWdlK_ODUgMGhRqkoF816W322nJNqJyb-YLd2c03A",
+               "width" : 1024
             }
          ],
-         "place_id" : "ChIJp3ZBtfizbTkRNZoC7irMZLM",
-         "rating" : 3.5,
-         "reference" : "CmRbAAAAWhqHveyzAwAIZl5ua43MU3Z1VlnntfHwdfhWnDaqsrRRBRl9ZALawd7WfUsV_h-tKfAe2IcpMPhQMRcbpP34qxiZsD6LumlIGPH6fm5PXtnUu21k8yHGS1YvHlmUqZkyEhDw6j2F8UajnT0oc185yxlDGhTsqRfEsDRvqQgd6pWasWSseLYQ1A",
+         "place_id" : "ChIJoT5_oBDnazkRh6T-4PvXn0o",
+         "rating" : 4.6,
+         "reference" : "CmRbAAAAmfPAsnQuYC1WkInRtptbfv4U3Oki1Az5xGn_BhXPlt7vD2CoI6jsjEP6lg4i8a8MX-V7tBRcfNLR8Rwxc5zXXUWBZCGY7ATmpxVkNvUOFVgl9exaMDGngySrvj-sWbG6EhAubxX6aI9-lfBc_8YOloFXGhSF_LT8r8LUH4TmeaR2XvJC5cgBDA",
          "scope" : "GOOGLE",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "17, Vanasthali Marg, Lalpura Colony, Sindhi Camp, Jaipur"
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Aftab Manzil, TB-75, Diggi Bazaar, Ajmer"
       },
       {
          "geometry" : {
             "location" : {
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
-               "lat" : 26.9480846,
-               "lng" : 75.8404231
+               "lat" : 26.4622274,
+               "lng" : 74.6277509
             },
             "viewport" : {
                "northeast" : {
-                  "lat" : 26.94943442989272,
-                  "lng" : 75.84177292989271
+                  "lat" : 26.46357722989272,
+                  "lng" : 74.62910072989271
                },
                "southwest" : {
-                  "lat" : 26.94673477010727,
-                  "lng" : 75.83907327010728
+                  "lat" : 26.46087757010728,
+                  "lng" : 74.62640107010726
                }
             }
          },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "0e48a89f8b8f25a5e1b8ecaf36ccb77ee794314f",
-         "name" : "Namaste Rajasthan Restaurent",
+         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/generic_business-71.png",
+         "id" : "d3c14e12813dec67c846109bc5165ca7182550df",
+         "name" : "Delhi Gate",
          "opening_hours" : {
             "open_now" : true,
             "weekday_text" : []
          },
          "photos" : [
             {
-               "height" : 3000,
+               "height" : 4000,
                "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/116001649640494961377/photos\"\u003eAbhiesh Thakur\u003c/a\u003e"
+                  "\u003ca href=\"https://maps.google.com/maps/contrib/110558106782145789810/photos\"\u003eNizam Barbil\u003c/a\u003e"
                ],
-<<<<<<< HEAD
-               "photo_reference" : "CmRaAAAA6ZDZWz9tCXVdoSm-nTm6-WQFsnAnKYzv2q_IJYj5VQUAvJ3VyJXayruCBnj-6D6-Zf1V6NzlzE1DxlK-MuXSEAmwzqt7NCqMPmlgTora61F8LcDUnNVPmsFL84zlgldlEhBBm4BBzCuujNgfuHERVsMYGhQcVmAa9xn1dVFeAzDMDitI8sj71g",
-=======
-               "photo_reference" : "CmRaAAAAcGVaFxuRA5xCspbytr-VH3zxiIVysCb0OtH6Vs2NuC2AXod8MWi4VFNkyg683qpVk0RoY9zovEufN_62bmoYJjZ0RMfaaiAFbZydtyqaFcxxJ1ks76mB6fcVRyfwwrHLEhDcl4Xxok8Sq899TcTa9goNGhSgdWXciXtACsWjVr68fO2UumwMgw",
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
-               "width" : 4000
+               "photo_reference" : "CmRaAAAA9Lc-XcLunT1mUlkBn1ME0_fIhyqnWkYMPZAZYWa1YtYX8VqZ58czofOD-DY-KxucX59Kz8U7Vr4h6D5hv4ZzozUFxqmvMQfHaPDXoywRQjhvhvgYLugi9pLG-uiV3XIqEhA8lYuMluzJjgKOpdnMzGydGhQVxBiIWEg8PQgTYk9pYzv5UrJM6g",
+               "width" : 3000
             }
          ],
-         "place_id" : "ChIJ7R_G6RexbTkRfZyxKcvlmtA",
-         "rating" : 3.5,
-<<<<<<< HEAD
-         "reference" : "CmRbAAAAIbQEonVHQfxXJct-hMwFaIbQQNd7o53m-Dd_1EwK1gpONjGYHRSeyWNw6DdmQro0UYzcLK-nVZdfxCMSLrwgVnN6k51FdbtbEKx4UjHvi7NHLCTrtSbOTphVQU5cmkdNEhB5DZxYtpAEDB43mcQtPJx9GhQ1VhZq5Cz9Y_B56DOZNh8_q0gzwQ",
-=======
-         "reference" : "CmRbAAAAZ_ygGqXjS5V6D7DjSffXgHW3KNWGWCGzQ1_CX9EsjjgFq7XkQ9K8Bq3OjgsSfvVmkbAuL8Oa0KLaJOEZERoqPvxszEqa4I6SMmSEeBoCvLjHwh1kSEHt9qMahx6AdFCHEhDJa_5uPr8VMZ0SjGdGlIfYGhRp1eUQs9TKlo_xQhepWAyYS6HteQ",
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
-         "scope" : "GOOGLE",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "Ploat No. 1, Govind Puri (West ), Near Ramgarh Mod, Amer Road, Jaipur"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 26.9050291,
-               "lng" : 75.74671720000001
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.90637892989272,
-                  "lng" : 75.74806702989272
-               },
-               "southwest" : {
-                  "lat" : 26.90367927010728,
-                  "lng" : 75.74536737010727
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "ab5a7299182f4fc00fc9d3e511787532d0f04fcb",
-         "name" : "Rajputana's Restaurant",
-         "opening_hours" : {
-            "open_now" : false,
-            "weekday_text" : []
-         },
-         "photos" : [
-            {
-               "height" : 581,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/115644796842522521939/photos\"\u003eRajputana&#39;s Restaurant\u003c/a\u003e"
-               ],
-<<<<<<< HEAD
-               "photo_reference" : "CmRaAAAAB0s_j8RMteLmUfL_JQ_AMYLV_L8fSnsZGwSYhJnhTlaJGm8K-8iujoOdlFNgiAI8EvjfORtLCJfHYb_0XZJrQQt9Oo2UgkB0SF-enUVALi0QUptRWhvF3BFCl9Q9Y9IdEhAhPTMBbGFhmEeqOdCJV41XGhQ-UYQQ6wLK1726ZNOESR_4vpbSZQ",
-=======
-               "photo_reference" : "CmRaAAAAYwXdoYlP7CSquVM4dF7EhbjcGi76uVyXJEr2BeAud-eabs_GCgle9dzkF0hSZ_0LTcOPDAyyTwsxu5Zc_82SG2RM4Ftz5-5AOCjgs9fwcEP8xO_-zxIkAyPcwB6dVfiGEhBY2NB6d0Ri71K1Pc5qSILdGhRintvBF9RYlpRy04kruIxZ_LT9BA",
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
-               "width" : 1032
-            }
-         ],
-         "place_id" : "ChIJJX-N45q0bTkRqp6mR9nR7fI",
-         "rating" : 3.3,
-<<<<<<< HEAD
-         "reference" : "CmRbAAAALKqnk1R9nZjcMFBYMc1xVZ0t1vHWBlAtLmiYm0ZQTtYcgjRc-Syz8xPIEq_QJahYyaSxXZ-cNfYpg25Z94uQO6LBYsTcDlGzv12IoNJxzMaEylFRTol0hciI098yF-cKEhC_mXKgue_ClA-0m3K6sDlwGhQodrYQ5SNjuSNNLb6Cyy3OdJT3pQ",
-=======
-         "reference" : "CmRbAAAAILvC7vISBecKnm4WNz7sngaHdPcqPiqUHonCvOmYmbI5yIlLm-FmYrPx62f3ztFCr4gar8Q72wfcCP0Ozmm1hCGArUDl2hezKnBJAzW8RVvUQaEi5qys97XSZKm3eDQTEhDMkZLx0LsSwRhRZzqHoMpJGhR6rMf292wGgDRD1Ck4ULxpMo08Lg",
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
-         "scope" : "GOOGLE",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "Lane no 12,Gandhi path Near Style n Scissors , Vaishali nagar, Jaipur"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 26.92902,
-               "lng" : 75.8326
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.93036982989272,
-                  "lng" : 75.83394982989273
-               },
-               "southwest" : {
-                  "lat" : 26.92767017010728,
-                  "lng" : 75.83125017010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "3350374c1d7c17a46147aaffbb033771717a8293",
-         "name" : "Kanhaiya Restaurant",
-         "place_id" : "ChIJWeo1ezaxbTkRL39QrrQSLcc",
-<<<<<<< HEAD
-         "reference" : "CmRbAAAAkvAMokEghuGSOxI7JQtIhg4GXjQBPyW6adtF3ibtksATcwYZVLfNSYuayLXOrQD5oWH079uoUEqsVSf-8xfR4f5VRKftFnaXq7zzsL9J1iDESqLK-YZKPVnfj1xx7rAOEhBncV28OFIT4YO0_G6NDIBRGhQNyWD53eEhyqKXb_1Bwk4WhZeG4A",
-=======
-         "reference" : "CmRbAAAACiFXJXPqbX46y8SbpgnUhpAuVIxH5n5IhJ8t6Q5D6lIH_v0nPUq5TolEe4v6BlvFVYjjz70NU97sPA4SmIa3G5eRMkf2cQ8lhBCSm7CqVvXcDPgKGC6b-Wxsy74niU2pEhALkR2pcz2l7oRTifzAgd3IGhTvzt4xWWUpchokh5HnUnIaHChOFw",
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
-         "scope" : "GOOGLE",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "Moti Katla Market, Moti Katla Market, Main Road, Subhash Chowk, Jaipur"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 26.91576,
-               "lng" : 75.82409000000001
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.91710982989272,
-                  "lng" : 75.82543982989273
-               },
-               "southwest" : {
-                  "lat" : 26.91441017010728,
-                  "lng" : 75.82274017010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "6b48d21b9ff0fba4bbd4ad8b765d9e6fa2b23eeb",
-         "name" : "Xing Restaurant",
-         "place_id" : "ChIJXW20VbG2bTkRrNSQKs5i4ws",
-<<<<<<< HEAD
-         "reference" : "CmRbAAAAgiToHSjT-uGeKKRdxCgScgTbO8wZCO05CVhAXeB49Rzhw8PWSDbTUFrEqj2xZF3HDbuUcknParfI-Jhqf0bUO91mgDmylJEUSF-tAY5OfkFE94bcUTCh5XfBroJYeDQvEhDu6PqhSFimemF4qKtPK8j3GhSb2V2_mMg9DxVZKg9SJeyS9TLWuA",
-=======
-         "reference" : "CmRbAAAAbuJPx2jIYziV_RDGc7trleLMwoSxVhV8kpkwjNEjNyH6tQHCk-skHAIZUBJ_FF9cvrhyXNbu25xiGVI0mcWLzZ5Jjd2xL6x_te3KmsCMRFzP00kAB6eoDyHVpym25H8zEhCsIbXre-gECFrxbchK2jK6GhR0T1lgE4XKf2JYWTIFfgqg_-GW7Q",
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
-         "scope" : "GOOGLE",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "Hotel Acacia Inn, 218, Bapu Bazar, Pink City, MI Road"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 26.896621,
-               "lng" : 75.72513499999999
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.89797082989272,
-                  "lng" : 75.72648482989271
-               },
-               "southwest" : {
-                  "lat" : 26.89527117010728,
-                  "lng" : 75.72378517010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "f20daab9fd42311bfa92c4eb8032768a6db3482e",
-         "name" : "Green Chillies Restaurant",
-         "opening_hours" : {
-            "open_now" : false,
-            "weekday_text" : []
-         },
-         "photos" : [
-            {
-               "height" : 270,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/106783313809318008035/photos\"\u003eGreen Chillies Restaurant\u003c/a\u003e"
-               ],
-<<<<<<< HEAD
-               "photo_reference" : "CmRZAAAAvOjUgzLf4BN5WN_ca8GE9AJAq8jzhj0W28M7i9s1esBdJehoVvua2mJL2SHf2BUvK90DmlBYedqC5EWVn92pQ7Cw5GtHyZcNMnQlUqaDTGzpMRcOUOVanHwn_R897eFrEhCGlZ43LCv2CpmTmLHCKlRxGhS_iQVLq3NEdmBFRgueod7ug2sY1w",
-=======
-               "photo_reference" : "CmRZAAAAE9sokGUaSHN3vSwiyD9NiOXUCMIlE4U5TXbqIGkwASNtEQqM0xjG7XU01_F7cHTVX2JwHF9cLN62W0-xFG3BWHeRTXw6eWHJmVGE8qjML-OXqSaB5qxcs_NLsrAdClIDEhAHAKOZSUNS2zwMmXjjms0pGhR6KUkjGGwh2taaS7hQyqaVS_DT1A",
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
-               "width" : 480
-            }
-         ],
-         "place_id" : "ChIJVwx-hLC0bTkRF-sFZKU5oy0",
+         "place_id" : "ChIJ1z4m7g_nazkRDz0vnHgEPE0",
          "rating" : 4,
-<<<<<<< HEAD
-         "reference" : "CmRbAAAA-A-cxh8cCjmA_Zg79yaPfkqlkpVZTzLU3oQBE7mR4focYffv3Ici-JzHSyKKfeUCONEanFgkvQ4n65iFPUPNdtyiftiNdlpMZdt0FpxlVEIqs8Y6M5dy45Fh5wV1yG-sEhAd7tPELE5AOKKTpg4RP-XRGhQZySpr1oYmrqBhVrQ6Y1YTVSDjDQ",
-=======
-         "reference" : "CmRbAAAABtTNy5MHs4OY2eNxB_vw2EVEI30LxxkC2hqvKB59WKJGjK--Bpp4O5hMXkqdxDPnsr2wxviowAeTzLALiLyKoWH4ChgpTTgtb3U-DzL9-uFco3fCWkpS1f4p3G1upZAjEhCWjIt7F14HJCSW_-uWCkEdGhQdK8a6U2PEe8Z4SB7YvG8mXkoFpw",
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
+         "reference" : "CmRbAAAA_i0YOGt0_a_atOUSiy6VBwUYHFQm3zws3r4HtPhWf9uXKidYT9a2yYDsJQ1Bopl0iSPcNJwp91dJrVchby3tQzzvVOMFWWNfnBdZ3Q5HLZJhIXe1vJNW3FirdRTiAwxcEhBK1V8ZtoP220o4fbdu65DzGhTwWryFJhxeUHPuEnbl5PAS6CoRhQ",
          "scope" : "GOOGLE",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "D-6, Evershine Tower, Amrapali Circle, Vaishali Nagar, Jaipur"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 26.854695,
-               "lng" : 75.78711
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.85604482989272,
-                  "lng" : 75.78845982989273
-               },
-               "southwest" : {
-                  "lat" : 26.85334517010728,
-                  "lng" : 75.78576017010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "e372af5a1476db2c343d9cb3937e18ac8a8f0ed3",
-         "name" : "Radhe Brijawasi Veg Restaurant",
-         "opening_hours" : {
-            "open_now" : true,
-            "weekday_text" : []
-         },
-         "photos" : [
-            {
-               "height" : 1152,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/108710600158062353484/photos\"\u003eRadhe Brijawasi Veg Restaurant\u003c/a\u003e"
-               ],
-<<<<<<< HEAD
-               "photo_reference" : "CmRaAAAAGzOUMY4nQ7kQZvtg1VaYvI6grs46MM1S8HLZzJ4cckm9CcMToKdIUkrL_PtS8oRp6QZ850ncfIzbeG0g906V5qM-UaYovOH4SjxyIpdpT1ksNXFmHp9tyk-WxmN5ven3EhAHEs0CuGmpK1KPTw2K0QjrGhRfooTPUn2VH2l1_-5rW8ZsKLW0bw",
-=======
-               "photo_reference" : "CmRaAAAAbW6q2lQheUei56WBVqDV6iXKLA9rPehco--eK-Bkc2TBoKhlFw9261lynsJuOjf9AEm2ST1pZJ731Ga2WG-0Ubj2WAgxsrgxDnvMVd3JV4kyPDADIJ0MwoB2Td49SwGpEhAShQU1Q1PBdiiIhRDTPxi5GhQ7UWNpq0PSkl5W0p5rpgTwQWxedg",
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
-               "width" : 2048
-            }
-         ],
-         "place_id" : "ChIJu6qq08a1bTkRt9VC9ODOetM",
-         "rating" : 5,
-<<<<<<< HEAD
-         "reference" : "CmRbAAAALJjnrrBvf9NDfrYjyOBQnZNEdkbTJIZqgd886U7kf0sbr3p83bUoyiNv7cUGPENiDbb8biFe9s3oTfGT4ehdwWJZAMZj9vDU49Lsl388Hxj63j8MtuzHROyhE0_BrqkxEhB8oCKK3ohZFsApIiubEWUzGhQD02Rivh5Dr7aCnj6E0O_EqBQykA",
-=======
-         "reference" : "CmRbAAAAj_R_FY4P9UUCKJvy7pLl-SvfaWirDGJiNvM0ju0t6Q_d1kTdzBaG8FcAk8gRjkLmpekbNR80vj0SUTMJ_UARPuzHW-YHvQs7IGHKhFbxNC0ECNnzaZqkutCV8T2OPU3_EhBUzysIBxSchbAd1gS-HXlOGhSi_fjoA3xM9ZFxK_Lx_jB9dzWwIQ",
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
-         "scope" : "GOOGLE",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "Shop No 50 & 51, Maharani Farm, Near Durgapura Railway Station, Durgapura, Jaipur"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 26.91707,
-               "lng" : 75.82324
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.91841982989272,
-                  "lng" : 75.82458982989273
-               },
-               "southwest" : {
-                  "lat" : 26.91572017010728,
-                  "lng" : 75.82189017010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "d49b149ad1afc2d28c7a56cc5b1a143ee612068e",
-         "name" : "Indra Lok Restaurant",
-         "place_id" : "ChIJyd2G67O2bTkRRz_XTFhWH9M",
-<<<<<<< HEAD
-         "reference" : "CmRbAAAAWlpKovc8RwpY3scZQCaCnewURdn9a6Xqwddaqlna6GC3LiMmH9Hvb3PWjeoZEYM2wXTsd6DwPTvbnSyImhz0YSVoxDXQqgwCYDEL_saJIjI4N0ficfC_6VKQlPmdn6oAEhBPEVejHfSCUnI4DPRpG7cJGhRfF80vsmWYq_86yq4ZtyRwJSsaBA",
-=======
-         "reference" : "CmRbAAAAM7lYx7q3ZbsDbiV1O_oMslnCMQdyNe43FAp9uG_YsgiHxW2USASzQENzFwoc_rbd9EuRd-KRXx6M0KCaThLazb4qhNYgG7SOGo43F7PKLwlZLvRH3XwYNiqxd5lFLV4wEhApfeHKwZDuJbloVW4mx8BFGhQO_R3uNPphOxZk-cTo3g8r4rzACA",
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
-         "scope" : "GOOGLE",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "Dhula House, Bapu Market, Near Dhoula House, Bapu Bazar, Jaipur"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 26.9161975,
-               "lng" : 75.8052577
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.91788507989272,
-                  "lng" : 75.80668147989272
-               },
-               "southwest" : {
-                  "lat" : 26.91518542010727,
-                  "lng" : 75.80398182010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "9378630bd88f2c5d8f5a3ba717efbaa8520f67ce",
-         "name" : "Marigold Restaurant",
-         "opening_hours" : {
-            "open_now" : true,
-            "weekday_text" : []
-         },
-         "photos" : [
-            {
-               "height" : 3918,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/118242393461941024845/photos\"\u003eA Google User\u003c/a\u003e"
-               ],
-<<<<<<< HEAD
-               "photo_reference" : "CmRaAAAAwZdDCSjZKO8-b5hVxXBv-h3ncwyD_4jSHUC9hW3KtA9WJ8xj68P4JbpoSJ4hDyXROdz53Wfk1k1IPoWyesv3bjRvBdTX2SEZ388cjeaE9rCO8FVVd5ez88xL_FCnfvX9EhDRLkboYhHAc01T_FjwQfhvGhS7zBKrtDHJUOo21D0wbP5KTCFAvA",
-=======
-               "photo_reference" : "CmRaAAAADskh4ik9q7nxIQvc4I3Ay2RBRgzxKCQShDbAY8BX9ScQC5Ier1HGFyEgyHY0lKgjQ4Ifhxr_TPCyugKcvFrh8PCwlY75cAn-zeDjlS_m8VIx_W6LsBS4VuTliOPw_7ZKEhCjdcRlke8_oeDUaAvexvYrGhQgJuaxUQsxwm93pubKyx_WkwgnkA",
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
-               "width" : 5812
-            }
-         ],
-         "place_id" : "ChIJw6B5twG0bTkR31zs2Srut-A",
-         "rating" : 5,
-<<<<<<< HEAD
-         "reference" : "CmRbAAAATHWWFVU3Roc3VIuZ84JxQwl3QtA_g5BEoHb6nIQKeQxHouhrlU-82x_3ms9ghEEwu9sYJu844noRLLvfL_UlUvx_cnWznB31TEheDA34ffoSvZ2qiTk27VyFAY_8xIcTEhBfBNG3AC6ZTfXt7wLmGSRCGhRk4LyAwt4C2ERlvJShU1iHcb-AHQ",
-=======
-         "reference" : "CmRbAAAA6aEP-EkpgtZM3ztIrPX7KT5FMSB93H5GjX8zFA9ARy2smq13FwlePHX9YaxlnwfrgFYT5FH6QPkhezPGG-DkoaW-RwgkvWOeGJ9PIQZ3_irUzicoAPGNzDZR_0gB5vpPEhAAGuAkakGJwfr9vXHSRz7SGhSyDqQYYyuxSi_xVjBg8meyPlfjWg",
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
-         "scope" : "GOOGLE",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "MI Road, Panch Batti, C Scheme, Pink City, Jaipur"
-      },
-      {
-         "geometry" : {
-            "location" : {
-<<<<<<< HEAD
-               "lat" : 26.9156222,
-               "lng" : 75.80628449999999
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.91697202989272,
-                  "lng" : 75.80763432989272
-               },
-               "southwest" : {
-                  "lat" : 26.91427237010728,
-                  "lng" : 75.80493467010727
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "15e46ff3b85d20e275601995be923bdbe4058cff",
-         "name" : "Midtown Restaurant",
-         "opening_hours" : {
-            "open_now" : true,
-            "weekday_text" : []
-         },
-         "place_id" : "ChIJhbRr3QG0bTkRQa69XaxhCFA",
-         "reference" : "CmRbAAAAGpHJcpQGidErFJJHslcGEFdDGTS-31MiX8HgpeDTujD4SSYXoqN6aj_89GR6TvyPWGegqX6pL7vkB6H7wXBbM42pIpHocIHzzeP6RRw2XiGIEJhk-LkTwpaGQ3W6LvKsEhCYgAw2cIw7_Y6D-4g2bXuTGhT7TgBvwfa4n-KQoWRmPOyuOJft1A",
-         "scope" : "GOOGLE",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "C-93, MI Road, Panch Batti, C Scheme, Ashok Nagar, Jaipur"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 26.8824346,
-               "lng" : 75.876863
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.88377897989272,
-                  "lng" : 75.87820532989272
-               },
-               "southwest" : {
-                  "lat" : 26.88107932010728,
-                  "lng" : 75.87550567010727
-=======
-               "lat" : 26.8507475,
-               "lng" : 75.7962187
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.85209732989272,
-                  "lng" : 75.79756852989271
-               },
-               "southwest" : {
-                  "lat" : 26.84939767010728,
-                  "lng" : 75.79486887010728
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-<<<<<<< HEAD
-         "id" : "fe077ecb6161dad151f4ba7ffa5d7a904992a563",
-         "name" : "Kamini chat centre and restaurant",
-=======
-         "id" : "7c483f9b1890de8243780df1a603d18720c3bcf9",
-         "name" : "Surya Mahal Restaurant",
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
-         "opening_hours" : {
-            "open_now" : true,
-            "weekday_text" : []
-         },
-         "photos" : [
-            {
-<<<<<<< HEAD
-               "height" : 405,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/114704367584532274130/photos\"\u003eRavi Kumar\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAA2eJ6xk9KTv5x-QSIXX3Y08igFnH2aZ3Pv49JLEXKxDYMAHkwyjh-rotscbLB67oPwL2qWIhhWfI_amNUG_lrCFcXD2RngUbOw1Pj0LNZs558aiOTtUbFmRnR3uWJc8Y1EhDqJQsy0iIZAzGaYuMmm8snGhS5SjKb_7D4lD950slAiMuVDXBaHw",
-               "width" : 720
-            }
-         ],
-         "place_id" : "ChIJVQ2QNXW3bTkRmz-FA61T2ks",
-         "rating" : 3.4,
-         "reference" : "CmRbAAAApx-tsCGPsQ9DG9flxhocEvv3iZCCZiskk_BMU2GuI8YXsK8VXu17smNKMqMhcRRoRvZhtkPhKwhA0uRvRu3xIg19ScMDODc-RjDjY_3quHmAkxdddlwzq2nSuuIhN78TEhB2cvPhjnZhRr-ezcDl3p7GGhTePf3iyF_baV1XKJMr2bsPO_uXGw",
-         "scope" : "GOOGLE",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "A 20, Goner Rd, Bal Nagar, New Khandelwal Nagar, Kareem Nagar Vistar, Jaipur"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 26.85192,
-               "lng" : 75.811695
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.85326982989272,
-                  "lng" : 75.81304482989272
-               },
-               "southwest" : {
-                  "lat" : 26.85057017010728,
-                  "lng" : 75.81034517010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
-         "id" : "49d350e7fc28a7becc5bdd3ab793ac7630bb445f",
-         "name" : "Ketli Restaurant",
-         "opening_hours" : {
-            "open_now" : true,
-            "weekday_text" : []
-         },
-         "photos" : [
-            {
-               "height" : 2330,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/110430669794177864309/photos\"\u003eNeha Kokcha\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAnmw4KAP_wNAIS0sX7LQfYyvssOubZB69epLTNYhXK3abvpYZhOtp6Tb1SvYWOx2pKvXHk39p8EcBSLB42yFAJcCM5VI7xKmvvii4wLok6KsUYkZ55qaiM7WH6Ml_a1GHEhBQn7LN_CeajpsRUHNHBUv6GhTAPaspclV6h359wOSz96w8ScOkXQ",
-               "width" : 4122
-            }
-         ],
-         "place_id" : "ChIJO-R3unS2bTkR4_RvRajTmXk",
-         "rating" : 4,
-         "reference" : "CmRbAAAA8XPBS9HPTB6wxYSOs3t0j5vNFXgMalyHwKAz3uQAsXc_Q-aPcm6Jlamn9rVHJKTQmSjsR6_TLesYkARURicPoMxWUL6wd-MkA-f4mnATpSDELv3V8G20MBrcUqsg1TaCEhAGreuII9YTKOlaF_cqAe_LGhSwWKIMwKCRE57q6Bd5h10U1Nlu6w",
-         "scope" : "GOOGLE",
-         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "Plot No B 428, Near Old Dana Pani Restaurant, Pradhan Marg, Block B, Vidyut Abhiyanta Colony, Malviya Nagar, Jaipur"
-=======
-               "height" : 331,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/116840828240715711634/photos\"\u003ePulkit Garg\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAA7ue8rlVp36EExU6QIw_qOdxnQ2GvzvFGG6ZCRcYEiaIdAaUOHDO5HHGcmdrzs8RsAikT5lkAEKfLWChoyVbCt0wOjI5mTmAGdq0IAb7PJ3fAnYtI6uo8yOx6S9vu3O6WEhA4CXdrDmBVJTdQHjcuXYcwGhQunU70V7ZVsDjL7izNxswfSe086g",
-               "width" : 444
-            }
-         ],
-         "place_id" : "ChIJEXEpRN21bTkR2nBi7WntWoo",
-         "rating" : 4.3,
-         "reference" : "CmRbAAAAuGvzdzeWxHseZbG0b1lE24GnqUzmGGCMUBvVqeVB3HG5wS3yjyGicoRzb-PZj2wKoHxqyPNmnw87oyqHDtBRYJ4JuTjr7xfyG7ybYlmGa8zClaRSs9iYQm-qI1kFTOGzEhA31B9axTBihm1bgjjx7y5fGhTuolrMk191zP0t64351OveCpqk2Q",
-         "scope" : "GOOGLE",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "2nd floor, Surya Mahal Tower, K 44, Lal Bahadur Nagar, Arya Vihaar Colony, Income Tax Colony, Milap Nagar, Jaipur"
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 26.9194182,
-               "lng" : 75.7370887
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.92076802989272,
-                  "lng" : 75.73843852989273
-               },
-               "southwest" : {
-                  "lat" : 26.91806837010728,
-                  "lng" : 75.73573887010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "ec84dcad8f54b233c02fc6facd0e49fd7f331329",
-         "name" : "Bikanervala",
-         "opening_hours" : {
-            "open_now" : true,
-            "weekday_text" : []
-         },
-<<<<<<< HEAD
-         "place_id" : "ChIJ76G0RgevJzoR0Tqw5Ge_Ths",
-         "rating" : 5,
-         "reference" : "CmRbAAAAOr1pTR5GGbbFB_sMTSSkbFDL3ls6sUjk8qCKinwngL2-QQTuuUkCjiMkXLtRRnnFWFUwT8Mdycl2QUm796tRCWEa-KfvZioJAn4d90qRsxt7Qnu-MKtFH_wYi_GKthh6EhDXgYdZCk8bEoN3yQUmYGwXGhTmSs2a8XnZfu_LT7LIttqD9VAZbQ",
-=======
-         "place_id" : "ChIJhbRr3QG0bTkRQa69XaxhCFA",
-         "reference" : "CmRbAAAAMj835mldPtH1OKyxvzNxzBDHj_fvEsIUrBlbNetVW0Zjk1tIWYvMApM_U7mFSBhsJsXoVkwOnhOWNOkhABxih2GqBNQpmca5B9_y0_1V_nuwyAPB92NNn_zrL8Ctb2gPEhAkdEcWyOj1Y-NtD-fUP_LDGhRcD07dQ5JUZ-nhAuW25qoZTToViQ",
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
-         "scope" : "GOOGLE",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "Plot Number 4, Ashram Marg, RFC Colony, Hanuman Nagar Extension, Krishna Nagar, PWD Chowki, Jaipur"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 26.875603,
-               "lng" : 75.775623
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.87695282989272,
-                  "lng" : 75.77697282989273
-               },
-               "southwest" : {
-                  "lat" : 26.87425317010728,
-                  "lng" : 75.77427317010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "14546b635190a8f968814de374d8a257fcf71ca8",
-         "name" : "Jimmy John's",
-         "opening_hours" : {
-            "open_now" : true,
-            "weekday_text" : []
-         },
-         "photos" : [
-            {
-               "height" : 960,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/108256760974251618324/photos\"\u003eJimmy John&#39;s\u003c/a\u003e"
-               ],
-<<<<<<< HEAD
-               "photo_reference" : "CmRaAAAAI_Qf2WIRT36xeCH-xgyZJaKbJ6JpCQt4Hq3rZnZjQzlS0KDK633Y0yNKnUB0Fex2vdDjWqD67iCB2aErEGTVadNu269ACbakDQZJYtlzBa5SYZAa4HPdQrpSfge0YpbXEhDxV1I1Dm5Wy6yaIr39s-3oGhQXrbGrIivjOt9DlvXD_WqZ2fnt5g",
-               "width" : 1280
-            }
-         ],
-         "place_id" : "ChIJ6fINMEy0bTkRNvehWWuWZRs",
-         "rating" : 3.7,
-         "reference" : "CmRbAAAA0WZC5tzJqcinFnPUKyCPbxo9wnxXobnkclE3GNN8BkES05UrkvAtECgM9JbwejBVO9zCC9uWtXCkfuO-qBxSrjM3Eb2D0eA-Jd5yy85u_7THfCyMrYrmeBBnW56bDbtKEhAW9kiPG0bbrctamIWb6DpqGhRw2Ksp_7_FBGV4ZUbxsqYl4GlxpQ",
-=======
-               "photo_reference" : "CmRaAAAAljg51lK62WcYJ7KN7K6fyhQfWkTH4pdgVsvleHwNTAXpd9Auhsh9q4JJcfRF6IFaZb_p_D9Fn8UuRlrr0roT6sGT5sPTDXuZEqvs7f2wOtA2I1POXippiq71jWFY-QMuEhBxJKxjxgaZgCFra92x4bSsGhRXkD4FH2Oii16BchEFIvBhinILBQ",
-               "width" : 720
-            }
-         ],
-         "place_id" : "ChIJVQ2QNXW3bTkRmz-FA61T2ks",
-         "rating" : 3.4,
-         "reference" : "CmRbAAAAZiI5ll7PeVDq2UZknfYMxExZckoc2F1FWJ4jcAnXJj87M0D0CwRF_Fiycpa476fo9YG471yBu704-N1tVX4PdMJqCIs7cd5gCISb0GUQYQq_Vs5CTwU2muNzmguGigjnEhCLM6X0VERFhgOYnsVxvXn3GhStC3PsLhmJNBY7bfuORwwVWxp1nw",
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
-         "scope" : "GOOGLE",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "Plot No 12, Ganesh Marg, Surya Nagar, gopal pura by pass, Jaipur"
-      },
-      {
-         "geometry" : {
-            "location" : {
-<<<<<<< HEAD
-               "lat" : 26.970633,
-               "lng" : 75.7722622
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.97198282989272,
-                  "lng" : 75.77361202989273
-               },
-               "southwest" : {
-                  "lat" : 26.96928317010728,
-                  "lng" : 75.77091237010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "170757d0ef72842752aa39f53e4507f1a14ebca0",
-         "name" : "Taj Hotel",
-=======
-               "lat" : 26.85192,
-               "lng" : 75.811695
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.85326982989272,
-                  "lng" : 75.81304482989272
-               },
-               "southwest" : {
-                  "lat" : 26.85057017010728,
-                  "lng" : 75.81034517010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/cafe-71.png",
-         "id" : "49d350e7fc28a7becc5bdd3ab793ac7630bb445f",
-         "name" : "Ketli Restaurant",
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
-         "opening_hours" : {
-            "open_now" : true,
-            "weekday_text" : []
-         },
-         "photos" : [
-            {
-<<<<<<< HEAD
-               "height" : 4096,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/114990751946687986110/photos\"\u003eHimali Chandwani\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAJDRdQ2YmHMSiNhcjG6yVgxmXmNPYexh6KDAwlel7hHH7acv5Y_GNOpvt0P4A9LbKdLp3tQpjP5wxUze7yJFvOzna_fPKL6k2ciQZhMqfOzmzkbQ72kPaHFNCBNjMs1EoEhARdV0q46eBBdLJJIsNAewDGhRVwYS8biaN0EaTowH0PX59-0lgLw",
-               "width" : 3072
-            }
-         ],
-         "place_id" : "ChIJzwUQKU6ybTkRLtlZ08jnRug",
-         "rating" : 4,
-         "reference" : "CmRbAAAAvXJ0Aonu3yw1c-dPIJU2bcWX_rU8a8uB4c04n2y0jRmZAhbuJc5vXJKyxLMalwjMAJadGMB-FcxRi3yRru1kdvdFNylF9706c-8SEjGyozaEkkutuRyvueSKLEFFFPsGEhDN6D4QIYDwrRRhpxpBjsMrGhTWqz6p4u_b7DmWiZMYPgqNDqtK4Q",
-         "scope" : "GOOGLE",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "Jaipur, SONI KA BAG, Murlipura, Jaipur"
-=======
-               "height" : 2330,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/110430669794177864309/photos\"\u003eNeha Kokcha\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAT-mLf9MR30WRlpG4t_bRMkr6e-DbR17UopmkiUI0d4y6nkcSBt-s5EaKC6frSAKEZEwW6XiGkYR5-zlqQuK93YyLviUP5TegCyxxW72OovqCShXPOuZSd39_tC2nRPdzEhB1c1a78b-8h8zbV7mIFneZGhT8pm1rbWemVyLUgatj4JWBGflfQQ",
-               "width" : 4122
-            }
-         ],
-         "place_id" : "ChIJO-R3unS2bTkR4_RvRajTmXk",
-         "rating" : 4,
-         "reference" : "CmRbAAAAxd9-7PhSes183vfwQQSfH64cyyFzQshBlR8AARJ1xRj6UhQsvdAs_22BVevZgVgDU-CmBil4RyWFhV9tA1U70pWN4cOKdx5IgNvSj7ecezxamqXGGTsnC6VXckafxTMnEhAq_iRhzrom7NYsRsKZ0wxLGhQxXHzqeldaCG8CdeW47uIV0wNssQ",
-         "scope" : "GOOGLE",
-         "types" : [ "cafe", "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "Plot No B 428, Near Old Dana Pani Restaurant, Pradhan Marg, Block B, Vidyut Abhiyanta Colony, Malviya Nagar, Jaipur"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 26.9194182,
-               "lng" : 75.7370887
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.92076802989272,
-                  "lng" : 75.73843852989273
-               },
-               "southwest" : {
-                  "lat" : 26.91806837010728,
-                  "lng" : 75.73573887010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "ec84dcad8f54b233c02fc6facd0e49fd7f331329",
-         "name" : "Bikanervala",
-         "opening_hours" : {
-            "open_now" : true,
-            "weekday_text" : []
-         },
-         "place_id" : "ChIJ76G0RgevJzoR0Tqw5Ge_Ths",
-         "rating" : 5,
-         "reference" : "CmRbAAAAivMj24KxbmMc3lEi2PehzZtgguDhDmqqqUnBSlXeCZXTANJg0MlortNAvz2aKGeyjbi0KA-A80TuKjNMnUMMCTJzFjzzJmQGsByP5RbbD6JQAP3CtXVj-3NAsvJ3JK8iEhCY0kcR3lG1CveH3Z8G8PtYGhQ1qxtUKYV8PZf_J25J1p8gkJgedg",
-         "scope" : "GOOGLE",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "Plot Number 4, Ashram Marg, RFC Colony, Hanuman Nagar Extension, Krishna Nagar, PWD Chowki, Jaipur"
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
-      },
-      {
-         "geometry" : {
-            "location" : {
-<<<<<<< HEAD
-               "lat" : 26.853505,
-               "lng" : 75.805285
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.85485482989272,
-                  "lng" : 75.80663482989272
-               },
-               "southwest" : {
-                  "lat" : 26.85215517010727,
-                  "lng" : 75.80393517010728
-=======
-               "lat" : 26.875603,
-               "lng" : 75.775623
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.87695282989272,
-                  "lng" : 75.77697282989273
-               },
-               "southwest" : {
-                  "lat" : 26.87425317010728,
-                  "lng" : 75.77427317010728
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-<<<<<<< HEAD
-         "id" : "ee96f448936da7212d15475aa0cf481f3f9a8e57",
-         "name" : "The Yellow Chilli",
-=======
-         "id" : "14546b635190a8f968814de374d8a257fcf71ca8",
-         "name" : "Jimmy John's",
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
-         "opening_hours" : {
-            "open_now" : true,
-            "weekday_text" : []
-         },
-         "photos" : [
-            {
-<<<<<<< HEAD
-               "height" : 2592,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/118043811720022832102/photos\"\u003eTweak it like Tasha\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAnic6DKDFk68BXbF8_fAubaZHOYjO9ujKKUN41-Stt0RMncQnO4oy5qB1huty8NKhChg3bOxvjooivfxXMx55OhFUC4iJnwBMlpwc6GSRPENGyRQsfbT1ckhEPcZERB7iEhCiQcOKLoygiQ-TRidek0uoGhQNjaC4Faa19VlRvcDdwphiHeKeww",
-               "width" : 4608
-            }
-         ],
-         "place_id" : "ChIJm7sSod-1bTkRXDEemOk6J58",
-         "rating" : 4,
-         "reference" : "CmRbAAAAHz8sBhuxTK4DZcpKfepKfWsh2r8AE87yljuwu39rSY5A7HVpax60KDL_E3BJ2h8aQYVEcjpAtFNDMLQ7eEgY8XuW1lnayPO5guN2efsiUMkLcufZNiplKui3yQkx3YeCEhBHeRYoP9wsTHQg-B30ffpaGhQShVvmZiJ5P_H3q7E3RXD1hNb_FQ",
-         "scope" : "GOOGLE",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "D-Block, Malviya Nagar, Jaipur"
-=======
-               "height" : 960,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/108256760974251618324/photos\"\u003eJimmy John&#39;s\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAJta-qbc7M5Gs__K9pJXCXCXH7LdKKzHHw-S5uZHGpiUFsoBBgGllSOZVPIrquM2wDP4d3MIeU8XK0mxb9p5anTAvd39c2RacV2VUzUNTgTA_SHYTe5kTERrQ3MFMDDrrEhCbJhMJGjFihg5PJf5akGfTGhQYaKeuKgz0oQffmIIsonUPpoQ99A",
-               "width" : 1280
-            }
-         ],
-         "place_id" : "ChIJ6fINMEy0bTkRNvehWWuWZRs",
-         "rating" : 3.7,
-         "reference" : "CmRbAAAAtIeNwBxFtnoT2EsAaU4w4y04PdtJ_WY5YK75P-Rkm19yeGH3FfxM8iOcSsiB4aGZblt5DXki1xacU7RAssoh07dLe0Tt40KSOkB-QLsDrkr8jpSBiDYA7jS7aJYm0aaKEhDk8BxLo2w1FbgA97aGC_1mGhQkkVuhyMUlW4iIUmdpB17PWoIVeA",
-         "scope" : "GOOGLE",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "Plot No 12, Ganesh Marg, Surya Nagar, gopal pura by pass, Jaipur"
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
-      },
-      {
-         "geometry" : {
-            "location" : {
-<<<<<<< HEAD
-               "lat" : 26.9161773,
-               "lng" : 75.83339909999999
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.91751137989272,
-                  "lng" : 75.83482272989272
-               },
-               "southwest" : {
-                  "lat" : 26.91481172010728,
-                  "lng" : 75.83212307010727
-=======
-               "lat" : 26.853505,
-               "lng" : 75.805285
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.85485482989272,
-                  "lng" : 75.80663482989272
-               },
-               "southwest" : {
-                  "lat" : 26.85215517010727,
-                  "lng" : 75.80393517010728
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-<<<<<<< HEAD
-         "id" : "2edd83178b1f0c1b3b8e67bbad9518119f675d7b",
-         "name" : "MK Restaurant",
-         "opening_hours" : {
-            "open_now" : true,
-            "weekday_text" : []
-         },
-         "place_id" : "ChIJzeL7ecm2bTkRe7ZeUqodtOk",
-         "reference" : "CmRbAAAAf1BdNBGEgYYk1ueIarc2f5cGE0Eag72bx3ThRiZiOxLOclcE7AiW8M5kgy_wz77-iRlzsgKhBi30alu1cqxhGdPh8izrIzwZJZXRuXjRToM_vO4VtuK9_a8vTL51TZ_WEhBEg6rn9HE1P4cxYRAhW6XhGhS3eYnT2jvY5zkke4t4wGcTg7BaKQ",
-         "scope" : "GOOGLE",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "267, Ghat Gate, Ghat Darwaza Bazar Rd, Ghat Darwaza, Jaipur"
-      },
-      {
-         "geometry" : {
-            "location" : {
-               "lat" : 26.8581259,
-               "lng" : 75.7696251
-            },
-            "viewport" : {
-               "northeast" : {
-                  "lat" : 26.85947572989272,
-                  "lng" : 75.77097492989272
-               },
-               "southwest" : {
-                  "lat" : 26.85677607010728,
-                  "lng" : 75.76827527010728
-               }
-            }
-         },
-         "icon" : "https://maps.gstatic.com/mapfiles/place_api/icons/restaurant-71.png",
-         "id" : "ec0126f3a51d953e9a73d5ed1a27717890f2bfeb",
-         "name" : "Rajdhani Restaurants",
-         "opening_hours" : {
-            "open_now" : true,
-=======
-         "id" : "ee96f448936da7212d15475aa0cf481f3f9a8e57",
-         "name" : "The Yellow Chilli",
-         "opening_hours" : {
-            "open_now" : true,
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
-            "weekday_text" : []
-         },
-         "photos" : [
-            {
-<<<<<<< HEAD
-               "height" : 3120,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/113939541540851099231/photos\"\u003eA Google User\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAAhjIqXDHQw-eLHZ_hYJgMPtGdlcySI4wLbSV0Zqfi2uAaD4pgVZ6jzVqge5qJ6q0KjdjIXgyhrzAz47EtgudKztIPaSEOJ6uqYtv7QUmY8jUgIrK3ncAMQAXn5q2qHCypEhDlhCvA7xZYNPXBFgQDRQCKGhRy8qh5emEd1xDaOsOw5LJxP8A9VQ",
-               "width" : 4160
-            }
-         ],
-         "place_id" : "ChIJC6Qfupm1bTkRfnszYKwGmJU",
-         "rating" : 3.5,
-         "reference" : "CmRbAAAA_rZngm1NU4llyJO_zcHMDUVJn26HNvucqOGMU95oa-z1dcqgXq1L-6zhd2M42WCm0_B5mO-9rJ1ZhjHORETbcMxqFrodKskDSlyKq0etMktSIehHlRvtABhh9jQHLVFeEhCPronzx0lx4Z-oJbzyjkZkGhTfn4jlPpYK639gZJK_nyvwPH4SCg",
-         "scope" : "GOOGLE",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "124/277, Near Thadi Market Mansarovar, Jaipur"
-=======
-               "height" : 2592,
-               "html_attributions" : [
-                  "\u003ca href=\"https://maps.google.com/maps/contrib/118043811720022832102/photos\"\u003eTweak it like Tasha\u003c/a\u003e"
-               ],
-               "photo_reference" : "CmRaAAAA6kHpFV-n_569fxiSdKzaVerrdv1dAgYhAUCya9N4-ZxdXvfHu3zMrLFpw3Zhs3w3L5ilXUYz4WsDQRvIUaujNdHOEQyGDEwRakCX9wTAJO2P23i8kufdbSgQ_oZCAD7qEhDyWhkXF6uMtWFEpKqZmBaaGhSZA-_Mb_7xNN0FUVSZTRwMiK-psg",
-               "width" : 4608
-            }
-         ],
-         "place_id" : "ChIJm7sSod-1bTkRXDEemOk6J58",
-         "rating" : 4,
-         "reference" : "CmRbAAAADMxJSX0wphJ4Vi03I5J7uW2Ns4mGN9DTCmvNFdVczuogSCGn6XaOjskvV_2Fv-suWP9wGEhtsfkELXHDXvXMttRWgWmzy3LvmhBSp5Q1hMd6D7OMpNhTrSd0mEt8ba0REhBEdIcMXY44EcGxp-UWG3ERGhTPUZHPx9xGCUjb3NhG2CTGLnn78A",
-         "scope" : "GOOGLE",
-         "types" : [ "restaurant", "food", "point_of_interest", "establishment" ],
-         "vicinity" : "D-Block, Malviya Nagar, Jaipur"
->>>>>>> 4a0bb91a599e3644e2f3d6baf43ca2bb435f6116
+         "types" : [ "point_of_interest", "establishment" ],
+         "vicinity" : "Kumhar Mohalla, Ajmer"
       }
    ],
    "status" : "OK"
->>>>>>> 6fbdba5b10ec40f9c10e47d97b1e39eb84d8940e
 }

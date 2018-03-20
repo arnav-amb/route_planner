@@ -23,7 +23,8 @@ DONT_INCLUDE= ['travel_agency','shop','shopping_mall','store','market','business
 new_api = 'https://maps.googleapis.com/maps/api/geocode/json?'
 # api_key = 'AIzaSyAD0tsB11_bi7ofAvU-M2S459wmPRkOlYY'	#ANIQ
 # api_key = 'AIzaSyCOIE234Jzwqm1a6B-v3pNvdDNaiTyDR1U'	#MODI
-api_key = 'AIzaSyAqwxsqZQbDezGD_V-egxM4kxzm-0bpQ_8'	#DEEKSHA
+# api_key = 'AIzaSyAqwxsqZQbDezGD_V-egxM4kxzm-0bpQ_8'	#DEEKSHA
+api_key = 'AIzaSyDZFiMsWnSDFC5b0Vaqu1UY0rfSMYcNtnY'	#PAUL
 
 def get_places(CITY_NAME):
 	# INIT  only
@@ -52,7 +53,15 @@ def get_places(CITY_NAME):
 
 	near_by='https://maps.googleapis.com/maps/api/place/nearbysearch/json?'
 
-	places=['famous places','monument','premise','religious_places','shrine','zoo']
+	category= {}
+	category['famous places']='famous'
+	category['premise']='monument'
+	category['monument']='monument'
+	category['places_of_worship']='places_of_worship'
+	category['shrine']='places_of_worship'
+	category['zoo']='zoo'
+
+	places=['famous places','monument','premise','places_of_worship','shrine','zoo']
 
 	for i in range(len(places)):
 		#print(places[i])
@@ -83,7 +92,7 @@ def get_places(CITY_NAME):
 			except:
 				rating = 1
 			type_of_original = data['results'][k]['types']
-			type_of = places[i]
+			type_of = category[places[i]]
 			# Creating a Place object and storing it in a list
 			flag = True
 			type_of_original.remove('establishment')
@@ -96,18 +105,17 @@ def get_places(CITY_NAME):
 					list_of_places.append(Place(name, lat, lng, rating, type_of, CITY_NAME, place_id))
 
 	print(len(list_of_places))
-	return(list_of_places)
 
 	no_dupli=[]
-	for i in range(list_of_places):
+	for i in range(len(list_of_places)):
 		flag = True
-		for j in range(i-1):
+		for j in range(i):
 			if list_of_places[i].place_id == list_of_places[j].place_id:
 				flag = False
 		if flag:
 			no_dupli.append(list_of_places[i])
 
-
+	return no_dupli
 
 
 # x= get_places('Jaipur')
